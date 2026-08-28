@@ -1,0 +1,1009 @@
+Drug_Reference_ID,NDC,Drug_Name,Generic_Name,Brand_Name,Strength,Strength_Unit,Dosage_Form,Route,Manufacturer,Drug_Class,Active_Flag,Effective_Date,End_Date,Source_System
+DRG00001,26801997786,Ozempic,Semaglutide,Ozempic,25,mcg,Cream,Oral,Meridian Pharma,Endocrine,Y,2025-02-11,,DrugReferenceHub
+DRG00002,15035164887,Glucophage,Metformin,Glucophage,100,mcg,Capsule,Oral,Meridian Pharma,Respiratory,Y,2024-09-09,,DrugReferenceHub
+DRG00003,67124608759,Lipitor,Atorvastatin,Lipitor,20,mg,Capsule,Subcutaneous,Summit Therapeutics,Respiratory,Y,2025-09-21,,DrugReferenceHub
+DRG00004,18083108393,Prinivil,Lisinopril,Prinivil,5,mcg,Suspension,Subcutaneous,Summit Therapeutics,Lipid Lowering,Y,2025-11-05,,DrugReferenceHub
+DRG00005,78929224734,Norvasc,Amlodipine,Norvasc,100,mg/mL,Solution,Inhalation,Atlas Medications,Lipid Lowering,Y,2024-10-27,,DrugReferenceHub
+DRG00006,92859713640,Cozaar,Losartan,Cozaar,5,mcg,Inhaler,Inhalation,Evergreen Labs,Antidepressant,Y,2023-06-27,,DrugReferenceHub
+DRG00007,93381483220,Prilosec,Omeprazole,Prilosec,250,mg,Tablet,Intravenous,BlueRiver Pharmaceuticals,Lipid Lowering,Y,2024-05-25,,DrugReferenceHub
+DRG00008,51498372568,Neurontin,Gabapentin,Neurontin,40,units/mL,Injection,Intravenous,Meridian Pharma,Antidiabetic,Y,2023-09-14,,DrugReferenceHub
+DRG00009,18032796468,Synthroid,Levothyroxine,Synthroid,500,mg/mL,Suspension,Subcutaneous,Summit Therapeutics,Antidiabetic,Y,2024-07-08,,DrugReferenceHub
+DRG00010,69287415359,Zoloft,Sertraline,Zoloft,50,units/mL,Cream,Intravenous,BlueRiver Pharmaceuticals,Antibiotic,Y,2025-04-02,,DrugReferenceHub
+DRG00011,64375X09240,Crestor,Rosuvastatin,Crestor,5,units/mL,Cream,Transdermal,Evergreen Labs,Antidiabetic,N,2023-06-24,2025-11-16,DrugReferenceHub
+DRG00012,73825238231,Lexapro,Escitalopram,Lexapro,100,units/mL,Capsule,Topical,Atlas Medications,Antibiotic,Y,2024-01-10,,DrugReferenceHub
+DRG00013,12664783645,Singulair,Montelukast,Singulair,50,units/mL,Inhaler,Subcutaneous,Beacon Life Sciences,Endocrine,Y,2022-03-08,,DrugReferenceHub
+DRG00014,33808260085,Cymbalta,Duloxetine,Cymbalta,5,units/mL,Injection,Intravenous,Redwood Pharma,Gastrointestinal,Y,2024-12-12,,DrugReferenceHub
+DRG00015,68484176329,Plavix,Clopidogrel,Plavix,250,units/mL,Injection,Oral,Summit Therapeutics,Antidiabetic,Y,2023-12-18,,DrugReferenceHub
+DRG00016,47253753474,Protonix,Pantoprazole,Protonix,40,mg/mL,Tablet,Transdermal,Evergreen Labs,Antidiabetic,Y,2023-11-04,,DrugReferenceHub
+DRG00017,23885768970,Microzide,Hydrochlorothiazide,Microzide,10,mcg,Patch,Subcutaneous,Northstar Pharma,Antihypertensive,Y,2024-02-18,,DrugReferenceHub
+DRG00018,77464349998,Eliquis,Apixaban,Eliquis,5,units/mL,Inhaler,Transdermal,Atlas Medications,Antibiotic,Y,2022-11-12,,DrugReferenceHub
+DRG00019,52238926923,Jardiance,Empagliflozin,Jardiance,5,mcg,Tablet,Inhalation,Northstar Pharma,Endocrine,Y,2024-05-24,,DrugReferenceHub
+DRG00020,40802338292,Januvia,Sitagliptin,Januvia,50,units/mL,Patch,Transdermal,Atlas Medications,Neurologic,Y,2024-12-25,,DrugReferenceHub
+DRG00021,77675552758,Lantus,Insulin Glargine,Lantus,250,mcg,Cream,Oral,Summit Therapeutics,Lipid Lowering,Y,2023-05-27,,DrugReferenceHub
+DRG00022,96682671088,Humalog,Insulin Lispro,Humalog,500,mcg,Cream,Intravenous,Redwood Pharma,Endocrine,N,2022-07-11,2023-05-27,DrugReferenceHub
+DRG00023,54154506357,Prozac,Fluoxetine,Prozac,20,mcg,Capsule,Topical,Summit Therapeutics,Antidiabetic,Y,2023-07-20,,DrugReferenceHub
+DRG00024,25964239840,Wellbutrin,Bupropion,Wellbutrin,25,mg/mL,Suspension,Subcutaneous,Crescent Therapeutics,Anticoagulant,Y,2022-10-18,,DrugReferenceHub
+DRG00025,35743278195,Coreg,Carvedilol,Coreg,50,mcg,Inhaler,Intravenous,Redwood Pharma,Antidepressant,Y,2023-07-01,,DrugReferenceHub
+DRG00026,24069146482,Lopressor,Metoprolol,Lopressor,25,mcg,Injection,Topical,BlueRiver Pharmaceuticals,Respiratory,Y,2024-07-05,,DrugReferenceHub
+DRG00027,87471341583,Lasix,Furosemide,Lasix,10,mg/mL,Cream,Oral,Atlas Medications,Lipid Lowering,Y,2022-06-15,,DrugReferenceHub
+DRG00028,54705453523,Aldactone,Spironolactone,Aldactone,1000,mg/mL,Solution,Intravenous,Northstar Pharma,Gastrointestinal,Y,2024-12-28,,DrugReferenceHub
+DRG00029,60844107060,Ventolin,Albuterol,Ventolin,50,mg,Tablet,Transdermal,Crescent Therapeutics,Antibiotic,Y,2022-11-25,,DrugReferenceHub
+DRG00030,39273980031,Vibramycin,Doxycycline,Vibramycin,10,units/mL,Injection,Topical,Beacon Life Sciences,Lipid Lowering,Y,2025-08-01,,DrugReferenceHub
+DRG00031,27078116314,Ozempic,Semaglutide,Ozempic,10,mg/mL,Inhaler,Intravenous,Crescent Therapeutics,Endocrine,Y,2024-12-06,,DrugReferenceHub
+DRG00032,65244152274,Glucophage,Metformin,Glucophage,25,mg,Suspension,Oral,Redwood Pharma,Neurologic,Y,2023-02-03,,DrugReferenceHub
+DRG00033,42627468935,Lipitor,Atorvastatin,Lipitor,250,mg/mL,Capsule,Intravenous,Evergreen Labs,Antidiabetic,Y,2024-04-03,,DrugReferenceHub
+DRG00034,84702528484,Prinivil,Lisinopril,Prinivil,1000,mcg,Suspension,Subcutaneous,Northstar Pharma,Endocrine,Y,2022-06-11,,DrugReferenceHub
+DRG00035,81866879412,Norvasc,Amlodipine,Norvasc,250,mcg,Capsule,Intravenous,Meridian Pharma,Antidiabetic,Y,2022-05-26,,DrugReferenceHub
+DRG00036,72171503347,Cozaar,Losartan,Cozaar,20,units/mL,Injection,Subcutaneous,Evergreen Labs,Anticoagulant,Y,2025-10-29,,DrugReferenceHub
+DRG00037,36163874460,Prilosec,Omeprazole,Prilosec,1000,mcg,Injection,Intravenous,Evergreen Labs,Antidiabetic,Y,2025-03-19,,DrugReferenceHub
+DRG00038,99532189053,Neurontin,Gabapentin,Neurontin,5,mcg,Capsule,Subcutaneous,Pioneer Medical,Gastrointestinal,N,2022-08-14,2024-07-14,DrugReferenceHub
+DRG00039,99603627774,Synthroid,Levothyroxine,Synthroid,25,mg/mL,Patch,Oral,Pioneer Medical,Gastrointestinal,N,2023-02-18,2024-10-05,DrugReferenceHub
+DRG00040,52954526623,Zoloft,Sertraline,Zoloft,25,mg,Tablet,Topical,Pioneer Medical,Antibiotic,N,2022-10-16,2024-08-27,DrugReferenceHub
+DRG00041,48045569225,Crestor,Rosuvastatin,Crestor,40,mcg,Patch,Subcutaneous,Summit Therapeutics,Antibiotic,Y,2023-08-01,,DrugReferenceHub
+DRG00042,87088473643,Lexapro,Escitalopram,Lexapro,500,mg,Cream,Subcutaneous,Beacon Life Sciences,Anticoagulant,Y,2023-03-02,,DrugReferenceHub
+DRG00043,96381286924,Singulair,Montelukast,Singulair,1000,units/mL,Patch,Intravenous,Northstar Pharma,Antidiabetic,Y,2023-04-25,,DrugReferenceHub
+DRG00044,20972530362,Cymbalta,Duloxetine,Cymbalta,100,mg/mL,Capsule,Oral,Pioneer Medical,Antibiotic,Y,2024-02-13,,DrugReferenceHub
+DRG00045,97361501089,Plavix,Clopidogrel,Plavix,500,units/mL,Suspension,Inhalation,Evergreen Labs,Antidiabetic,Y,2022-10-04,,DrugReferenceHub
+DRG00046,15947426010,Protonix,Pantoprazole,Protonix,20,units/mL,Patch,Intravenous,Northstar Pharma,Respiratory,Y,2025-07-14,,DrugReferenceHub
+DRG00047,76954397631,Microzide,Hydrochlorothiazide,Microzide,40,mcg,Injection,Transdermal,Meridian Pharma,Anticoagulant,Y,2024-11-29,,DrugReferenceHub
+DRG00048,40842594127,Eliquis,Apixaban,Eliquis,500,units/mL,Capsule,Subcutaneous,Meridian Pharma,Endocrine,Y,2025-01-16,,DrugReferenceHub
+DRG00049,37085218953,Jardiance,Empagliflozin,Jardiance,250,mg/mL,Injection,Topical,NORTHSTAR PHARMA,Anticoagulant,Y,2022-09-05,,DrugReferenceHub
+DRG00050,85086957723,Januvia,Sitagliptin,Januvia,20,mg,Injection,Inhalation,Summit Therapeutics,Antibiotic,Y,2024-11-01,,DrugReferenceHub
+DRG00051,96424932254,Lantus,Insulin Glargine,Lantus,100,mcg,Suspension,Inhalation,BlueRiver Pharmaceuticals,Neurologic,N,2025-05-07,2026-02-03,DrugReferenceHub
+DRG00052,32444678260,Humalog,Insulin Lispro,Humalog,20,mg,Inhaler,Transdermal,Pioneer Medical,Anticoagulant,N,2022-09-14,2024-03-29,DrugReferenceHub
+DRG00053,17001221267,Prozac,Fluoxetine,Prozac,50,mg,Cream,Oral,Beacon Life Sciences,Gastrointestinal,Y,2025-01-03,,DrugReferenceHub
+DRG00054,92965682838,Wellbutrin,Bupropion,Wellbutrin,10,mcg,Capsule,Topical,Redwood Pharma,Antidepressant,Y,2023-06-07,,DrugReferenceHub
+DRG00055,44518564169,Coreg,Carvedilol,Coreg,10,mg,Patch,Transdermal,Evergreen Labs,Gastrointestinal,Y,2025-02-25,,DrugReferenceHub
+DRG00056,39388824427,Lopressor,Metoprolol,Lopressor,250,mcg,Injection,Oral,Redwood Pharma,Antihypertensive,N,2023-12-01,2025-10-24,DrugReferenceHub
+DRG00057,86169955947,Lasix,Furosemide,Lasix,5,mg/mL,Tablet,Inhalation,Atlas Medications,Lipid Lowering,Y,2025-03-18,,DrugReferenceHub
+DRG00058,78173474180,Aldactone,,Aldactone,100,mcg,Solution,Oral,Beacon Life Sciences,Lipid Lowering,N,2022-08-04,2023-11-06,DrugReferenceHub
+DRG00059,85778839614,Ventolin,Albuterol,Ventolin,20,mcg,Capsule,Subcutaneous,Summit Therapeutics,Gastrointestinal,Y,2023-07-23,,DrugReferenceHub
+DRG00060,23007709819,Vibramycin,Doxycycline,Vibramycin,250,mcg,Solution,Intravenous,Summit Therapeutics,Antibiotic,Y,2023-02-04,,DrugReferenceHub
+DRG00061,62842687164,Ozempic,Semaglutide,Ozempic,250,mcg,Patch,Topical,Evergreen Labs,Neurologic,Y,2022-12-30,,DrugReferenceHub
+DRG00062,89305404592,Glucophage,Metformin,Glucophage,40,units/mL,Cream,Transdermal,Northstar Pharma,Neurologic,Y,2023-03-27,,DrugReferenceHub
+DRG00063,94421963775,Lipitor,Atorvastatin,Lipitor,50,units/mL,Patch,Inhalation,Evergreen Labs,Antidepressant,Y,2023-07-14,,DrugReferenceHub
+DRG00064,17735727527,Prinivil,Lisinopril,Prinivil,25,mg/mL,Inhaler,Intravenous,BlueRiver Pharmaceuticals,Antidepressant,Y,2022-07-06,,DrugReferenceHub
+DRG00065,99698815592,Norvasc,Amlodipine,Norvasc,50,mcg,Patch,Transdermal,BlueRiver Pharmaceuticals,Antibiotic,Y,2024-10-30,,DrugReferenceHub
+DRG00066,72982905964,Cozaar,Losartan,Cozaar,5,mg,Suspension,Oral,Crescent Therapeutics,Antihypertensive,Y,2024-03-15,,DrugReferenceHub
+DRG00067,48791769150,Prilosec,,Prilosec,50,mg,Inhaler,Intravenous,Pioneer Medical,Endocrine,N,2025-04-27,2027-10-11,DrugReferenceHub
+DRG00068,77447650355,Neurontin,Gabapentin,Neurontin,250,mcg,Solution,Transdermal,Summit Therapeutics,Neurologic,Y,2024-10-27,,DrugReferenceHub
+DRG00069,63430500679,Synthroid,Levothyroxine,Synthroid,1000,mg/mL,Injection,Transdermal,BlueRiver Pharmaceuticals,Lipid Lowering,N,2022-08-06,2024-04-11,DrugReferenceHub
+DRG00070,87507818254,Zoloft,Sertraline,Zoloft,5,mg/mL,Solution,Intravenous,Atlas Medications,Respiratory,Y,2022-04-13,,DrugReferenceHub
+DRG00071,40538581357,Crestor,Rosuvastatin,Crestor,10,mcg,Capsule,Topical,EVERGREEN LABS,Respiratory,Y,2023-09-11,,DrugReferenceHub
+DRG00072,23819199572,Lexapro,Escitalopram,Lexapro,25,mg/mL,Capsule,Intravenous,Redwood Pharma,Endocrine,Y,2023-12-05,,DrugReferenceHub
+DRG00073,38655593381,Singulair,Montelukast,Singulair,5,mg/mL,Solution,Subcutaneous,Atlas Medications,Endocrine,Y,2022-12-18,,DrugReferenceHub
+DRG00074,40812726846,Cymbalta,Duloxetine,Cymbalta,50,units/mL,Tablet,Transdermal,Pioneer Medical,Antidepressant,Y,2025-02-17,,DrugReferenceHub
+DRG00075,17029875612,Plavix,Clopidogrel,Plavix,250,mg/mL,Solution,Transdermal,Redwood Pharma,Endocrine,N,2024-04-30,2025-08-20,DrugReferenceHub
+DRG00076,19307837771,Protonix,Pantoprazole,Protonix,40,mcg,Tablet,Oral,Redwood Pharma,Antidiabetic,Y,2024-12-29,,DrugReferenceHub
+DRG00077,92373928763,Microzide,Hydrochlorothiazide,Microzide,250,mg/mL,Cream,Oral,Northstar Pharma,Antibiotic,N,2022-06-09,2022-12-31,DrugReferenceHub
+DRG00078,22965734777,Eliquis,Apixaban,Eliquis,500,units/mL,Suspension,Inhalation,Crescent Therapeutics,Anticoagulant,Y,2025-04-06,,DrugReferenceHub
+DRG00079,86876532778,Jardiance,Empagliflozin,Jardiance,50,units/mL,Cream,Inhalation,Northstar Pharma,Antidiabetic,Y,2022-10-29,,DrugReferenceHub
+DRG00080,92894865154,Januvia,Sitagliptin,Januvia,50,mg,Inhaler,Subcutaneous,Meridian Pharma,Antibiotic,Y,2023-10-18,,DrugReferenceHub
+DRG00081,76115147727,Lantus,Insulin Glargine,Lantus,40,mg,SOLUTION,Oral,Meridian Pharma,Antidepressant,Y,2023-10-05,,DrugReferenceHub
+DRG00082,94227785584,Humalog,Insulin Lispro,Humalog,250,mg/mL,Injection,Subcutaneous,Northstar Pharma,Anticoagulant,N,2025-04-14,2026-02-26,DrugReferenceHub
+DRG00083,21128586347,Prozac,Fluoxetine,Prozac,250,mg,Cream,Oral,Atlas Medications,Lipid Lowering,Y,2023-02-09,,DrugReferenceHub
+DRG00084,79345667836,UNKNOWN BRAND DRG00084,Bupropion,Wellbutrin,1000,mg/mL,Capsule,Topical,Crescent Therapeutics,Lipid Lowering,Y,2022-12-18,,DrugReferenceHub
+DRG00085,94423237054,Coreg,Carvedilol,Coreg,100,mg,Injection,Topical,Northstar Pharma,Antibiotic,Y,2023-05-12,,DrugReferenceHub
+DRG00086,37120476461,Lopressor,Metoprolol,Lopressor,5,units/mL,Patch,Oral,Pioneer Medical,Endocrine,N,2023-06-12,2025-01-02,DrugReferenceHub
+DRG00087,79510138828,Lasix,Furosemide,Lasix,25,mcg,Cream,Subcutaneous,Atlas Medications,Anticoagulant,N,2022-09-23,2024-02-13,DrugReferenceHub
+DRG00088,13745261453,Aldactone,Spironolactone,Aldactone,40,units/mL,Tablet,Subcutaneous,Redwood Pharma,Gastrointestinal,Y,2022-09-15,,DrugReferenceHub
+DRG00089,68995759668,Ventolin,Albuterol,Ventolin,20,units/mL,Suspension,Inhalation,Crescent Therapeutics,Endocrine,N,2022-12-05,2025-05-17,DrugReferenceHub
+DRG00090,25353369992,Vibramycin,Doxycycline,Vibramycin,5,mg,Solution,Intravenous,Summit Therapeutics,Antibiotic,Y,2023-11-15,,DrugReferenceHub
+DRG00091,65966563490,Ozempic,Semaglutide,Ozempic,10,mg,Injection,Subcutaneous,Summit Therapeutics,Antibiotic,N,2023-05-17,2025-08-18,DrugReferenceHub
+DRG00092,66607667644,Glucophage,Metformin,Glucophage,40,units/mL,Suspension,Transdermal,Northstar Pharma,Endocrine,Y,2023-07-28,,DrugReferenceHub
+DRG00093,61023340877,Lipitor,Atorvastatin,Lipitor,5,mg,Solution,Topical,Atlas Medications,Lipid Lowering,Y,2024-11-17,,DrugReferenceHub
+DRG00094,40815151380,Prinivil,Lisinopril,Prinivil,1000,mg,Injection,Subcutaneous,Summit Therapeutics,Antihypertensive,Y,2022-12-19,,DrugReferenceHub
+DRG00095,87455776031,Norvasc,Amlodipine,Norvasc,40,mg/mL,Solution,Topical,Summit Therapeutics,Antidepressant,Y,2025-08-23,,DrugReferenceHub
+DRG00096,76013679988,Cozaar,Losartan,Cozaar,500,mg/mL,Injection,Oral,BlueRiver Pharmaceuticals,Antidiabetic,Y,2025-01-04,,DrugReferenceHub
+DRG00097,63116718685,Prilosec,Omeprazole,Prilosec,20,mcg,Cream,Topical,Redwood Pharma,Gastrointestinal,Y,2022-09-13,,DrugReferenceHub
+DRG00098,68732282181,Neurontin,Gabapentin,Neurontin,5,mg/mL,Injection,Subcutaneous,Northstar Pharma,Gastrointestinal,Y,2023-04-04,,DrugReferenceHub
+DRG00099,73978849161,Synthroid,Levothyroxine,Synthroid,1000,mg/mL,Injection,Oral,Northstar Pharma,Antidiabetic,N,2022-09-26,2023-08-02,DrugReferenceHub
+DRG00100,51269588679,Zoloft,Sertraline,Zoloft,500,mg,Inhaler,Transdermal,Northstar Pharma,Antidepressant,Y,2023-02-03,,DrugReferenceHub
+DRG00101,80264600050,Crestor,Rosuvastatin,Crestor,500,units/mL,Tablet,Inhalation,Pioneer Medical,Lipid Lowering,Y,2023-06-19,,DrugReferenceHub
+DRG00102,82440106680,Lexapro,Escitalopram,Lexapro,50,mcg,Cream,Intravenous,Pioneer Medical,Neurologic,Y,2022-07-11,,DrugReferenceHub
+DRG00103,91227369073,Singulair,Montelukast,Singulair,5,units/mL,Suspension,Transdermal,BlueRiver Pharmaceuticals,Antihypertensive,Y,2022-01-22,,DrugReferenceHub
+DRG00104,88756957596,Cymbalta,Duloxetine,Cymbalta,500,mcg,Patch,Oral,BlueRiver Pharmaceuticals,Antidiabetic,N,2023-10-04,2025-07-30,DrugReferenceHub
+DRG00105,17493123839,Plavix,Clopidogrel,Plavix,10,mg/mL,Inhaler,Transdermal,Pioneer Medical,Lipid Lowering,N,2024-10-21,2026-04-26,DrugReferenceHub
+DRG00106,22934703171,Protonix,Pantoprazole,Protonix,40,mcg,Tablet,Intravenous,Redwood Pharma,Lipid Lowering,Y,2023-03-19,,DrugReferenceHub
+DRG00107,19606146745,Microzide,Hydrochlorothiazide,Microzide,40,mcg,Injection,Topical,Pioneer Medical,Lipid Lowering,N,2025-06-11,2026-02-28,DrugReferenceHub
+DRG00108,49834139728,Eliquis,Apixaban,Eliquis,25,units/mL,Tablet,Oral,MERIDIAN PHARMA,Lipid Lowering,Y,2023-06-24,,DrugReferenceHub
+DRG00109,46822109163,Jardiance,Empagliflozin,Jardiance,50,mg/mL,Capsule,Intravenous,Beacon Life Sciences,Neurologic,Y,2025-08-09,,DrugReferenceHub
+DRG00110,68335772779,Januvia,Sitagliptin,Januvia,20,mg/mL,Solution,Oral,Northstar Pharma,Antihypertensive,Y,2022-12-12,,DrugReferenceHub
+DRG00111,73890570297,Lantus,Insulin Glargine,Lantus,20,units/mL,Cream,Subcutaneous,Atlas Medications,Antidiabetic,Y,2024-02-28,,DrugReferenceHub
+DRG00112,13685557379,Humalog,Insulin Lispro,Humalog,250,units/mL,Tablet,Oral,Redwood Pharma,Antidepressant,Y,2025-01-20,,DrugReferenceHub
+DRG00113,94254883996,Prozac,Fluoxetine,Prozac,500,mg,Injection,Inhalation,EVERGREEN LABS,Gastrointestinal,Y,2022-03-28,,DrugReferenceHub
+DRG00114,61820941754,Wellbutrin,Bupropion,Wellbutrin,1000,mcg,Patch,Subcutaneous,Summit Therapeutics,Gastrointestinal,Y,2025-09-21,,DrugReferenceHub
+DRG00115,20309347358,Coreg,Carvedilol,Coreg,25,mg/mL,Suspension,Inhalation,Atlas Medications,Antibiotic,Y,2023-06-18,,DrugReferenceHub
+DRG00116,98361822465,Lopressor,Metoprolol,Lopressor,250,mcg,Solution,Transdermal,Meridian Pharma,Lipid Lowering,Y,2023-12-29,,DrugReferenceHub
+DRG00117,40026109670,Lasix,Furosemide,Lasix,50,mcg,Suspension,Topical,Meridian Pharma,Antidepressant,Y,2024-07-07,,DrugReferenceHub
+DRG00118,81267869985,Aldactone,Spironolactone,Aldactone,1000,units/mL,Suspension,Topical,Beacon Life Sciences,Anticoagulant,Y,2024-07-29,,DrugReferenceHub
+DRG00119,86802579865,Ventolin,Albuterol,Ventolin,10,mcg,Suspension,Transdermal,Evergreen Labs,Antihypertensive,Y,2022-02-04,,DrugReferenceHub
+DRG00120,95415942442,Vibramycin,Doxycycline,Vibramycin,20,mg,Patch,Inhalation,Northstar Pharma,Neurologic,N,2025-06-21,2027-06-17,DrugReferenceHub
+DRG00121,92043205735,Ozempic,Semaglutide,Ozempic,250,mg,Tablet,Oral,Pioneer Medical,Antibiotic,N,2024-06-30,2026-03-12,DrugReferenceHub
+DRG00122,70410757439,Glucophage,Metformin,Glucophage,5,units/mL,Capsule,Transdermal,Pioneer Medical,Antihypertensive,Y,2025-12-31,,DrugReferenceHub
+DRG00123,95759671235,Lipitor,Atorvastatin,Lipitor,5,mg/mL,Inhaler,Transdermal,Atlas Medications,Antibiotic,Y,2023-11-21,,DrugReferenceHub
+DRG00124,43371264292,Prinivil,Lisinopril,Prinivil,500,units/mL,Patch,Topical,Redwood Pharma,Anticoagulant,Y,2024-06-15,,DrugReferenceHub
+DRG00125,34666508457,Norvasc,Amlodipine,Norvasc,1000,units/mL,Inhaler,Subcutaneous,Northstar Pharma,Gastrointestinal,Y,2023-10-07,,DrugReferenceHub
+DRG00126,19998557234,Cozaar,Losartan,Cozaar,100,mg/mL,Solution,Intravenous,Pioneer Medical,Antidepressant,N,2025-07-24,2026-04-01,DrugReferenceHub
+DRG00127,86002397952,Prilosec,Omeprazole,Prilosec,40,mg,Capsule,Oral,Crescent Therapeutics,Gastrointestinal,Y,2025-05-01,,DrugReferenceHub
+DRG00128,95701180452,Neurontin,Gabapentin,Neurontin,40,mg,Cream,Inhalation,Northstar Pharma,Anticoagulant,Y,2025-08-21,,DrugReferenceHub
+DRG00129,25871240147,Synthroid,Levothyroxine,Synthroid,500,mg/mL,Suspension,Topical,Evergreen Labs,Respiratory,Y,2024-01-08,,DrugReferenceHub
+DRG00130,89864963195,Zoloft,Sertraline,Zoloft,250,mcg,Capsule,Inhalation,Pioneer Medical,Antibiotic,Y,2025-03-03,,DrugReferenceHub
+DRG00131,66961165235,Crestor,Rosuvastatin,Crestor,1000,mg/mL,Suspension,Oral,Pioneer Medical,Antihypertensive,Y,2023-06-09,,DrugReferenceHub
+DRG00132,28226964458,Lexapro,Escitalopram,Lexapro,20,units/mL,Cream,Inhalation,Meridian Pharma,Gastrointestinal,Y,2023-11-05,,DrugReferenceHub
+DRG00133,95095862344,Singulair,Montelukast,Singulair,25,mg/mL,Tablet,Intravenous,Summit Therapeutics,Lipid Lowering,Y,2025-01-16,,DrugReferenceHub
+DRG00134,52550652494,Cymbalta,Duloxetine,Cymbalta,250,mcg,Patch,Topical,Redwood Pharma,Endocrine,Y,2022-04-29,,DrugReferenceHub
+DRG00135,92790872997,Plavix,Clopidogrel,Plavix,20,mcg,Injection,Topical,Meridian Pharma,Neurologic,Y,2024-11-04,,DrugReferenceHub
+DRG00136,66292157738,Protonix,Pantoprazole,Protonix,250,mcg,Injection,Inhalation,Evergreen Labs,Antidepressant,Y,2022-01-24,,DrugReferenceHub
+DRG00137,29696691682,Microzide,Hydrochlorothiazide,Microzide,250,mg,Capsule,Intravenous,Summit Therapeutics,Antidepressant,N,2024-04-28,2025-11-12,DrugReferenceHub
+DRG00138,67086806285,Eliquis,Apixaban,Eliquis,1000,units/mL,Solution,Inhalation,Atlas Medications,Endocrine,Y,2023-11-29,,DrugReferenceHub
+DRG00139,32786886812,Jardiance,Empagliflozin,Jardiance,20,units/mL,Injection,Oral,Meridian Pharma,Antidepressant,N,2023-11-17,2026-01-04,DrugReferenceHub
+DRG00140,37452117788,Januvia,Sitagliptin,Januvia,250,mg/mL,Cream,Topical,Summit Therapeutics,Endocrine,Y,2023-12-24,,DrugReferenceHub
+DRG00141,79715188913,Lantus,Insulin Glargine,Lantus,1000,mcg,Patch,Subcutaneous,Summit Therapeutics,Antidiabetic,N,2023-12-21,2025-03-13,DrugReferenceHub
+DRG00142,44151264671,Humalog,Insulin Lispro,Humalog,1000,mg/mL,Patch,Transdermal,Redwood Pharma,Endocrine,Y,2023-08-19,,DrugReferenceHub
+DRG00143,58349694065,Prozac,Fluoxetine,Prozac,100,units/mL,Capsule,Topical,Crescent Therapeutics,Anticoagulant,Y,2023-10-22,,DrugReferenceHub
+DRG00144,43873981962,Wellbutrin,Bupropion,Wellbutrin,5,units/mL,Inhaler,Topical,Beacon Life Sciences,Anticoagulant,N,2024-04-10,2025-07-26,DrugReferenceHub
+DRG00145,54145454630,Coreg,Carvedilol,Coreg,250,mg,Injection,Transdermal,Redwood Pharma,Endocrine,Y,2025-01-21,,DrugReferenceHub
+DRG00146,59772579378,Lopressor,Metoprolol,Lopressor,1000,units/mL,Tablet,Inhalation,Crescent Therapeutics,Neurologic,Y,2024-03-18,,DrugReferenceHub
+DRG00147,90250181876,Lasix,Furosemide,Lasix,100,mg,Solution,Transdermal,Atlas Medications,Antidiabetic,Y,2024-07-28,,DrugReferenceHub
+DRG00148,38384498011,Aldactone,Spironolactone,Aldactone,20,mcg,Injection,Transdermal,Summit Therapeutics,Antidiabetic,Y,2025-05-08,,DrugReferenceHub
+DRG00149,63039619641,Ventolin,Albuterol,Ventolin,1000,mg,Suspension,Transdermal,EVERGREEN LABS,Antihypertensive,Y,2025-12-17,,DrugReferenceHub
+DRG00150,42994769258,UNKNOWN BRAND DRG00150,Doxycycline,Vibramycin,50,units/mL,Cream,Intravenous,Crescent Therapeutics,Lipid Lowering,N,2022-06-08,2023-03-05,DrugReferenceHub
+DRG00151,32829657664,Ozempic,Semaglutide,Ozempic,40,units/mL,Capsule,Transdermal,Northstar Pharma,Endocrine,N,2024-11-08,2025-10-21,DrugReferenceHub
+DRG00152,19696653191,Glucophage,Metformin,Glucophage,500,mg/mL,Injection,Inhalation,Crescent Therapeutics,Respiratory,Y,2022-11-26,,DrugReferenceHub
+DRG00153,15384104284,Lipitor,Atorvastatin,Lipitor,50,mg,Inhaler,Inhalation,Northstar Pharma,Endocrine,N,2022-10-15,2025-06-25,DrugReferenceHub
+DRG00154,52258384311,Prinivil,Lisinopril,Prinivil,50,mg,Capsule,Topical,Evergreen Labs,Antidepressant,Y,2025-03-05,,DrugReferenceHub
+DRG00155,13245368747,Norvasc,Amlodipine,Norvasc,500,mg/mL,Suspension,Subcutaneous,Northstar Pharma,Anticoagulant,Y,2022-04-11,,DrugReferenceHub
+DRG00156,73179592267,Cozaar,Losartan,Cozaar,25,mg,Cream,Subcutaneous,Redwood Pharma,Neurologic,Y,2025-05-24,,DrugReferenceHub
+DRG00157,45750813449,Prilosec,Omeprazole,Prilosec,5,mg,Patch,Intravenous,Crescent Therapeutics,Antidepressant,N,2025-01-31,2026-12-21,DrugReferenceHub
+DRG00158,94092112525,Neurontin,Gabapentin,Neurontin,20,mg,Suspension,Inhalation,BlueRiver Pharmaceuticals,Antihypertensive,Y,2025-12-25,,DrugReferenceHub
+DRG00159,94324240174,Synthroid,Levothyroxine,Synthroid,250,mcg,Patch,Subcutaneous,Redwood Pharma,Respiratory,N,2024-09-03,2025-07-24,DrugReferenceHub
+DRG00160,37355642412,Zoloft,Sertraline,Zoloft,5,mcg,Capsule,Subcutaneous,BlueRiver Pharmaceuticals,Neurologic,Y,2025-06-30,,DrugReferenceHub
+DRG00161,62840208185,Crestor,Rosuvastatin,Crestor,500,mg/mL,Suspension,Inhalation,Summit Therapeutics,Antibiotic,Y,2022-06-23,,DrugReferenceHub
+DRG00162,85864453239,Lexapro,Escitalopram,Lexapro,50,mcg,Inhaler,Inhalation,Evergreen Labs,Anticoagulant,Y,2025-07-25,,DrugReferenceHub
+DRG00163,38299381624,Singulair,Montelukast,Singulair,250,mg/mL,Tablet,Intravenous,Northstar Pharma,Endocrine,Y,2022-08-23,,DrugReferenceHub
+DRG00164,83483861176,Cymbalta,Duloxetine,Cymbalta,5,mg/mL,Inhaler,Inhalation,Pioneer Medical,Anticoagulant,N,2023-04-05,2024-10-31,DrugReferenceHub
+DRG00165,57300408459,Plavix,Clopidogrel,Plavix,25,mg/mL,Suspension,Oral,Atlas Medications,Respiratory,N,2022-07-07,2023-06-10,DrugReferenceHub
+DRG00166,93139577848,Protonix,Pantoprazole,Protonix,500,mg,Patch,Oral,Beacon Life Sciences,Antidepressant,Y,2023-08-11,,DrugReferenceHub
+DRG00167,14420419723,Microzide,Hydrochlorothiazide,Microzide,20,mg,Cream,Intravenous,Pioneer Medical,Antihypertensive,Y,2024-12-31,,DrugReferenceHub
+DRG00168,59049568585,Eliquis,Apixaban,Eliquis,5,units/mL,Suspension,Intravenous,Evergreen Labs,Lipid Lowering,Y,2023-01-27,,DrugReferenceHub
+DRG00169,22313207361,Jardiance,Empagliflozin,Jardiance,20,mcg,Solution,Oral,Meridian Pharma,Antibiotic,Y,2025-04-17,,DrugReferenceHub
+DRG00170,69323752585,Januvia,Sitagliptin,Januvia,500,units/mL,Cream,Inhalation,Summit Therapeutics,Neurologic,Y,2024-06-05,,DrugReferenceHub
+DRG00171,53358319960,Lantus,Insulin Glargine,Lantus,250,mg,Patch,Intravenous,Evergreen Labs,Anticoagulant,N,2024-07-08,2026-01-02,DrugReferenceHub
+DRG00172,15420255680,Humalog,Insulin Lispro,Humalog,1000,mcg,Suspension,Transdermal,BlueRiver Pharmaceuticals,Neurologic,Y,2025-10-04,,DrugReferenceHub
+DRG00173,17278457796,Prozac,Fluoxetine,Prozac,50,units/mL,Solution,Topical,BlueRiver Pharmaceuticals,Antidiabetic,Y,2023-09-24,,DrugReferenceHub
+DRG00174,15134521550,Wellbutrin,Bupropion,Wellbutrin,10,units/mL,Solution,Inhalation,Atlas Medications,Antibiotic,Y,2023-05-19,,DrugReferenceHub
+DRG00175,49954258793,Coreg,Carvedilol,Coreg,5,units/mL,Injection,Subcutaneous,Beacon Life Sciences,Neurologic,Y,2025-12-25,,DrugReferenceHub
+DRG00176,92945796828,Lopressor,Metoprolol,Lopressor,40,mg,Injection,Topical,Atlas Medications,Antihypertensive,Y,2024-03-25,,DrugReferenceHub
+DRG00177,29337582731,Lasix,Furosemide,Lasix,20,units/mL,Capsule,Intravenous,Redwood Pharma,Neurologic,N,2024-06-17,2025-04-12,DrugReferenceHub
+DRG00178,68129441146,Aldactone,Spironolactone,Aldactone,1000,units/mL,Injection,Transdermal,BEACON LIFE SCIENCES,Antidepressant,Y,2023-03-10,,DrugReferenceHub
+DRG00179,79539911319,Ventolin,Albuterol,Ventolin,50,mg/mL,Patch,Transdermal,Summit Therapeutics,Anticoagulant,Y,2022-11-11,,DrugReferenceHub
+DRG00180,39556565835,Vibramycin,Doxycycline,Vibramycin,50,mg,Injection,Intravenous,Atlas Medications,Respiratory,Y,2022-09-06,,DrugReferenceHub
+DRG00181,76744433751,Ozempic,Semaglutide,Ozempic,1000,mcg,Tablet,Inhalation,Meridian Pharma,Neurologic,Y,2022-11-23,,DrugReferenceHub
+DRG00182,66678730118,Glucophage,Metformin,Glucophage,100,mg,Inhaler,Inhalation,BlueRiver Pharmaceuticals,Lipid Lowering,Y,2022-10-13,,DrugReferenceHub
+DRG00183,55068365571,Lipitor,Atorvastatin,Lipitor,100,units/mL,CAPSULE,Subcutaneous,Evergreen Labs,Antihypertensive,Y,2024-12-27,,DrugReferenceHub
+DRG00184,60441392789,Prinivil,Lisinopril,Prinivil,250,units/mL,Cream,Topical,Redwood Pharma,Lipid Lowering,N,2022-03-26,2024-02-11,DrugReferenceHub
+DRG00185,96691540687,Norvasc,Amlodipine,Norvasc,20,units/mL,Injection,Topical,Evergreen Labs,Antibiotic,N,2024-07-09,2026-04-17,DrugReferenceHub
+DRG00186,87787823612,Cozaar,Losartan,Cozaar,250,mg,Tablet,Inhalation,Meridian Pharma,Antidiabetic,N,2025-10-19,2027-09-18,DrugReferenceHub
+DRG00187,52398869460,Prilosec,Omeprazole,Prilosec,10,units/mL,Solution,Subcutaneous,Evergreen Labs,Antibiotic,Y,2025-01-24,,DrugReferenceHub
+DRG00188,78528685790,Neurontin,Gabapentin,Neurontin,40,mg,Patch,Transdermal,Evergreen Labs,Anticoagulant,Y,2023-08-13,,DrugReferenceHub
+DRG00189,98921439381,Synthroid,Levothyroxine,Synthroid,50,mg,Tablet,Topical,Evergreen Labs,Neurologic,Y,2022-03-28,,DrugReferenceHub
+DRG00190,19352931491,Zoloft,Sertraline,Zoloft,25,mg/mL,Patch,Intravenous,Atlas Medications,Antihypertensive,Y,2025-05-04,,DrugReferenceHub
+DRG00191,85922868666,Crestor,Rosuvastatin,Crestor,50,units/mL,Cream,Intravenous,Crescent Therapeutics,Antidiabetic,Y,2022-01-05,,DrugReferenceHub
+DRG00192,93785641343,Lexapro,Escitalopram,Lexapro,50,mcg,Solution,Intravenous,Crescent Therapeutics,Gastrointestinal,Y,2024-09-23,,DrugReferenceHub
+DRG00193,51057281520,Singulair,Montelukast,Singulair,20,mcg,Solution,Intravenous,Evergreen Labs,Gastrointestinal,Y,2024-09-07,,DrugReferenceHub
+DRG00194,22109843357,Cymbalta,Duloxetine,Cymbalta,50,units/mL,Tablet,Intravenous,Meridian Pharma,Respiratory,Y,2022-10-08,,DrugReferenceHub
+DRG00195,18987102928,Plavix,Clopidogrel,Plavix,5,units/mL,Injection,Inhalation,Redwood Pharma,Neurologic,Y,2024-12-17,,DrugReferenceHub
+DRG00196,47220155350,Protonix,Pantoprazole,Protonix,10,mg/mL,Tablet,Inhalation,Atlas Medications,Antibiotic,Y,2022-09-14,,DrugReferenceHub
+DRG00197,66887309527,Microzide,Hydrochlorothiazide,Microzide,25,mg/mL,Capsule,Topical,Summit Therapeutics,Lipid Lowering,Y,2022-11-26,,DrugReferenceHub
+DRG00198,13608623051,Eliquis,Apixaban,Eliquis,50,mcg,Capsule,Transdermal,Evergreen Labs,Antidiabetic,N,2025-04-02,2026-09-27,DrugReferenceHub
+DRG00199,99309147368,Jardiance,Empagliflozin,Jardiance,20,units/mL,Patch,Intravenous,Summit Therapeutics,Antihypertensive,N,2025-12-02,2027-01-20,DrugReferenceHub
+DRG00200,50593972260,Januvia,Sitagliptin,Januvia,500,units/mL,Suspension,Oral,Evergreen Labs,Endocrine,N,2023-01-23,2024-02-11,DrugReferenceHub
+DRG00201,92294919275,Lantus,Insulin Glargine,Lantus,500,mg/mL,Inhaler,Topical,Northstar Pharma,Antidepressant,Y,2025-09-08,,DrugReferenceHub
+DRG00202,69347757174,Humalog,Insulin Lispro,Humalog,500,mg,Suspension,Topical,BlueRiver Pharmaceuticals,Gastrointestinal,N,2025-08-28,2026-08-19,DrugReferenceHub
+DRG00203,68749757957,Prozac,Fluoxetine,Prozac,25,mg,Capsule,Intravenous,Redwood Pharma,Respiratory,N,2025-01-29,2026-07-15,DrugReferenceHub
+DRG00204,40943424631,Wellbutrin,Bupropion,Wellbutrin,1000,mcg,Tablet,Subcutaneous,Atlas Medications,Neurologic,Y,2022-07-24,,DrugReferenceHub
+DRG00205,55655209298,Coreg,Carvedilol,Coreg,5,mg,Cream,Transdermal,Evergreen Labs,Gastrointestinal,Y,2023-03-14,,DrugReferenceHub
+DRG00206,99070622849,Lopressor,Metoprolol,Lopressor,1000,mcg,Solution,Oral,Redwood Pharma,Gastrointestinal,Y,2024-09-17,,DrugReferenceHub
+DRG00207,56758128355,Lasix,Furosemide,Lasix,1000,mcg,Cream,Subcutaneous,Crescent Therapeutics,Anticoagulant,Y,2025-12-31,,DrugReferenceHub
+DRG00208,38649367251,Aldactone,Spironolactone,Aldactone,10,units/mL,Injection,Topical,Pioneer Medical,Antidepressant,Y,2025-04-05,,DrugReferenceHub
+DRG00209,26331939675,Ventolin,Albuterol,Ventolin,10,units/mL,Solution,Inhalation,Meridian Pharma,Antidiabetic,Y,2023-09-07,,DrugReferenceHub
+DRG00210,54472137420,Vibramycin,Doxycycline,Vibramycin,20,mg,Capsule,Inhalation,Evergreen Labs,Gastrointestinal,Y,2022-12-10,,DrugReferenceHub
+DRG00211,33349215114,Ozempic,Semaglutide,Ozempic,50,mg,Solution,Topical,Northstar Pharma,Gastrointestinal,Y,2025-11-05,,DrugReferenceHub
+DRG00212,29308802360,Glucophage,Metformin,Glucophage,250,units/mL,Tablet,Inhalation,Northstar Pharma,Antidepressant,N,2023-02-08,2024-08-11,DrugReferenceHub
+DRG00213,17445348253,Lipitor,Atorvastatin,Lipitor,50,units/mL,Capsule,Subcutaneous,Meridian Pharma,Antidepressant,Y,2023-05-16,,DrugReferenceHub
+DRG00214,91497433316,Prinivil,Lisinopril,Prinivil,250,units/mL,Capsule,Subcutaneous,Summit Therapeutics,Antibiotic,Y,2025-11-11,,DrugReferenceHub
+DRG00215,88687101335,Norvasc,Amlodipine,Norvasc,1000,mg,Tablet,Transdermal,Northstar Pharma,Antibiotic,Y,2024-04-01,,DrugReferenceHub
+DRG00216,22187365237,Cozaar,Losartan,Cozaar,500,mg/mL,Tablet,Oral,Meridian Pharma,Anticoagulant,Y,2023-01-22,,DrugReferenceHub
+DRG00217,38862821761,Prilosec,Omeprazole,Prilosec,1000,mg/mL,Cream,Inhalation,Redwood Pharma,Respiratory,Y,2022-01-08,,DrugReferenceHub
+DRG00218,76841912411,Neurontin,Gabapentin,Neurontin,50,units/mL,Solution,Inhalation,Beacon Life Sciences,Respiratory,Y,2023-09-21,,DrugReferenceHub
+DRG00219,58257248865,Synthroid,Levothyroxine,Synthroid,50,mg,Injection,Oral,Redwood Pharma,Endocrine,Y,2025-12-12,,DrugReferenceHub
+DRG00220,77574673580,Zoloft,Sertraline,Zoloft,40,mg,Tablet,Topical,Meridian Pharma,Neurologic,N,2023-09-25,2025-09-26,DrugReferenceHub
+DRG00221,37195598538,Crestor,Rosuvastatin,Crestor,20,units/mL,Capsule,Subcutaneous,Atlas Medications,Neurologic,Y,2024-10-19,,DrugReferenceHub
+DRG00222,85528237583,Lexapro,Escitalopram,Lexapro,5,mg/mL,Capsule,Topical,Evergreen Labs,Respiratory,Y,2023-01-05,,DrugReferenceHub
+DRG00223,74618978456,Singulair,Montelukast,Singulair,50,mcg,Suspension,Oral,Redwood Pharma,Antihypertensive,Y,2025-02-07,,DrugReferenceHub
+DRG00224,12250369486,Cymbalta,Duloxetine,Cymbalta,10,mg,Cream,Oral,Crescent Therapeutics,Lipid Lowering,Y,2025-02-08,,DrugReferenceHub
+DRG00225,84799902623,Plavix,Clopidogrel,Plavix,25,mg/mL,Capsule,Topical,Atlas Medications,Respiratory,Y,2024-06-08,,DrugReferenceHub
+DRG00226,78211193483,UNKNOWN BRAND DRG00226,Pantoprazole,Protonix,50,mcg,Suspension,Transdermal,Evergreen Labs,Gastrointestinal,N,2025-02-02,2025-09-12,DrugReferenceHub
+DRG00227,36001690590,Microzide,Hydrochlorothiazide,Microzide,250,mg/mL,Tablet,Intravenous,Atlas Medications,Endocrine,N,2024-04-26,2025-06-10,DrugReferenceHub
+DRG00228,49498489686,Eliquis,Apixaban,Eliquis,500,mg/mL,Tablet,Inhalation,Crescent Therapeutics,Neurologic,Y,2023-07-08,,DrugReferenceHub
+DRG00229,49994194179,Jardiance,Empagliflozin,Jardiance,50,units/mL,Inhaler,Topical,Evergreen Labs,Endocrine,Y,2024-12-14,,DrugReferenceHub
+DRG00230,52087160927,Januvia,Sitagliptin,Januvia,40,mcg,Suspension,Oral,Redwood Pharma,Respiratory,Y,2025-05-05,,DrugReferenceHub
+DRG00231,93474724778,Lantus,Insulin Glargine,Lantus,20,mcg,Capsule,Inhalation,Redwood Pharma,Antibiotic,Y,2025-05-14,,DrugReferenceHub
+DRG00232,24959442831,Humalog,Insulin Lispro,Humalog,10,mg,Patch,Oral,Northstar Pharma,Lipid Lowering,N,2022-11-08,2025-04-05,DrugReferenceHub
+DRG00233,36423490868,Prozac,Fluoxetine,Prozac,20,mg,Inhaler,Intravenous,BlueRiver Pharmaceuticals,Antidiabetic,Y,2024-09-16,,DrugReferenceHub
+DRG00234,20858309589,Wellbutrin,Bupropion,Wellbutrin,50,units/mL,Suspension,Subcutaneous,Redwood Pharma,Lipid Lowering,Y,2022-01-07,,DrugReferenceHub
+DRG00235,58670846921,Coreg,Carvedilol,Coreg,10,mcg,Patch,Topical,Crescent Therapeutics,Respiratory,Y,2024-04-16,,DrugReferenceHub
+DRG00236,87424262238,Lopressor,Metoprolol,Lopressor,5,units/mL,Patch,Transdermal,Beacon Life Sciences,Endocrine,Y,2024-04-15,,DrugReferenceHub
+DRG00237,37423653148,Lasix,Furosemide,Lasix,5,mg,Solution,Subcutaneous,Meridian Pharma,Neurologic,Y,2023-06-16,,DrugReferenceHub
+DRG00238,89292409434,Aldactone,Spironolactone,Aldactone,250,units/mL,Capsule,Subcutaneous,BlueRiver Pharmaceuticals,Gastrointestinal,Y,2025-12-24,,DrugReferenceHub
+DRG00239,54395112517,Ventolin,Albuterol,Ventolin,20,mg/mL,Cream,Topical,Evergreen Labs,Respiratory,N,2025-07-14,2028-01-30,DrugReferenceHub
+DRG00240,37986793471,Vibramycin,Doxycycline,Vibramycin,100,mg/mL,Solution,Subcutaneous,Evergreen Labs,Respiratory,Y,2022-02-26,,DrugReferenceHub
+DRG00241,83316704390,Ozempic,Semaglutide,Ozempic,10,mcg,Cream,Intravenous,Redwood Pharma,Anticoagulant,Y,2022-11-02,,DrugReferenceHub
+DRG00242,32345951358,Glucophage,Metformin,Glucophage,20,mcg,Cream,Subcutaneous,Redwood Pharma,Neurologic,Y,2022-11-01,,DrugReferenceHub
+DRG00243,77497673240,Lipitor,Atorvastatin,Lipitor,50,units/mL,Tablet,Oral,Pioneer Medical,Antidepressant,Y,2025-08-05,,DrugReferenceHub
+DRG00244,24616800293,Prinivil,Lisinopril,Prinivil,25,mcg,Injection,Intravenous,Meridian Pharma,Anticoagulant,Y,2024-01-29,,DrugReferenceHub
+DRG00245,13658312760,Norvasc,Amlodipine,Norvasc,50,units/mL,Cream,Subcutaneous,BlueRiver Pharmaceuticals,Respiratory,N,2024-12-01,2027-07-02,DrugReferenceHub
+DRG00246,47515972719,Cozaar,Losartan,Cozaar,40,mg,Capsule,Topical,BlueRiver Pharmaceuticals,Endocrine,Y,2025-03-30,,DrugReferenceHub
+DRG00247,81641422556,Prilosec,Omeprazole,Prilosec,100,mcg,Suspension,Subcutaneous,Redwood Pharma,Antihypertensive,Y,2025-01-27,,DrugReferenceHub
+DRG00248,70149202243,Neurontin,Gabapentin,Neurontin,40,units/mL,Cream,Oral,BlueRiver Pharmaceuticals,Respiratory,Y,2022-05-11,,DrugReferenceHub
+DRG00249,54528514686,Synthroid,Levothyroxine,Synthroid,20,mg,Patch,Subcutaneous,Pioneer Medical,Respiratory,N,2022-07-25,2023-09-29,DrugReferenceHub
+DRG00250,26452654738,Zoloft,Sertraline,Zoloft,40,mcg,Tablet,Oral,Atlas Medications,Endocrine,Y,2023-08-01,,DrugReferenceHub
+DRG00251,59136731178,Crestor,Rosuvastatin,Crestor,500,mcg,Capsule,Oral,Summit Therapeutics,Anticoagulant,Y,2023-05-10,,DrugReferenceHub
+DRG00252,93234720318,Lexapro,Escitalopram,Lexapro,50,mg,Suspension,Oral,Summit Therapeutics,Antihypertensive,Y,2024-12-28,,DrugReferenceHub
+DRG00253,64140385391,Singulair,Montelukast,Singulair,25,mcg,Suspension,Subcutaneous,BlueRiver Pharmaceuticals,Gastrointestinal,Y,2022-08-17,,DrugReferenceHub
+DRG00254,45865729198,Cymbalta,Duloxetine,Cymbalta,20,mcg,Solution,Oral,Beacon Life Sciences,Antidepressant,Y,2023-06-28,,DrugReferenceHub
+DRG00255,11107186150,Plavix,Clopidogrel,Plavix,250,mg,Capsule,Subcutaneous,Meridian Pharma,Endocrine,Y,2022-12-12,,DrugReferenceHub
+DRG00256,27838113191,Protonix,Pantoprazole,Protonix,100,mg/mL,Inhaler,Inhalation,Beacon Life Sciences,Antibiotic,Y,2022-10-04,,DrugReferenceHub
+DRG00257,24721435259,Microzide,Hydrochlorothiazide,Microzide,25,mg,Patch,Intravenous,Meridian Pharma,Respiratory,Y,2022-09-10,,DrugReferenceHub
+DRG00258,22951612888,Eliquis,Apixaban,Eliquis,40,mcg,Tablet,Intravenous,Beacon Life Sciences,Antidepressant,Y,2022-10-13,,DrugReferenceHub
+DRG00259,63764194169,Jardiance,Empagliflozin,Jardiance,40,mcg,Patch,Intravenous,Crescent Therapeutics,Respiratory,Y,2024-04-05,,DrugReferenceHub
+DRG00260,65004145763,Januvia,Sitagliptin,Januvia,1000,mcg,Suspension,Oral,Beacon Life Sciences,Antidepressant,Y,2023-08-23,,DrugReferenceHub
+DRG00261,10581609776,Lantus,Insulin Glargine,Lantus,100,mg,Inhaler,Transdermal,Redwood Pharma,Gastrointestinal,Y,2023-09-29,,DrugReferenceHub
+DRG00262,78831371488,Humalog,Insulin Lispro,Humalog,100,mcg,Tablet,Intravenous,SUMMIT THERAPEUTICS,Neurologic,Y,2023-12-02,,DrugReferenceHub
+DRG00263,33848103692,Prozac,Fluoxetine,Prozac,20,mg,Cream,Transdermal,Atlas Medications,Antibiotic,Y,2024-12-19,,DrugReferenceHub
+DRG00264,65593261567,Wellbutrin,Bupropion,Wellbutrin,1000,units/mL,Suspension,Oral,Summit Therapeutics,Antihypertensive,Y,2025-06-13,,DrugReferenceHub
+DRG00265,26851855697,Coreg,Carvedilol,Coreg,100,mg/mL,Tablet,Subcutaneous,Atlas Medications,Respiratory,Y,2024-02-09,,DrugReferenceHub
+DRG00266,70003467749,Lopressor,Metoprolol,Lopressor,50,mcg,Solution,Intravenous,Crescent Therapeutics,Gastrointestinal,Y,2024-07-27,,DrugReferenceHub
+DRG00267,29268903018,Lasix,Furosemide,Lasix,50,mg/mL,Capsule,Transdermal,Pioneer Medical,Neurologic,N,2024-12-15,2025-10-03,DrugReferenceHub
+DRG00268,45654776470,Aldactone,Spironolactone,Aldactone,100,mg/mL,Cream,Intravenous,Evergreen Labs,Antibiotic,Y,2024-10-06,,DrugReferenceHub
+DRG00269,90728447630,Ventolin,Albuterol,Ventolin,1000,mg,Capsule,Inhalation,Summit Therapeutics,Endocrine,N,2022-07-16,2023-06-23,DrugReferenceHub
+DRG00270,54054126339,Vibramycin,Doxycycline,Vibramycin,20,units/mL,Capsule,Topical,Summit Therapeutics,Respiratory,Y,2025-12-08,,DrugReferenceHub
+DRG00271,92608453526,Ozempic,Semaglutide,Ozempic,250,mcg,Solution,Oral,Redwood Pharma,Antibiotic,Y,2022-08-29,,DrugReferenceHub
+DRG00272,41577281759,Glucophage,Metformin,Glucophage,1000,units/mL,Inhaler,Transdermal,Summit Therapeutics,Antidiabetic,Y,2023-08-26,,DrugReferenceHub
+DRG00273,69166455424,Lipitor,Atorvastatin,Lipitor,10,units/mL,Capsule,Intravenous,Pioneer Medical,Gastrointestinal,Y,2024-08-12,,DrugReferenceHub
+DRG00274,45395582883,Prinivil,Lisinopril,Prinivil,25,mg/mL,Inhaler,Oral,Northstar Pharma,Antidepressant,Y,2023-08-13,,DrugReferenceHub
+DRG00275,71012800477,Norvasc,Amlodipine,Norvasc,100,units/mL,Patch,Oral,Crescent Therapeutics,Endocrine,N,2022-12-22,2023-10-06,DrugReferenceHub
+DRG00276,40071538725,Cozaar,Losartan,Cozaar,10,mg,Inhaler,Inhalation,Atlas Medications,Endocrine,Y,2025-09-11,,DrugReferenceHub
+DRG00277,74291518137,Prilosec,Omeprazole,Prilosec,25,mcg,Injection,Transdermal,Summit Therapeutics,Gastrointestinal,N,2022-04-15,2024-12-02,DrugReferenceHub
+DRG00278,67141494586,Neurontin,Gabapentin,Neurontin,10,mg,Injection,Intravenous,Crescent Therapeutics,Lipid Lowering,Y,2022-12-26,,DrugReferenceHub
+DRG00279,98953435785,Synthroid,Levothyroxine,Synthroid,20,mg/mL,Patch,Transdermal,BlueRiver Pharmaceuticals,Neurologic,Y,2025-12-22,,DrugReferenceHub
+DRG00280,26911839819,Zoloft,Sertraline,Zoloft,100,mg,INHALER,Topical,Pioneer Medical,Respiratory,N,2024-12-02,2027-05-25,DrugReferenceHub
+DRG00281,37104711512,Crestor,Rosuvastatin,Crestor,10,mcg,Suspension,Topical,Pioneer Medical,Antidiabetic,Y,2022-05-08,,DrugReferenceHub
+DRG00282,22577849327,Lexapro,Escitalopram,Lexapro,100,mg/mL,Capsule,Oral,Atlas Medications,Anticoagulant,Y,2025-01-08,,DrugReferenceHub
+DRG00283,41274493097,Singulair,Montelukast,Singulair,1000,mg,Suspension,Transdermal,Atlas Medications,Respiratory,Y,2025-11-18,,DrugReferenceHub
+DRG00284,62995547857,Cymbalta,Duloxetine,Cymbalta,250,mg,Patch,Topical,Evergreen Labs,Endocrine,Y,2022-05-23,,DrugReferenceHub
+DRG00285,36201328832,Plavix,Clopidogrel,Plavix,500,mcg,Suspension,Oral,Meridian Pharma,Respiratory,Y,2023-08-29,,DrugReferenceHub
+DRG00286,73362282174,Protonix,Pantoprazole,Protonix,20,units/mL,Cream,Transdermal,Northstar Pharma,Respiratory,N,2023-11-16,2026-03-09,DrugReferenceHub
+DRG00287,17132186749,Microzide,Hydrochlorothiazide,Microzide,100,mg,Suspension,Intravenous,Atlas Medications,Antibiotic,Y,2022-07-11,,DrugReferenceHub
+DRG00288,16463469022,Eliquis,Apixaban,Eliquis,5,mg/mL,Solution,Topical,Redwood Pharma,Gastrointestinal,Y,2022-10-21,,DrugReferenceHub
+DRG00289,56146827375,Jardiance,Empagliflozin,Jardiance,25,units/mL,Tablet,Topical,Atlas Medications,Lipid Lowering,Y,2022-09-12,,DrugReferenceHub
+DRG00290,61425622844,Januvia,Sitagliptin,Januvia,500,mcg,Solution,Topical,Crescent Therapeutics,Gastrointestinal,Y,2022-09-29,,DrugReferenceHub
+DRG00291,86677200466,Lantus,Insulin Glargine,Lantus,500,units/mL,Inhaler,Topical,Atlas Medications,Antidiabetic,Y,2023-08-13,,DrugReferenceHub
+DRG00292,94250599448,Humalog,Insulin Lispro,Humalog,25,mcg,Solution,Subcutaneous,Evergreen Labs,Antidepressant,Y,2023-11-10,,DrugReferenceHub
+DRG00293,28631979336,Prozac,Fluoxetine,Prozac,50,mg/mL,Solution,Oral,Summit Therapeutics,Antidepressant,Y,2022-12-14,,DrugReferenceHub
+DRG00294,17813492685,Wellbutrin,Bupropion,Wellbutrin,10,units/mL,Solution,Subcutaneous,Meridian Pharma,Antidiabetic,Y,2023-02-28,,DrugReferenceHub
+DRG00295,90019313030,Coreg,Carvedilol,Coreg,100,units/mL,Solution,Intravenous,Evergreen Labs,Antidiabetic,Y,2022-10-09,,DrugReferenceHub
+DRG00296,68485665817,Lopressor,Metoprolol,Lopressor,20,mg,Solution,Subcutaneous,Beacon Life Sciences,Antihypertensive,Y,2025-03-09,,DrugReferenceHub
+DRG00297,23338670584,Lasix,Furosemide,Lasix,250,mg,Suspension,Transdermal,Evergreen Labs,Antihypertensive,Y,2022-11-06,,DrugReferenceHub
+DRG00298,73548373375,Aldactone,Spironolactone,Aldactone,100,mg,Patch,Intravenous,Beacon Life Sciences,Respiratory,Y,2025-08-19,,DrugReferenceHub
+DRG00299,56889248717,Ventolin,Albuterol,Ventolin,40,mg/mL,Solution,Intravenous,Atlas Medications,Endocrine,Y,2024-02-27,,DrugReferenceHub
+DRG00300,17127788461,Vibramycin,Doxycycline,Vibramycin,40,mg/mL,Injection,Inhalation,Beacon Life Sciences,Antibiotic,Y,2025-03-19,,DrugReferenceHub
+DRG00301,92515101438,Ozempic,Semaglutide,Ozempic,20,mg,Patch,Intravenous,Meridian Pharma,Respiratory,Y,2024-07-19,,DrugReferenceHub
+DRG00302,94487791738,Glucophage,Metformin,Glucophage,250,units/mL,Suspension,Inhalation,BlueRiver Pharmaceuticals,Anticoagulant,Y,2023-01-24,,DrugReferenceHub
+DRG00303,70221820796,Lipitor,Atorvastatin,Lipitor,10,mg,Capsule,Transdermal,Redwood Pharma,Lipid Lowering,Y,2024-05-29,,DrugReferenceHub
+DRG00304,78632194752,Prinivil,Lisinopril,Prinivil,50,mg,Cream,Intravenous,Atlas Medications,Antihypertensive,N,2023-02-05,2025-03-24,DrugReferenceHub
+DRG00305,48827576665,Norvasc,Amlodipine,Norvasc,25,mcg,Injection,Oral,Beacon Life Sciences,Anticoagulant,Y,2022-06-23,,DrugReferenceHub
+DRG00306,96269476252,Cozaar,Losartan,Cozaar,10,mg,Capsule,Topical,BlueRiver Pharmaceuticals,Antidepressant,Y,2023-01-08,,DrugReferenceHub
+DRG00307,94403244960,Prilosec,Omeprazole,Prilosec,50,units/mL,Patch,Oral,Redwood Pharma,Antibiotic,Y,2023-02-07,,DrugReferenceHub
+DRG00308,55577596931,Neurontin,Gabapentin,Neurontin,500,mg/mL,Tablet,Transdermal,Evergreen Labs,Antidiabetic,Y,2022-07-17,,DrugReferenceHub
+DRG00309,34027958339,Synthroid,Levothyroxine,Synthroid,5,mcg,Suspension,Topical,Atlas Medications,Lipid Lowering,Y,2022-02-04,,DrugReferenceHub
+DRG00310,42368965233,Zoloft,Sertraline,Zoloft,10,mcg,Capsule,Inhalation,Pioneer Medical,Neurologic,Y,2025-10-11,,DrugReferenceHub
+DRG00311,56529194411,Crestor,Rosuvastatin,Crestor,50,mg,Injection,Transdermal,BlueRiver Pharmaceuticals,Anticoagulant,Y,2024-01-21,,DrugReferenceHub
+DRG00312,98611238535,Lexapro,Escitalopram,Lexapro,50,mcg,Cream,Transdermal,Meridian Pharma,Antihypertensive,N,2023-08-11,2024-11-14,DrugReferenceHub
+DRG00313,19952451798,Singulair,Montelukast,Singulair,10,units/mL,Cream,Intravenous,Summit Therapeutics,Anticoagulant,N,2025-09-21,2027-04-14,DrugReferenceHub
+DRG00314,14627431869,Cymbalta,Duloxetine,Cymbalta,5,mcg,Injection,Oral,Evergreen Labs,Respiratory,Y,2022-11-25,,DrugReferenceHub
+DRG00315,32305341731,Plavix,Clopidogrel,Plavix,10,units/mL,Capsule,Transdermal,Atlas Medications,Antihypertensive,Y,2023-08-12,,DrugReferenceHub
+DRG00316,79563995586,Protonix,Pantoprazole,Protonix,1000,mcg,Inhaler,Topical,Crescent Therapeutics,Antidiabetic,Y,2025-05-22,,DrugReferenceHub
+DRG00317,78234779957,Microzide,Hydrochlorothiazide,Microzide,50,mg/mL,Injection,Topical,BlueRiver Pharmaceuticals,Antihypertensive,Y,2024-07-13,,DrugReferenceHub
+DRG00318,73727371375,Eliquis,Apixaban,Eliquis,1000,mg/mL,Injection,Subcutaneous,Atlas Medications,Antidepressant,Y,2023-08-07,,DrugReferenceHub
+DRG00319,37017591044,Jardiance,Empagliflozin,Jardiance,50,mcg,Inhaler,Oral,BlueRiver Pharmaceuticals,Respiratory,Y,2023-01-10,,DrugReferenceHub
+DRG00320,94714373929,Januvia,Sitagliptin,Januvia,10,units/mL,Cream,Topical,Atlas Medications,Endocrine,Y,2022-02-21,,DrugReferenceHub
+DRG00321,98037118876,Lantus,Insulin Glargine,Lantus,100,mcg,Capsule,Transdermal,Meridian Pharma,Antidepressant,Y,2022-05-05,,DrugReferenceHub
+DRG00322,46113156038,Humalog,Insulin Lispro,Humalog,40,mg/mL,Tablet,Subcutaneous,Summit Therapeutics,Lipid Lowering,Y,2022-08-25,,DrugReferenceHub
+DRG00323,96685314635,Prozac,Fluoxetine,Prozac,20,mg/mL,Capsule,Inhalation,Pioneer Medical,Endocrine,Y,2025-02-24,,DrugReferenceHub
+DRG00324,87709126031,Wellbutrin,Bupropion,Wellbutrin,40,mg/mL,Capsule,Transdermal,Northstar Pharma,Respiratory,Y,2024-07-23,,DrugReferenceHub
+DRG00325,70483244548,Coreg,Carvedilol,Coreg,20,units/mL,Inhaler,Inhalation,Redwood Pharma,Neurologic,Y,2023-09-26,,DrugReferenceHub
+DRG00326,45479462789,Lopressor,Metoprolol,Lopressor,5,mg,Tablet,Topical,Evergreen Labs,Antidiabetic,Y,2025-02-18,,DrugReferenceHub
+DRG00327,36285274953,Lasix,Furosemide,Lasix,50,units/mL,Capsule,Intravenous,Northstar Pharma,Antidiabetic,Y,2022-08-24,,DrugReferenceHub
+DRG00328,46449302181,Aldactone,Spironolactone,Aldactone,500,mg,Solution,Inhalation,Pioneer Medical,Antidiabetic,Y,2022-11-05,,DrugReferenceHub
+DRG00329,75769382415,Ventolin,Albuterol,Ventolin,10,mg,Cream,Subcutaneous,Evergreen Labs,Antidiabetic,Y,2023-07-29,,DrugReferenceHub
+DRG00330,80550996369,Vibramycin,Doxycycline,Vibramycin,50,units/mL,Injection,Intravenous,Summit Therapeutics,Antidepressant,Y,2025-09-03,,DrugReferenceHub
+DRG00331,40773504873,Ozempic,Semaglutide,Ozempic,40,mg,Injection,Oral,Meridian Pharma,Antidiabetic,Y,2024-06-17,,DrugReferenceHub
+DRG00332,76324394748,Glucophage,Metformin,Glucophage,1000,units/mL,Solution,Subcutaneous,Beacon Life Sciences,Antihypertensive,N,2025-05-29,2027-10-15,DrugReferenceHub
+DRG00333,33036992193,Lipitor,Atorvastatin,Lipitor,1000,mg/mL,Capsule,Oral,Northstar Pharma,Respiratory,Y,2022-12-29,,DrugReferenceHub
+DRG00334,83931760396,Prinivil,Lisinopril,Prinivil,100,mg,Capsule,Oral,Summit Therapeutics,Gastrointestinal,Y,2025-05-25,,DrugReferenceHub
+DRG00335,94459224162,Norvasc,Amlodipine,Norvasc,500,units/mL,Suspension,Subcutaneous,Crescent Therapeutics,Respiratory,Y,2022-04-16,,DrugReferenceHub
+DRG00336,20662343885,Cozaar,Losartan,Cozaar,250,mcg,Suspension,Transdermal,Crescent Therapeutics,Antidepressant,Y,2022-11-29,,DrugReferenceHub
+DRG00337,41217651162,Prilosec,Omeprazole,Prilosec,10,mcg,Cream,Topical,Crescent Therapeutics,Antidiabetic,Y,2024-02-04,,DrugReferenceHub
+DRG00338,67560324733,Neurontin,Gabapentin,Neurontin,50,units/mL,Suspension,Transdermal,Atlas Medications,Neurologic,Y,2022-03-15,,DrugReferenceHub
+DRG00339,93243253281,Synthroid,Levothyroxine,Synthroid,500,mg,Capsule,Oral,Beacon Life Sciences,Antidiabetic,N,2025-06-08,2027-10-03,DrugReferenceHub
+DRG00340,99024156725,Zoloft,Sertraline,Zoloft,250,mg,Capsule,Transdermal,Summit Therapeutics,Gastrointestinal,Y,2025-06-22,,DrugReferenceHub
+DRG00341,11616709896,Crestor,Rosuvastatin,Crestor,20,mg,Capsule,Inhalation,Atlas Medications,Gastrointestinal,Y,2024-03-02,,DrugReferenceHub
+DRG00342,13975X91170,Lexapro,Escitalopram,Lexapro,100,units/mL,Capsule,Inhalation,Evergreen Labs,Lipid Lowering,Y,2023-03-24,,DrugReferenceHub
+DRG00343,24514910454,Singulair,Montelukast,Singulair,50,mg,Tablet,Inhalation,Redwood Pharma,Endocrine,Y,2022-05-25,,DrugReferenceHub
+DRG00344,31265213479,Cymbalta,Duloxetine,Cymbalta,250,units/mL,Injection,Transdermal,Beacon Life Sciences,Antibiotic,Y,2024-06-23,,DrugReferenceHub
+DRG00345,53008248547,Plavix,Clopidogrel,Plavix,50,mcg,Patch,Transdermal,Northstar Pharma,Antidiabetic,Y,2024-02-26,,DrugReferenceHub
+DRG00346,18475573796,Protonix,Pantoprazole,Protonix,5,units/mL,Capsule,Oral,Northstar Pharma,Respiratory,Y,2025-01-16,,DrugReferenceHub
+DRG00347,54800139458,Microzide,Hydrochlorothiazide,Microzide,10,units/mL,Inhaler,Transdermal,Beacon Life Sciences,Gastrointestinal,Y,2024-05-30,,DrugReferenceHub
+DRG00348,86445320315,Eliquis,Apixaban,Eliquis,10,mcg,Cream,Topical,Evergreen Labs,Respiratory,Y,2022-07-07,,DrugReferenceHub
+DRG00349,15897986050,Jardiance,Empagliflozin,Jardiance,500,mcg,Injection,Oral,Meridian Pharma,Lipid Lowering,Y,2022-06-28,,DrugReferenceHub
+DRG00350,96688660979,Januvia,Sitagliptin,Januvia,500,mcg,Tablet,Topical,Crescent Therapeutics,Antihypertensive,Y,2025-02-15,,DrugReferenceHub
+DRG00351,10394138129,Lantus,Insulin Glargine,Lantus,250,mg/mL,Cream,Transdermal,BlueRiver Pharmaceuticals,Antihypertensive,Y,2022-08-21,,DrugReferenceHub
+DRG00352,40895504647,Humalog,Insulin Lispro,Humalog,100,mg,Injection,Intravenous,BlueRiver Pharmaceuticals,Lipid Lowering,Y,2025-10-04,,DrugReferenceHub
+DRG00353,99885674336,Prozac,Fluoxetine,Prozac,10,mg,Suspension,Intravenous,Redwood Pharma,Antihypertensive,Y,2022-06-04,,DrugReferenceHub
+DRG00354,18466794989,Wellbutrin,Bupropion,Wellbutrin,10,mg,Solution,Transdermal,Atlas Medications,Lipid Lowering,Y,2024-11-30,,DrugReferenceHub
+DRG00355,61516501822,Coreg,Carvedilol,Coreg,250,units/mL,Injection,Inhalation,Beacon Life Sciences,Gastrointestinal,Y,2025-11-26,,DrugReferenceHub
+DRG00356,25866246025,Lopressor,Metoprolol,Lopressor,1000,mg,Cream,Subcutaneous,Summit Therapeutics,Neurologic,Y,2023-10-08,,DrugReferenceHub
+DRG00357,22829836382,Lasix,Furosemide,Lasix,20,units/mL,Injection,Subcutaneous,Crescent Therapeutics,Neurologic,Y,2022-03-24,,DrugReferenceHub
+DRG00358,48887377765,Aldactone,Spironolactone,Aldactone,40,mg/mL,Tablet,Transdermal,Redwood Pharma,Anticoagulant,Y,2025-07-05,,DrugReferenceHub
+DRG00359,20775807220,Ventolin,Albuterol,Ventolin,1000,mg,Solution,Topical,Atlas Medications,Neurologic,Y,2022-10-01,,DrugReferenceHub
+DRG00360,87009353291,Vibramycin,Doxycycline,Vibramycin,10,mcg,Cream,Subcutaneous,Redwood Pharma,Antihypertensive,Y,2024-02-11,,DrugReferenceHub
+DRG00361,23809467884,Ozempic,Semaglutide,Ozempic,5,mg/mL,Tablet,Oral,Atlas Medications,Antidiabetic,Y,2025-12-10,,DrugReferenceHub
+DRG00362,81276626479,Glucophage,Metformin,Glucophage,40,mg,Cream,Intravenous,Atlas Medications,Anticoagulant,Y,2024-12-24,,DrugReferenceHub
+DRG00363,15585457750,Lipitor,Atorvastatin,Lipitor,1000,units/mL,Cream,Intravenous,Evergreen Labs,Antihypertensive,N,2022-03-09,2023-11-04,DrugReferenceHub
+DRG00364,96593890261,Prinivil,Lisinopril,Prinivil,1000,mg,Injection,Inhalation,Crescent Therapeutics,Respiratory,Y,2025-04-14,,DrugReferenceHub
+DRG00365,80571446571,Norvasc,Amlodipine,Norvasc,50,units/mL,Inhaler,Inhalation,Summit Therapeutics,Anticoagulant,Y,2022-08-24,,DrugReferenceHub
+DRG00366,74584984923,Cozaar,Losartan,Cozaar,50,units/mL,Capsule,Subcutaneous,Summit Therapeutics,Respiratory,Y,2024-12-31,,DrugReferenceHub
+DRG00367,74192691278,Prilosec,Omeprazole,Prilosec,40,mcg,Tablet,Oral,Summit Therapeutics,Antidiabetic,Y,2024-06-26,,DrugReferenceHub
+DRG00368,97815836329,Neurontin,Gabapentin,Neurontin,10,mg,Cream,Inhalation,Crescent Therapeutics,Antihypertensive,Y,2023-02-25,,DrugReferenceHub
+DRG00369,49564701468,Synthroid,Levothyroxine,Synthroid,5,mcg,Tablet,Oral,BlueRiver Pharmaceuticals,Antidepressant,Y,2023-09-12,,DrugReferenceHub
+DRG00370,87094117577,Zoloft,Sertraline,Zoloft,250,mg/mL,Inhaler,Inhalation,BlueRiver Pharmaceuticals,Lipid Lowering,Y,2022-06-22,,DrugReferenceHub
+DRG00371,49169824284,Crestor,Rosuvastatin,Crestor,5,units/mL,Patch,Intravenous,Beacon Life Sciences,Anticoagulant,N,2025-12-13,2028-04-27,DrugReferenceHub
+DRG00372,42730843510,Lexapro,Escitalopram,Lexapro,40,mg,Capsule,Oral,Beacon Life Sciences,Anticoagulant,Y,2022-12-15,,DrugReferenceHub
+DRG00373,56735853544,Singulair,Montelukast,Singulair,40,units/mL,Injection,Transdermal,Northstar Pharma,Antibiotic,Y,2023-03-28,,DrugReferenceHub
+DRG00374,77801642735,Cymbalta,Duloxetine,Cymbalta,5,mg,Patch,Oral,Northstar Pharma,Anticoagulant,Y,2024-01-06,,DrugReferenceHub
+DRG00375,50442763134,Plavix,Clopidogrel,Plavix,25,units/mL,Tablet,Oral,Meridian Pharma,Endocrine,Y,2024-09-10,,DrugReferenceHub
+DRG00376,67259185565,Protonix,Pantoprazole,Protonix,50,mcg,Cream,Inhalation,Atlas Medications,Anticoagulant,Y,2024-01-09,,DrugReferenceHub
+DRG00377,19530750922,Microzide,Hydrochlorothiazide,Microzide,10,mg,Inhaler,Transdermal,Northstar Pharma,Antidiabetic,Y,2024-01-09,,DrugReferenceHub
+DRG00378,52004247373,Eliquis,Apixaban,Eliquis,25,units/mL,Injection,Oral,BlueRiver Pharmaceuticals,Antibiotic,Y,2024-05-01,,DrugReferenceHub
+DRG00379,86713966277,Jardiance,Empagliflozin,Jardiance,10,mg/mL,Cream,Inhalation,Atlas Medications,Neurologic,N,2025-06-07,2026-09-14,DrugReferenceHub
+DRG00380,20393586211,Januvia,Sitagliptin,Januvia,40,units/mL,Tablet,Transdermal,Redwood Pharma,Gastrointestinal,Y,2023-08-01,,DrugReferenceHub
+DRG00381,59912899015,Lantus,Insulin Glargine,Lantus,5,mcg,Patch,Intravenous,Crescent Therapeutics,Antidiabetic,Y,2025-05-01,,DrugReferenceHub
+DRG00382,84458290728,Humalog,Insulin Lispro,Humalog,20,mg,Solution,Intravenous,Evergreen Labs,Antidepressant,Y,2025-02-24,,DrugReferenceHub
+DRG00383,93839707777,Prozac,Fluoxetine,Prozac,50,mcg,Patch,Topical,Beacon Life Sciences,Gastrointestinal,Y,2025-11-05,,DrugReferenceHub
+DRG00384,71237921960,Wellbutrin,Bupropion,Wellbutrin,25,mcg,Inhaler,Topical,Summit Therapeutics,Antihypertensive,Y,2025-08-28,,DrugReferenceHub
+DRG00385,70400541549,Coreg,Carvedilol,Coreg,100,mg/mL,Suspension,Intravenous,Meridian Pharma,Antibiotic,Y,2025-03-12,,DrugReferenceHub
+DRG00386,26672598156,Lopressor,Metoprolol,Lopressor,50,mcg,Patch,Topical,Evergreen Labs,Neurologic,Y,2022-12-27,,DrugReferenceHub
+DRG00387,11590371650,Lasix,Furosemide,Lasix,50,mg,Tablet,Transdermal,Northstar Pharma,Antidepressant,Y,2025-02-06,,DrugReferenceHub
+DRG00388,26670320788,Aldactone,Spironolactone,Aldactone,40,mg/mL,Injection,Intravenous,Redwood Pharma,Endocrine,Y,2024-12-12,,DrugReferenceHub
+DRG00389,60036280484,Ventolin,Albuterol,Ventolin,50,mg/mL,Inhaler,Subcutaneous,Meridian Pharma,Antidepressant,Y,2023-02-28,,DrugReferenceHub
+DRG00390,27388983519,Vibramycin,Doxycycline,Vibramycin,25,units/mL,Injection,Inhalation,Redwood Pharma,Antihypertensive,Y,2024-09-18,,DrugReferenceHub
+DRG00391,14954435394,Ozempic,Semaglutide,Ozempic,100,mg/mL,Injection,Inhalation,Evergreen Labs,Respiratory,Y,2023-01-05,,DrugReferenceHub
+DRG00392,82097839974,Glucophage,Metformin,Glucophage,10,mg,Injection,Intravenous,Meridian Pharma,Gastrointestinal,Y,2024-02-04,,DrugReferenceHub
+DRG00393,91304485350,Lipitor,Atorvastatin,Lipitor,500,mg,Cream,Oral,Evergreen Labs,Gastrointestinal,Y,2025-03-10,,DrugReferenceHub
+DRG00394,37929930922,Prinivil,Lisinopril,Prinivil,40,mg/mL,Suspension,Oral,Beacon Life Sciences,Gastrointestinal,Y,2022-10-03,,DrugReferenceHub
+DRG00395,38721413264,Norvasc,Amlodipine,Norvasc,20,mcg,Patch,Oral,Summit Therapeutics,Neurologic,Y,2023-05-08,,DrugReferenceHub
+DRG00396,54348747469,Cozaar,Losartan,Cozaar,1000,mg/mL,Inhaler,Inhalation,Atlas Medications,Gastrointestinal,Y,2025-03-08,,DrugReferenceHub
+DRG00397,45869998291,Prilosec,Omeprazole,Prilosec,1000,units/mL,Suspension,Transdermal,Redwood Pharma,Anticoagulant,Y,2023-10-26,,DrugReferenceHub
+DRG00398,52855896229,Neurontin,Gabapentin,Neurontin,20,mcg,Patch,Oral,Crescent Therapeutics,Lipid Lowering,N,2025-11-05,2027-04-08,DrugReferenceHub
+DRG00399,39764892488,Synthroid,Levothyroxine,Synthroid,100,mg/mL,Tablet,Subcutaneous,Meridian Pharma,Endocrine,N,2022-01-12,2024-05-29,DrugReferenceHub
+DRG00400,20641978938,Zoloft,Sertraline,Zoloft,5,mg,Inhaler,Oral,Crescent Therapeutics,Anticoagulant,Y,2024-11-21,,DrugReferenceHub
+DRG00401,67213385883,Crestor,Rosuvastatin,Crestor,500,units/mL,Tablet,Inhalation,BlueRiver Pharmaceuticals,Gastrointestinal,Y,2025-04-05,,DrugReferenceHub
+DRG00402,21365601254,Lexapro,Escitalopram,Lexapro,1000,units/mL,Tablet,Transdermal,Meridian Pharma,Anticoagulant,Y,2025-09-03,,DrugReferenceHub
+DRG00403,78627670934,Singulair,Montelukast,Singulair,25,mg/mL,Injection,Transdermal,Pioneer Medical,Antihypertensive,Y,2022-08-18,,DrugReferenceHub
+DRG00404,75670258359,Cymbalta,Duloxetine,Cymbalta,100,mg/mL,Patch,Oral,Redwood Pharma,Gastrointestinal,Y,2025-12-09,,DrugReferenceHub
+DRG00405,22620625618,Plavix,Clopidogrel,Plavix,40,mg,Injection,Inhalation,BlueRiver Pharmaceuticals,Respiratory,Y,2023-07-28,,DrugReferenceHub
+DRG00406,35913846432,Protonix,Pantoprazole,Protonix,250,mg,Inhaler,Oral,Meridian Pharma,Lipid Lowering,N,2023-05-30,2024-09-29,DrugReferenceHub
+DRG00407,69179660314,Microzide,Hydrochlorothiazide,Microzide,40,mg/mL,Injection,Subcutaneous,Summit Therapeutics,Anticoagulant,Y,2023-06-04,,DrugReferenceHub
+DRG00408,67426983874,Eliquis,Apixaban,Eliquis,10,mg/mL,Injection,Inhalation,Northstar Pharma,Neurologic,N,2024-07-22,2026-09-26,DrugReferenceHub
+DRG00409,25904761313,Jardiance,Empagliflozin,Jardiance,100,units/mL,Patch,Intravenous,Pioneer Medical,Gastrointestinal,Y,2024-08-21,,DrugReferenceHub
+DRG00410,19150183984,Januvia,Sitagliptin,Januvia,50,mcg,Patch,Transdermal,Atlas Medications,Antibiotic,Y,2023-11-24,,DrugReferenceHub
+DRG00411,44770351942,Lantus,Insulin Glargine,Lantus,10,mcg,Suspension,Transdermal,BlueRiver Pharmaceuticals,Antidepressant,Y,2022-04-14,,DrugReferenceHub
+DRG00412,12391577414,Humalog,Insulin Lispro,Humalog,5,mcg,Suspension,Inhalation,Atlas Medications,Antibiotic,Y,2025-12-13,,DrugReferenceHub
+DRG00413,99282121398,Prozac,Fluoxetine,Prozac,5,mcg,Tablet,Transdermal,Summit Therapeutics,Neurologic,Y,2022-11-21,,DrugReferenceHub
+DRG00414,25975107640,Wellbutrin,Bupropion,Wellbutrin,25,mg/mL,Tablet,Topical,Pioneer Medical,Lipid Lowering,Y,2022-05-18,,DrugReferenceHub
+DRG00415,27306655329,Coreg,Carvedilol,Coreg,1000,mg/mL,Cream,Oral,Meridian Pharma,Gastrointestinal,Y,2024-05-23,,DrugReferenceHub
+DRG00416,57938753177,Lopressor,Metoprolol,Lopressor,5,mg,Tablet,Oral,BEACON LIFE SCIENCES,Respiratory,Y,2023-08-26,,DrugReferenceHub
+DRG00417,74359942977,Lasix,Furosemide,Lasix,20,units/mL,Patch,Subcutaneous,NORTHSTAR PHARMA,Antidiabetic,Y,2024-06-18,,DrugReferenceHub
+DRG00418,87431285235,Aldactone,Spironolactone,Aldactone,250,mcg,Injection,Intravenous,Pioneer Medical,Antidepressant,Y,2025-07-04,,DrugReferenceHub
+DRG00419,72668546049,Ventolin,Albuterol,Ventolin,25,units/mL,Injection,Topical,Northstar Pharma,Antibiotic,Y,2022-05-23,,DrugReferenceHub
+DRG00420,89307815129,Vibramycin,Doxycycline,Vibramycin,100,mcg,Solution,Subcutaneous,Evergreen Labs,Antibiotic,N,2023-02-20,2024-08-24,DrugReferenceHub
+DRG00421,63060557974,Ozempic,Semaglutide,Ozempic,500,mcg,Solution,Inhalation,Pioneer Medical,Gastrointestinal,Y,2024-01-26,,DrugReferenceHub
+DRG00422,21424930580,Glucophage,Metformin,Glucophage,40,mg/mL,Solution,Inhalation,BlueRiver Pharmaceuticals,Neurologic,N,2025-02-25,2026-04-25,DrugReferenceHub
+DRG00423,76053633631,Lipitor,Atorvastatin,Lipitor,40,units/mL,Patch,Subcutaneous,Atlas Medications,Gastrointestinal,Y,2024-05-28,,DrugReferenceHub
+DRG00424,99338867913,Prinivil,Lisinopril,Prinivil,40,mg,Injection,Topical,Meridian Pharma,Endocrine,Y,2023-07-14,,DrugReferenceHub
+DRG00425,31107191665,Norvasc,Amlodipine,Norvasc,50,mg/mL,Inhaler,Subcutaneous,Atlas Medications,Respiratory,Y,2024-06-10,,DrugReferenceHub
+DRG00426,36582971350,Cozaar,Losartan,Cozaar,250,mg/mL,Cream,Subcutaneous,BlueRiver Pharmaceuticals,Lipid Lowering,Y,2025-12-03,,DrugReferenceHub
+DRG00427,41367605024,Prilosec,,Prilosec,1000,units/mL,Tablet,Transdermal,Redwood Pharma,Respiratory,Y,2023-12-03,,DrugReferenceHub
+DRG00428,73078761162,Neurontin,Gabapentin,Neurontin,10,mg,Suspension,Topical,Pioneer Medical,Antibiotic,Y,2025-07-15,,DrugReferenceHub
+DRG00429,45970496271,Synthroid,Levothyroxine,Synthroid,25,units/mL,Solution,Intravenous,Beacon Life Sciences,Anticoagulant,N,2025-02-14,2026-02-08,DrugReferenceHub
+DRG00430,81775220884,Zoloft,,Zoloft,50,mg/mL,Solution,Oral,Crescent Therapeutics,Endocrine,Y,2023-03-17,,DrugReferenceHub
+DRG00431,19599866643,Crestor,Rosuvastatin,Crestor,5,mcg,Suspension,Topical,BlueRiver Pharmaceuticals,Neurologic,Y,2022-12-31,,DrugReferenceHub
+DRG00432,85393162035,Lexapro,Escitalopram,Lexapro,100,mg/mL,Solution,Subcutaneous,Beacon Life Sciences,Respiratory,Y,2025-01-31,,DrugReferenceHub
+DRG00433,47340976831,Singulair,Montelukast,Singulair,10,units/mL,PATCH,Subcutaneous,BlueRiver Pharmaceuticals,Endocrine,N,2022-10-31,2024-09-07,DrugReferenceHub
+DRG00434,57089942274,Cymbalta,Duloxetine,Cymbalta,250,units/mL,Patch,Inhalation,Summit Therapeutics,Antidiabetic,Y,2023-05-08,,DrugReferenceHub
+DRG00435,37535827761,Plavix,Clopidogrel,Plavix,500,mg/mL,Cream,Inhalation,Crescent Therapeutics,Neurologic,N,2022-12-11,2024-07-06,DrugReferenceHub
+DRG00436,52440734534,Protonix,Pantoprazole,Protonix,10,units/mL,Suspension,Intravenous,Redwood Pharma,Endocrine,Y,2024-06-05,,DrugReferenceHub
+DRG00437,28814780756,Microzide,Hydrochlorothiazide,Microzide,100,mg,Tablet,Transdermal,Evergreen Labs,Neurologic,N,2023-03-07,2024-07-01,DrugReferenceHub
+DRG00438,56531179876,Eliquis,Apixaban,Eliquis,40,units/mL,Solution,Oral,Northstar Pharma,Antidiabetic,Y,2024-08-20,,DrugReferenceHub
+DRG00439,51730490271,UNKNOWN BRAND DRG00439,Empagliflozin,Jardiance,5,mg/mL,Capsule,Inhalation,Atlas Medications,Antibiotic,Y,2025-09-28,,DrugReferenceHub
+DRG00440,58378729732,Januvia,Sitagliptin,Januvia,20,units/mL,Inhaler,Inhalation,Summit Therapeutics,Lipid Lowering,Y,2025-04-27,,DrugReferenceHub
+DRG00441,13912543726,Lantus,Insulin Glargine,Lantus,25,mg/mL,Patch,Topical,Redwood Pharma,Neurologic,Y,2025-10-17,,DrugReferenceHub
+DRG00442,42969761175,Humalog,Insulin Lispro,Humalog,20,mg/mL,Capsule,Subcutaneous,BlueRiver Pharmaceuticals,Anticoagulant,Y,2022-02-05,,DrugReferenceHub
+DRG00443,39238700621,Prozac,Fluoxetine,Prozac,1000,mg,Patch,Oral,Atlas Medications,Neurologic,Y,2023-10-28,,DrugReferenceHub
+DRG00444,56133530192,Wellbutrin,Bupropion,Wellbutrin,500,mcg,Inhaler,Inhalation,Evergreen Labs,Antihypertensive,Y,2022-11-18,,DrugReferenceHub
+DRG00445,99706788130,Coreg,Carvedilol,Coreg,20,units/mL,Injection,Oral,Beacon Life Sciences,Anticoagulant,Y,2025-09-03,,DrugReferenceHub
+DRG00446,81808216148,Lopressor,Metoprolol,Lopressor,1000,mcg,Suspension,Inhalation,Redwood Pharma,Gastrointestinal,Y,2024-11-06,,DrugReferenceHub
+DRG00447,13165383624,Lasix,,Lasix,100,units/mL,Suspension,Oral,Meridian Pharma,Antihypertensive,Y,2023-04-14,,DrugReferenceHub
+DRG00448,47131206943,Aldactone,Spironolactone,Aldactone,1000,units/mL,Injection,Topical,Meridian Pharma,Antidiabetic,Y,2024-04-03,,DrugReferenceHub
+DRG00449,79740234754,Ventolin,Albuterol,Ventolin,50,mcg,Cream,Subcutaneous,Summit Therapeutics,Antibiotic,N,2024-06-04,2026-08-02,DrugReferenceHub
+DRG00450,96005568835,Vibramycin,Doxycycline,Vibramycin,10,units/mL,Capsule,Subcutaneous,BlueRiver Pharmaceuticals,Lipid Lowering,Y,2023-12-26,,DrugReferenceHub
+DRG00451,67543708985,Ozempic,Semaglutide,Ozempic,50,units/mL,Solution,Oral,BlueRiver Pharmaceuticals,Lipid Lowering,Y,2023-11-25,,DrugReferenceHub
+DRG00452,82124250653,Glucophage,Metformin,Glucophage,250,mg,Capsule,Oral,Pioneer Medical,Respiratory,Y,2022-03-22,,DrugReferenceHub
+DRG00453,65464801075,Lipitor,Atorvastatin,Lipitor,100,mg/mL,Solution,Inhalation,Evergreen Labs,Endocrine,N,2023-10-24,2024-04-21,DrugReferenceHub
+DRG00454,59990586381,Prinivil,Lisinopril,Prinivil,500,mg,Patch,Intravenous,BlueRiver Pharmaceuticals,Antibiotic,Y,2023-05-25,,DrugReferenceHub
+DRG00455,33167573583,Norvasc,Amlodipine,Norvasc,25,units/mL,Injection,Intravenous,Northstar Pharma,Antidepressant,Y,2025-04-11,,DrugReferenceHub
+DRG00456,92188700925,Cozaar,Losartan,Cozaar,500,mcg,Solution,Oral,Northstar Pharma,Anticoagulant,N,2025-06-18,2026-02-28,DrugReferenceHub
+DRG00457,20379513865,Prilosec,Omeprazole,Prilosec,50,units/mL,Cream,Topical,Evergreen Labs,Endocrine,Y,2025-01-02,,DrugReferenceHub
+DRG00458,38750191648,Neurontin,Gabapentin,Neurontin,40,mcg,Inhaler,Subcutaneous,Summit Therapeutics,Antidiabetic,Y,2022-02-15,,DrugReferenceHub
+DRG00459,29586954162,Synthroid,Levothyroxine,Synthroid,1000,units/mL,Capsule,Intravenous,Pioneer Medical,Antidiabetic,Y,2025-05-14,,DrugReferenceHub
+DRG00460,80340679445,Zoloft,Sertraline,Zoloft,10,mg/mL,Capsule,Subcutaneous,Summit Therapeutics,Lipid Lowering,Y,2023-08-03,,DrugReferenceHub
+DRG00461,64532981981,Crestor,Rosuvastatin,Crestor,25,mcg,Inhaler,Intravenous,Redwood Pharma,Respiratory,Y,2023-09-01,,DrugReferenceHub
+DRG00462,23817377057,Lexapro,Escitalopram,Lexapro,500,mg/mL,Patch,Inhalation,Crescent Therapeutics,Anticoagulant,Y,2025-10-13,,DrugReferenceHub
+DRG00463,82100899412,Singulair,Montelukast,Singulair,25,mcg,Capsule,Transdermal,Atlas Medications,Endocrine,Y,2025-06-21,,DrugReferenceHub
+DRG00464,30516747666,Cymbalta,Duloxetine,Cymbalta,100,mg/mL,Capsule,Subcutaneous,BlueRiver Pharmaceuticals,Antihypertensive,N,2022-03-16,2024-11-08,DrugReferenceHub
+DRG00465,91237315897,Plavix,Clopidogrel,Plavix,40,mg/mL,Inhaler,Intravenous,Pioneer Medical,Neurologic,Y,2023-06-11,,DrugReferenceHub
+DRG00466,46005730687,Protonix,Pantoprazole,Protonix,100,mg,Patch,Inhalation,Summit Therapeutics,Lipid Lowering,Y,2025-01-01,,DrugReferenceHub
+DRG00467,76071831723,Microzide,Hydrochlorothiazide,Microzide,250,mg/mL,Patch,Inhalation,Pioneer Medical,Anticoagulant,Y,2024-02-27,,DrugReferenceHub
+DRG00468,79689644320,Eliquis,Apixaban,Eliquis,50,mg/mL,Injection,Oral,Meridian Pharma,Antidiabetic,Y,2023-01-12,,DrugReferenceHub
+DRG00469,47041166680,Jardiance,Empagliflozin,Jardiance,20,mg/mL,Cream,Inhalation,Crescent Therapeutics,Lipid Lowering,Y,2024-02-07,,DrugReferenceHub
+DRG00470,55747428354,Januvia,Sitagliptin,Januvia,5,mg/mL,Tablet,Topical,Summit Therapeutics,Anticoagulant,Y,2025-06-20,,DrugReferenceHub
+DRG00471,57036754977,Lantus,Insulin Glargine,Lantus,100,mcg,Cream,Subcutaneous,Atlas Medications,Antidepressant,Y,2022-11-23,,DrugReferenceHub
+DRG00472,57373424595,Humalog,Insulin Lispro,Humalog,20,units/mL,Solution,Transdermal,Atlas Medications,Endocrine,Y,2024-12-26,,DrugReferenceHub
+DRG00473,26411345874,Prozac,Fluoxetine,Prozac,1000,mg,Injection,Inhalation,Pioneer Medical,Antidepressant,N,2024-12-10,2026-12-04,DrugReferenceHub
+DRG00474,60563234574,Wellbutrin,Bupropion,Wellbutrin,5,units/mL,Suspension,Oral,BlueRiver Pharmaceuticals,Respiratory,N,2025-07-18,2027-04-09,DrugReferenceHub
+DRG00475,81681687310,Coreg,,Coreg,50,mg,Tablet,Subcutaneous,Beacon Life Sciences,Endocrine,Y,2023-03-12,,DrugReferenceHub
+DRG00476,98323115551,Lopressor,Metoprolol,Lopressor,500,mcg,Capsule,Topical,Atlas Medications,Lipid Lowering,Y,2022-11-12,,DrugReferenceHub
+DRG00477,31553546728,Lasix,Furosemide,Lasix,25,mg,Capsule,Intravenous,Beacon Life Sciences,Antidepressant,Y,2024-03-11,,DrugReferenceHub
+DRG00478,84538386197,Aldactone,Spironolactone,Aldactone,50,units/mL,Patch,Intravenous,Crescent Therapeutics,Antibiotic,Y,2024-02-16,,DrugReferenceHub
+DRG00479,98272669316,Ventolin,Albuterol,Ventolin,5,units/mL,Injection,Transdermal,Pioneer Medical,Neurologic,Y,2023-08-22,,DrugReferenceHub
+DRG00480,35257352788,Vibramycin,Doxycycline,Vibramycin,25,mcg,Patch,Inhalation,Atlas Medications,Neurologic,Y,2025-02-13,,DrugReferenceHub
+DRG00481,85340859181,Ozempic,Semaglutide,Ozempic,5,mg,Inhaler,Oral,Beacon Life Sciences,Anticoagulant,Y,2025-03-14,,DrugReferenceHub
+DRG00482,12871210416,Glucophage,Metformin,Glucophage,40,units/mL,Tablet,Subcutaneous,Northstar Pharma,Gastrointestinal,Y,2022-12-26,,DrugReferenceHub
+DRG00483,45469791921,Lipitor,Atorvastatin,Lipitor,25,mg/mL,Patch,Inhalation,Evergreen Labs,Antidepressant,Y,2025-03-09,,DrugReferenceHub
+DRG00484,86832223497,Prinivil,Lisinopril,Prinivil,5,mg/mL,Capsule,Inhalation,Northstar Pharma,Antibiotic,Y,2022-12-04,,DrugReferenceHub
+DRG00485,94306492934,Norvasc,Amlodipine,Norvasc,20,mcg,Cream,Transdermal,Atlas Medications,Lipid Lowering,Y,2023-08-19,,DrugReferenceHub
+DRG00486,52862954898,Cozaar,Losartan,Cozaar,5,mg,Solution,Oral,BlueRiver Pharmaceuticals,Antibiotic,N,2022-02-09,2022-08-20,DrugReferenceHub
+DRG00487,34030808751,Prilosec,Omeprazole,Prilosec,5,mg/mL,Capsule,Intravenous,Beacon Life Sciences,Respiratory,Y,2023-05-13,,DrugReferenceHub
+DRG00488,64302947246,Neurontin,Gabapentin,Neurontin,5,mg/mL,Tablet,Oral,Evergreen Labs,Lipid Lowering,Y,2025-11-02,,DrugReferenceHub
+DRG00489,76548454081,Synthroid,Levothyroxine,Synthroid,500,mg/mL,Solution,Transdermal,Pioneer Medical,Neurologic,Y,2023-10-10,,DrugReferenceHub
+DRG00490,17997612230,Zoloft,Sertraline,Zoloft,250,mg/mL,Patch,Transdermal,PIONEER MEDICAL,Neurologic,N,2024-11-04,2026-09-05,DrugReferenceHub
+DRG00491,15501225748,Crestor,Rosuvastatin,Crestor,500,mg/mL,Cream,Intravenous,BlueRiver Pharmaceuticals,Neurologic,N,2022-06-07,2023-11-25,DrugReferenceHub
+DRG00492,42576948965,Lexapro,Escitalopram,Lexapro,1000,mg,Suspension,Intravenous,Crescent Therapeutics,Gastrointestinal,Y,2024-07-18,,DrugReferenceHub
+DRG00493,73921220685,Singulair,Montelukast,Singulair,100,mcg,Cream,Oral,Pioneer Medical,Neurologic,Y,2023-06-28,,DrugReferenceHub
+DRG00494,95394474535,Cymbalta,Duloxetine,Cymbalta,250,mg/mL,Cream,Transdermal,Atlas Medications,Gastrointestinal,Y,2024-12-23,,DrugReferenceHub
+DRG00495,58914968790,Plavix,Clopidogrel,Plavix,10,units/mL,Cream,Inhalation,Atlas Medications,Endocrine,Y,2025-09-18,,DrugReferenceHub
+DRG00496,12237637159,Protonix,Pantoprazole,Protonix,50,units/mL,Inhaler,Inhalation,Summit Therapeutics,Antibiotic,N,2024-02-17,2025-12-19,DrugReferenceHub
+DRG00497,87180850251,Microzide,Hydrochlorothiazide,Microzide,20,mg/mL,Injection,Intravenous,Beacon Life Sciences,Antibiotic,Y,2022-05-31,,DrugReferenceHub
+DRG00498,92139958992,Eliquis,Apixaban,Eliquis,40,mcg,Inhaler,Subcutaneous,Summit Therapeutics,Antidiabetic,N,2023-11-28,2024-06-28,DrugReferenceHub
+DRG00499,21322844418,Jardiance,Empagliflozin,Jardiance,500,mg,Suspension,Oral,Summit Therapeutics,Antibiotic,Y,2022-06-29,,DrugReferenceHub
+DRG00500,31106224472,Januvia,Sitagliptin,Januvia,20,units/mL,Cream,Transdermal,Evergreen Labs,Gastrointestinal,Y,2023-10-20,,DrugReferenceHub
+DRG00501,40972267118,Lantus,Insulin Glargine,Lantus,500,mg/mL,Tablet,Topical,Pioneer Medical,Anticoagulant,Y,2022-03-31,,DrugReferenceHub
+DRG00502,68817261549,Humalog,Insulin Lispro,Humalog,250,mcg,Inhaler,Intravenous,Evergreen Labs,Anticoagulant,Y,2024-07-25,,DrugReferenceHub
+DRG00503,33745564480,Prozac,Fluoxetine,Prozac,20,units/mL,Injection,Oral,Atlas Medications,Antihypertensive,Y,2023-03-30,,DrugReferenceHub
+DRG00504,37135715266,Wellbutrin,Bupropion,Wellbutrin,1000,mcg,Solution,Subcutaneous,Northstar Pharma,Antidepressant,Y,2022-10-22,,DrugReferenceHub
+DRG00505,29471563846,Coreg,Carvedilol,Coreg,500,units/mL,Tablet,Intravenous,Meridian Pharma,Gastrointestinal,Y,2022-01-26,,DrugReferenceHub
+DRG00506,21642883934,Lopressor,Metoprolol,Lopressor,25,mcg,Capsule,Inhalation,Crescent Therapeutics,Respiratory,N,2025-07-22,2027-04-14,DrugReferenceHub
+DRG00507,44905932967,Lasix,Furosemide,Lasix,25,mg/mL,Patch,Intravenous,Crescent Therapeutics,Neurologic,Y,2025-05-08,,DrugReferenceHub
+DRG00508,28309735158,Aldactone,Spironolactone,Aldactone,250,mcg,Injection,Intravenous,Pioneer Medical,Respiratory,Y,2025-04-01,,DrugReferenceHub
+DRG00509,13954840715,Ventolin,Albuterol,Ventolin,500,units/mL,Cream,Oral,Crescent Therapeutics,Antidiabetic,Y,2022-03-26,,DrugReferenceHub
+DRG00510,50146274292,Vibramycin,Doxycycline,Vibramycin,500,mcg,Injection,Transdermal,Atlas Medications,Antidepressant,Y,2023-05-27,,DrugReferenceHub
+DRG00511,58801526081,Ozempic,Semaglutide,Ozempic,100,units/mL,Patch,Subcutaneous,REDWOOD PHARMA,Antihypertensive,N,2025-11-21,2027-09-05,DrugReferenceHub
+DRG00512,37570262831,Glucophage,Metformin,Glucophage,25,mg,Suspension,Topical,Atlas Medications,Respiratory,Y,2024-04-25,,DrugReferenceHub
+DRG00513,47494236310,Lipitor,Atorvastatin,Lipitor,5,mg,Tablet,Topical,Summit Therapeutics,Gastrointestinal,Y,2022-07-07,,DrugReferenceHub
+DRG00514,59211433737,Prinivil,Lisinopril,Prinivil,100,mcg,Suspension,Inhalation,Pioneer Medical,Respiratory,Y,2022-07-26,,DrugReferenceHub
+DRG00515,96515232917,Norvasc,Amlodipine,Norvasc,5,mg,Injection,Oral,Atlas Medications,Lipid Lowering,Y,2023-01-20,,DrugReferenceHub
+DRG00516,71138176370,Cozaar,Losartan,Cozaar,25,mcg,Suspension,Subcutaneous,Northstar Pharma,Antidiabetic,Y,2025-11-22,,DrugReferenceHub
+DRG00517,84334385421,Prilosec,Omeprazole,Prilosec,40,mg/mL,Inhaler,Topical,Crescent Therapeutics,Endocrine,Y,2022-09-05,,DrugReferenceHub
+DRG00518,22366963895,Neurontin,Gabapentin,Neurontin,250,units/mL,Patch,Inhalation,Summit Therapeutics,Neurologic,Y,2025-08-13,,DrugReferenceHub
+DRG00519,55296874591,Synthroid,Levothyroxine,Synthroid,20,mcg,Tablet,Topical,Evergreen Labs,Antidepressant,N,2024-09-18,2025-11-09,DrugReferenceHub
+DRG00520,26718530956,Zoloft,Sertraline,Zoloft,40,mg,Tablet,Subcutaneous,Crescent Therapeutics,Neurologic,N,2025-09-09,2026-04-21,DrugReferenceHub
+DRG00521,10849291063,Crestor,Rosuvastatin,Crestor,100,mg/mL,Cream,Intravenous,Summit Therapeutics,Gastrointestinal,Y,2025-04-22,,DrugReferenceHub
+DRG00522,26059713727,Lexapro,Escitalopram,Lexapro,5,mcg,Suspension,Topical,Redwood Pharma,Lipid Lowering,Y,2023-05-01,,DrugReferenceHub
+DRG00523,54458104234,Singulair,Montelukast,Singulair,10,units/mL,Injection,Topical,Crescent Therapeutics,Respiratory,Y,2025-04-25,,DrugReferenceHub
+DRG00524,96959249363,Cymbalta,Duloxetine,Cymbalta,40,units/mL,Solution,Inhalation,BlueRiver Pharmaceuticals,Gastrointestinal,Y,2022-09-05,,DrugReferenceHub
+DRG00525,64322142638,Plavix,Clopidogrel,Plavix,20,mcg,Injection,Oral,Pioneer Medical,Respiratory,N,2023-03-02,2025-11-02,DrugReferenceHub
+DRG00526,36069903176,Protonix,Pantoprazole,Protonix,5,mcg,Cream,Topical,Atlas Medications,Antidepressant,Y,2022-11-06,,DrugReferenceHub
+DRG00527,65812527931,Microzide,Hydrochlorothiazide,Microzide,500,mg/mL,Inhaler,Inhalation,Northstar Pharma,Respiratory,Y,2022-07-14,,DrugReferenceHub
+DRG00528,27560233760,Eliquis,,Eliquis,1000,mcg,Patch,Inhalation,Pioneer Medical,Respiratory,Y,2022-05-12,,DrugReferenceHub
+DRG00529,64075701520,Jardiance,Empagliflozin,Jardiance,50,mcg,Capsule,Oral,Redwood Pharma,Anticoagulant,Y,2022-10-01,,DrugReferenceHub
+DRG00530,27054682245,Januvia,Sitagliptin,Januvia,20,units/mL,Patch,Intravenous,Evergreen Labs,Anticoagulant,Y,2022-06-25,,DrugReferenceHub
+DRG00531,81165324434,Lantus,Insulin Glargine,Lantus,20,units/mL,Capsule,Intravenous,Summit Therapeutics,Anticoagulant,Y,2023-07-11,,DrugReferenceHub
+DRG00532,49343244684,Humalog,Insulin Lispro,Humalog,250,mg,Solution,Oral,BlueRiver Pharmaceuticals,Neurologic,Y,2022-04-15,,DrugReferenceHub
+DRG00533,51664216971,Prozac,Fluoxetine,Prozac,500,mcg,Inhaler,Oral,Atlas Medications,Endocrine,Y,2022-03-31,,DrugReferenceHub
+DRG00534,60804702793,Wellbutrin,Bupropion,Wellbutrin,25,mg,Injection,Inhalation,Atlas Medications,Antihypertensive,Y,2025-12-18,,DrugReferenceHub
+DRG00535,38481272433,Coreg,Carvedilol,Coreg,100,mcg,Solution,Oral,Meridian Pharma,Lipid Lowering,Y,2022-05-09,,DrugReferenceHub
+DRG00536,19270364213,Lopressor,Metoprolol,Lopressor,10,mg/mL,Cream,Oral,Beacon Life Sciences,Respiratory,Y,2022-04-19,,DrugReferenceHub
+DRG00537,39455777027,Lasix,Furosemide,Lasix,20,units/mL,Tablet,Oral,Summit Therapeutics,Antidiabetic,N,2022-02-14,2024-03-16,DrugReferenceHub
+DRG00538,73812149827,Aldactone,Spironolactone,Aldactone,40,mg/mL,Injection,Topical,Beacon Life Sciences,Anticoagulant,Y,2022-07-13,,DrugReferenceHub
+DRG00539,20964366855,Ventolin,Albuterol,Ventolin,500,units/mL,Solution,Subcutaneous,Atlas Medications,Antidiabetic,Y,2024-02-11,,DrugReferenceHub
+DRG00540,20166640636,Vibramycin,Doxycycline,Vibramycin,1000,units/mL,Tablet,Transdermal,Beacon Life Sciences,Anticoagulant,Y,2025-04-24,,DrugReferenceHub
+DRG00541,63166657868,Ozempic,Semaglutide,Ozempic,50,mg/mL,Capsule,Transdermal,BlueRiver Pharmaceuticals,Gastrointestinal,Y,2024-12-10,,DrugReferenceHub
+DRG00542,11417343618,Glucophage,Metformin,Glucophage,50,units/mL,Cream,Transdermal,Crescent Therapeutics,Antibiotic,Y,2024-04-28,,DrugReferenceHub
+DRG00543,80701649845,Lipitor,Atorvastatin,Lipitor,5,mg,Solution,Transdermal,Redwood Pharma,Antihypertensive,Y,2022-05-05,,DrugReferenceHub
+DRG00544,82145991167,Prinivil,,Prinivil,10,units/mL,Inhaler,Topical,Pioneer Medical,Lipid Lowering,Y,2025-02-06,,DrugReferenceHub
+DRG00545,26665254060,Norvasc,Amlodipine,Norvasc,10,mg/mL,Injection,Inhalation,Northstar Pharma,Neurologic,Y,2022-02-24,,DrugReferenceHub
+DRG00546,82051876664,Cozaar,Losartan,Cozaar,500,mg/mL,Suspension,Inhalation,Meridian Pharma,Antihypertensive,Y,2024-07-11,,DrugReferenceHub
+DRG00547,82718305778,Prilosec,Omeprazole,Prilosec,5,units/mL,Solution,Topical,Atlas Medications,Antidepressant,Y,2023-08-22,,DrugReferenceHub
+DRG00548,94144432921,Neurontin,Gabapentin,Neurontin,25,mcg,Capsule,Subcutaneous,Redwood Pharma,Endocrine,Y,2025-07-13,,DrugReferenceHub
+DRG00549,80870713084,Synthroid,Levothyroxine,Synthroid,25,mcg,Inhaler,Topical,BlueRiver Pharmaceuticals,Lipid Lowering,N,2023-03-26,2025-02-12,DrugReferenceHub
+DRG00550,77783196614,Zoloft,Sertraline,Zoloft,500,mcg,Capsule,Intravenous,Beacon Life Sciences,Antidiabetic,Y,2024-07-22,,DrugReferenceHub
+DRG00551,64648918947,Crestor,,Crestor,25,mg/mL,Suspension,Subcutaneous,Pioneer Medical,Neurologic,Y,2023-10-06,,DrugReferenceHub
+DRG00552,90653588422,Lexapro,Escitalopram,Lexapro,10,mg/mL,Tablet,Transdermal,Redwood Pharma,Antibiotic,Y,2024-02-03,,DrugReferenceHub
+DRG00553,10424211436,Singulair,Montelukast,Singulair,20,mg,Suspension,Topical,Crescent Therapeutics,Anticoagulant,Y,2025-10-04,,DrugReferenceHub
+DRG00554,21243727554,Cymbalta,,Cymbalta,20,mcg,Solution,Intravenous,Crescent Therapeutics,Anticoagulant,Y,2024-11-08,,DrugReferenceHub
+DRG00555,92131319328,Plavix,Clopidogrel,Plavix,250,mg,Tablet,Intravenous,Beacon Life Sciences,Antihypertensive,N,2023-08-30,2025-11-16,DrugReferenceHub
+DRG00556,33667709457,Protonix,Pantoprazole,Protonix,10,units/mL,Injection,Inhalation,Summit Therapeutics,Lipid Lowering,N,2023-10-17,2025-10-16,DrugReferenceHub
+DRG00557,52833519370,Microzide,Hydrochlorothiazide,Microzide,25,mg,Capsule,Topical,Meridian Pharma,Neurologic,N,2024-10-27,2025-08-13,DrugReferenceHub
+DRG00558,68762387095,Eliquis,Apixaban,Eliquis,20,mcg,Tablet,Intravenous,Beacon Life Sciences,Respiratory,N,2023-05-21,2024-11-23,DrugReferenceHub
+DRG00559,92387647216,Jardiance,Empagliflozin,Jardiance,250,mg,Inhaler,Oral,Northstar Pharma,Gastrointestinal,Y,2022-09-03,,DrugReferenceHub
+DRG00560,35021253272,Januvia,Sitagliptin,Januvia,1000,mg/mL,Capsule,Transdermal,Summit Therapeutics,Antidiabetic,Y,2023-11-15,,DrugReferenceHub
+DRG00561,62627523121,Lantus,Insulin Glargine,Lantus,25,mg,Injection,Inhalation,Summit Therapeutics,Respiratory,N,2022-04-10,2024-10-04,DrugReferenceHub
+DRG00562,89918102779,Humalog,Insulin Lispro,Humalog,20,mcg,Patch,Intravenous,Northstar Pharma,Anticoagulant,Y,2022-09-06,,DrugReferenceHub
+DRG00563,59581445583,Prozac,Fluoxetine,Prozac,100,mcg,Capsule,Subcutaneous,Northstar Pharma,Antihypertensive,Y,2023-09-08,,DrugReferenceHub
+DRG00564,96012885450,Wellbutrin,Bupropion,Wellbutrin,1000,units/mL,Suspension,Oral,Redwood Pharma,Antibiotic,Y,2025-03-10,,DrugReferenceHub
+DRG00565,62299475227,Coreg,Carvedilol,Coreg,50,mg,Tablet,Inhalation,Beacon Life Sciences,Antidiabetic,Y,2025-02-16,,DrugReferenceHub
+DRG00566,64540939887,Lopressor,Metoprolol,Lopressor,10,units/mL,Inhaler,Intravenous,Crescent Therapeutics,Antidepressant,Y,2023-01-17,,DrugReferenceHub
+DRG00567,94312952831,Lasix,Furosemide,Lasix,50,mg/mL,Solution,Oral,Atlas Medications,Lipid Lowering,Y,2023-09-09,,DrugReferenceHub
+DRG00568,41322801585,Aldactone,Spironolactone,Aldactone,25,mcg,Capsule,Oral,Atlas Medications,Antihypertensive,Y,2022-08-13,,DrugReferenceHub
+DRG00569,49110425221,Ventolin,Albuterol,Ventolin,5,units/mL,Patch,Intravenous,Meridian Pharma,Endocrine,Y,2025-01-09,,DrugReferenceHub
+DRG00570,55504611813,Vibramycin,Doxycycline,Vibramycin,40,units/mL,Inhaler,Oral,Evergreen Labs,Antidiabetic,Y,2022-12-27,,DrugReferenceHub
+DRG00571,68430498393,Ozempic,Semaglutide,Ozempic,20,mg,Tablet,Topical,Meridian Pharma,Anticoagulant,Y,2025-03-14,,DrugReferenceHub
+DRG00572,23709808766,Glucophage,Metformin,Glucophage,25,mg/mL,Capsule,Subcutaneous,Pioneer Medical,Lipid Lowering,Y,2025-05-16,,DrugReferenceHub
+DRG00573,43075554442,Lipitor,Atorvastatin,Lipitor,1000,mg,Cream,Intravenous,Evergreen Labs,Gastrointestinal,Y,2024-10-04,,DrugReferenceHub
+DRG00574,98610652597,Prinivil,Lisinopril,Prinivil,10,units/mL,Tablet,Intravenous,Summit Therapeutics,Anticoagulant,Y,2023-04-28,,DrugReferenceHub
+DRG00575,30303185760,Norvasc,Amlodipine,Norvasc,20,mcg,Suspension,Subcutaneous,Beacon Life Sciences,Antihypertensive,Y,2025-10-25,,DrugReferenceHub
+DRG00576,99511771384,Cozaar,Losartan,Cozaar,1000,mcg,SUSPENSION,Oral,Redwood Pharma,Lipid Lowering,Y,2024-09-30,,DrugReferenceHub
+DRG00577,36527120523,Prilosec,Omeprazole,Prilosec,100,mcg,Injection,Topical,Beacon Life Sciences,Antidiabetic,Y,2024-08-02,,DrugReferenceHub
+DRG00578,57323670373,Neurontin,Gabapentin,Neurontin,250,units/mL,Patch,Subcutaneous,Summit Therapeutics,Anticoagulant,Y,2025-06-06,,DrugReferenceHub
+DRG00579,63943747887,Synthroid,Levothyroxine,Synthroid,40,units/mL,Patch,Topical,Atlas Medications,Endocrine,Y,2025-07-12,,DrugReferenceHub
+DRG00580,77096329537,Zoloft,Sertraline,Zoloft,100,mg/mL,Inhaler,Inhalation,BlueRiver Pharmaceuticals,Respiratory,N,2022-04-24,2023-06-14,DrugReferenceHub
+DRG00581,80226651352,Crestor,Rosuvastatin,Crestor,25,mcg,Suspension,Subcutaneous,Pioneer Medical,Respiratory,Y,2025-07-12,,DrugReferenceHub
+DRG00582,14752304010,Lexapro,Escitalopram,Lexapro,50,mg,Cream,Oral,Evergreen Labs,Respiratory,Y,2025-01-23,,DrugReferenceHub
+DRG00583,57892185137,Singulair,Montelukast,Singulair,500,mcg,Cream,Inhalation,Northstar Pharma,Neurologic,N,2022-10-29,2025-07-02,DrugReferenceHub
+DRG00584,46919436288,Cymbalta,Duloxetine,Cymbalta,40,mg/mL,Suspension,Topical,Summit Therapeutics,Respiratory,N,2023-03-26,2023-11-13,DrugReferenceHub
+DRG00585,16987352560,Plavix,Clopidogrel,Plavix,250,mcg,Solution,Inhalation,Crescent Therapeutics,Lipid Lowering,Y,2025-01-05,,DrugReferenceHub
+DRG00586,85163650917,Protonix,Pantoprazole,Protonix,20,mg,Injection,Intravenous,Pioneer Medical,Anticoagulant,N,2022-11-13,2024-02-07,DrugReferenceHub
+DRG00587,95130238512,Microzide,Hydrochlorothiazide,Microzide,10,mg/mL,Inhaler,Subcutaneous,BlueRiver Pharmaceuticals,Anticoagulant,Y,2023-10-24,,DrugReferenceHub
+DRG00588,83490963119,Eliquis,Apixaban,Eliquis,500,mg,Injection,Transdermal,Atlas Medications,Antidepressant,N,2024-10-04,2026-01-14,DrugReferenceHub
+DRG00589,21137610492,Jardiance,Empagliflozin,Jardiance,10,units/mL,Solution,Intravenous,BlueRiver Pharmaceuticals,Endocrine,Y,2024-08-09,,DrugReferenceHub
+DRG00590,90122185551,Januvia,Sitagliptin,Januvia,250,mcg,Cream,Oral,Redwood Pharma,Lipid Lowering,Y,2025-08-23,,DrugReferenceHub
+DRG00591,59221259051,Lantus,Insulin Glargine,Lantus,10,mcg,Cream,Inhalation,Pioneer Medical,Respiratory,N,2022-06-13,2024-04-29,DrugReferenceHub
+DRG00592,81144656722,Humalog,Insulin Lispro,Humalog,1000,units/mL,Patch,Subcutaneous,Evergreen Labs,Anticoagulant,Y,2023-03-08,,DrugReferenceHub
+DRG00593,74970912325,Prozac,Fluoxetine,Prozac,100,mg,Solution,Transdermal,Northstar Pharma,Antidiabetic,N,2025-12-10,2026-10-30,DrugReferenceHub
+DRG00594,80033254784,Wellbutrin,Bupropion,Wellbutrin,40,mcg,Solution,Inhalation,Redwood Pharma,Antidiabetic,Y,2024-04-11,,DrugReferenceHub
+DRG00595,40423439442,Coreg,Carvedilol,Coreg,1000,mcg,Solution,Subcutaneous,Evergreen Labs,Lipid Lowering,Y,2022-12-30,,DrugReferenceHub
+DRG00596,54493906935,Lopressor,Metoprolol,Lopressor,250,mcg,Tablet,Subcutaneous,Redwood Pharma,Neurologic,N,2023-02-28,2024-03-01,DrugReferenceHub
+DRG00597,98244356040,Lasix,,Lasix,20,mg/mL,Suspension,Oral,Summit Therapeutics,Antidiabetic,Y,2023-05-11,,DrugReferenceHub
+DRG00598,97142643090,Aldactone,Spironolactone,Aldactone,10,mg/mL,Solution,Oral,Pioneer Medical,Gastrointestinal,N,2024-03-21,2026-03-13,DrugReferenceHub
+DRG00599,27306842138,Ventolin,Albuterol,Ventolin,40,mg,Capsule,Oral,Atlas Medications,Antidepressant,Y,2023-02-21,,DrugReferenceHub
+DRG00600,31723369638,Vibramycin,Doxycycline,Vibramycin,50,mcg,Capsule,Inhalation,Crescent Therapeutics,Gastrointestinal,N,2024-06-28,2025-08-15,DrugReferenceHub
+DRG00601,96688385328,Ozempic,Semaglutide,Ozempic,40,mg/mL,Injection,Inhalation,BlueRiver Pharmaceuticals,Gastrointestinal,Y,2023-10-13,,DrugReferenceHub
+DRG00602,65507462258,Glucophage,Metformin,Glucophage,25,mg/mL,Injection,Transdermal,Northstar Pharma,Endocrine,Y,2024-06-11,,DrugReferenceHub
+DRG00603,92375297554,Lipitor,Atorvastatin,Lipitor,5,units/mL,Inhaler,Inhalation,BlueRiver Pharmaceuticals,Gastrointestinal,Y,2022-08-15,,DrugReferenceHub
+DRG00604,74039272223,Prinivil,Lisinopril,Prinivil,25,units/mL,Suspension,Topical,Pioneer Medical,Respiratory,Y,2024-06-30,,DrugReferenceHub
+DRG00605,19962310632,UNKNOWN BRAND DRG00605,Amlodipine,Norvasc,25,mcg,Cream,Subcutaneous,Meridian Pharma,Gastrointestinal,Y,2025-09-13,,DrugReferenceHub
+DRG00606,85576X05354,Cozaar,Losartan,Cozaar,500,mg/mL,Patch,Subcutaneous,BlueRiver Pharmaceuticals,Antibiotic,N,2022-07-17,2025-01-02,DrugReferenceHub
+DRG00607,25951181670,Prilosec,Omeprazole,Prilosec,50,units/mL,Cream,Inhalation,BlueRiver Pharmaceuticals,Antidepressant,Y,2023-04-24,,DrugReferenceHub
+DRG00608,60055684146,Neurontin,Gabapentin,Neurontin,1000,mg,Suspension,Oral,Redwood Pharma,Neurologic,Y,2024-10-10,,DrugReferenceHub
+DRG00609,20698353031,Synthroid,Levothyroxine,Synthroid,50,units/mL,Cream,Inhalation,Crescent Therapeutics,Antibiotic,Y,2024-06-21,,DrugReferenceHub
+DRG00610,42883174115,Zoloft,Sertraline,Zoloft,100,mg,Tablet,Intravenous,Redwood Pharma,Antihypertensive,Y,2024-09-13,,DrugReferenceHub
+DRG00611,47499455138,Crestor,Rosuvastatin,Crestor,25,mg/mL,Tablet,Oral,Northstar Pharma,Neurologic,Y,2024-03-29,,DrugReferenceHub
+DRG00612,44682779034,Lexapro,Escitalopram,Lexapro,250,mg/mL,Capsule,Topical,Evergreen Labs,Antidiabetic,Y,2024-09-24,,DrugReferenceHub
+DRG00613,86106901629,Singulair,Montelukast,Singulair,250,mcg,Tablet,Oral,Redwood Pharma,Anticoagulant,Y,2024-06-09,,DrugReferenceHub
+DRG00614,74385175975,Cymbalta,Duloxetine,Cymbalta,20,mg,Tablet,Oral,Crescent Therapeutics,Antibiotic,Y,2022-04-19,,DrugReferenceHub
+DRG00615,75313622617,Plavix,Clopidogrel,Plavix,5,mg,Solution,Transdermal,BlueRiver Pharmaceuticals,Gastrointestinal,Y,2025-01-03,,DrugReferenceHub
+DRG00616,48632631955,Protonix,Pantoprazole,Protonix,40,mg/mL,Solution,Intravenous,Redwood Pharma,Antidiabetic,Y,2023-10-16,,DrugReferenceHub
+DRG00617,84031314513,Microzide,Hydrochlorothiazide,Microzide,40,mg,Patch,Oral,Crescent Therapeutics,Anticoagulant,Y,2022-03-17,,DrugReferenceHub
+DRG00618,82828X96067,Eliquis,Apixaban,Eliquis,20,mg/mL,Inhaler,Inhalation,Atlas Medications,Gastrointestinal,N,2023-08-22,2026-01-31,DrugReferenceHub
+DRG00619,90800728349,Jardiance,Empagliflozin,Jardiance,25,mg/mL,Solution,Oral,Northstar Pharma,Lipid Lowering,Y,2023-09-29,,DrugReferenceHub
+DRG00620,38837974554,Januvia,Sitagliptin,Januvia,5,mcg,Patch,Intravenous,Redwood Pharma,Respiratory,Y,2022-05-07,,DrugReferenceHub
+DRG00621,19771699369,Lantus,Insulin Glargine,Lantus,500,mg/mL,Patch,Subcutaneous,Evergreen Labs,Endocrine,Y,2025-12-27,,DrugReferenceHub
+DRG00622,52039804315,UNKNOWN BRAND DRG00622,Insulin Lispro,Humalog,20,mg,Inhaler,Topical,Redwood Pharma,Antidepressant,Y,2022-11-22,,DrugReferenceHub
+DRG00623,28216637671,Prozac,Fluoxetine,Prozac,50,mg/mL,Patch,Transdermal,Crescent Therapeutics,Neurologic,Y,2023-04-29,,DrugReferenceHub
+DRG00624,97074469738,Wellbutrin,Bupropion,Wellbutrin,250,units/mL,Cream,Oral,Crescent Therapeutics,Antidepressant,Y,2023-10-07,,DrugReferenceHub
+DRG00625,75031842748,Coreg,Carvedilol,Coreg,40,units/mL,Patch,Transdermal,Crescent Therapeutics,Antihypertensive,N,2025-05-02,2026-07-04,DrugReferenceHub
+DRG00626,88056214772,Lopressor,Metoprolol,Lopressor,10,units/mL,Capsule,Oral,BlueRiver Pharmaceuticals,Lipid Lowering,Y,2024-12-22,,DrugReferenceHub
+DRG00627,36099200846,Lasix,Furosemide,Lasix,40,mg/mL,Inhaler,Transdermal,Crescent Therapeutics,Neurologic,N,2025-02-01,2026-11-02,DrugReferenceHub
+DRG00628,79480401968,Aldactone,Spironolactone,Aldactone,20,units/mL,Patch,Inhalation,Summit Therapeutics,Antidiabetic,N,2022-12-13,2024-03-09,DrugReferenceHub
+DRG00629,82391488851,Ventolin,Albuterol,Ventolin,100,mg,Capsule,Transdermal,Crescent Therapeutics,Lipid Lowering,Y,2025-05-21,,DrugReferenceHub
+DRG00630,41577609162,Vibramycin,Doxycycline,Vibramycin,500,mg,Cream,Oral,Crescent Therapeutics,Antidiabetic,Y,2025-04-28,,DrugReferenceHub
+DRG00631,63613240630,Ozempic,Semaglutide,Ozempic,1000,mg,Cream,Subcutaneous,Crescent Therapeutics,Antidiabetic,Y,2023-11-10,,DrugReferenceHub
+DRG00632,13622989050,Glucophage,Metformin,Glucophage,40,units/mL,Inhaler,Subcutaneous,Crescent Therapeutics,Lipid Lowering,Y,2024-03-08,,DrugReferenceHub
+DRG00633,36017326675,Lipitor,Atorvastatin,Lipitor,5,mg,Solution,Subcutaneous,Redwood Pharma,Gastrointestinal,Y,2022-02-24,,DrugReferenceHub
+DRG00634,67413273786,Prinivil,Lisinopril,Prinivil,10,mcg,Tablet,Topical,Northstar Pharma,Antihypertensive,N,2025-01-16,2026-04-23,DrugReferenceHub
+DRG00635,76910235985,Norvasc,Amlodipine,Norvasc,20,mg,Inhaler,Intravenous,Evergreen Labs,Antidiabetic,Y,2025-11-05,,DrugReferenceHub
+DRG00636,40837522788,Cozaar,Losartan,Cozaar,25,units/mL,Solution,Oral,Atlas Medications,Gastrointestinal,N,2023-11-22,2025-11-20,DrugReferenceHub
+DRG00637,22581320920,Prilosec,Omeprazole,Prilosec,250,mg,Suspension,Transdermal,Beacon Life Sciences,Gastrointestinal,Y,2024-03-01,,DrugReferenceHub
+DRG00638,31620645567,Neurontin,Gabapentin,Neurontin,20,mg/mL,Inhaler,Transdermal,Northstar Pharma,Anticoagulant,Y,2023-12-31,,DrugReferenceHub
+DRG00639,96493569992,Synthroid,Levothyroxine,Synthroid,25,mg,Cream,Topical,Redwood Pharma,Antihypertensive,Y,2022-05-01,,DrugReferenceHub
+DRG00640,41115163443,Zoloft,Sertraline,Zoloft,25,mcg,Cream,Transdermal,Redwood Pharma,Respiratory,Y,2024-06-25,,DrugReferenceHub
+DRG00641,81712516630,Crestor,Rosuvastatin,Crestor,100,units/mL,Cream,Transdermal,Summit Therapeutics,Anticoagulant,Y,2024-11-20,,DrugReferenceHub
+DRG00642,17204851877,Lexapro,Escitalopram,Lexapro,50,mcg,Suspension,Topical,Atlas Medications,Anticoagulant,N,2025-09-18,2026-11-12,DrugReferenceHub
+DRG00643,92233526721,Singulair,Montelukast,Singulair,25,mg,Tablet,Transdermal,Crescent Therapeutics,Neurologic,Y,2025-09-21,,DrugReferenceHub
+DRG00644,68912388929,Cymbalta,Duloxetine,Cymbalta,25,mg,Injection,Oral,Summit Therapeutics,Anticoagulant,Y,2023-12-21,,DrugReferenceHub
+DRG00645,10405956455,Plavix,Clopidogrel,Plavix,5,mg,Cream,Topical,Meridian Pharma,Antidiabetic,Y,2025-11-03,,DrugReferenceHub
+DRG00646,57344228998,Protonix,Pantoprazole,Protonix,40,units/mL,Suspension,Transdermal,Atlas Medications,Gastrointestinal,N,2024-02-12,2024-12-10,DrugReferenceHub
+DRG00647,84047590849,Microzide,Hydrochlorothiazide,Microzide,250,mcg,Patch,Intravenous,Redwood Pharma,Neurologic,N,2024-07-27,2025-08-23,DrugReferenceHub
+DRG00648,20096181552,Eliquis,Apixaban,Eliquis,100,mcg,Inhaler,Inhalation,BlueRiver Pharmaceuticals,Anticoagulant,N,2024-05-30,2026-12-28,DrugReferenceHub
+DRG00649,75405190344,Jardiance,Empagliflozin,Jardiance,50,units/mL,Cream,Oral,Redwood Pharma,Endocrine,Y,2025-12-31,,DrugReferenceHub
+DRG00650,66359510772,Januvia,Sitagliptin,Januvia,40,mg/mL,Capsule,Topical,Meridian Pharma,Antidiabetic,Y,2024-12-14,,DrugReferenceHub
+DRG00651,17888408220,Lantus,Insulin Glargine,Lantus,500,mcg,Tablet,Inhalation,Beacon Life Sciences,Neurologic,N,2022-06-25,2023-07-22,DrugReferenceHub
+DRG00652,56084952427,Humalog,Insulin Lispro,Humalog,20,units/mL,Suspension,Topical,Northstar Pharma,Endocrine,Y,2022-04-16,,DrugReferenceHub
+DRG00653,89111529797,Prozac,Fluoxetine,Prozac,10,mg,Suspension,Topical,Northstar Pharma,Neurologic,N,2023-08-23,2024-12-13,DrugReferenceHub
+DRG00654,73046419016,Wellbutrin,Bupropion,Wellbutrin,10,units/mL,Patch,Transdermal,Atlas Medications,Gastrointestinal,N,2024-01-24,2025-12-19,DrugReferenceHub
+DRG00655,86257868539,Coreg,Carvedilol,Coreg,1000,mg,Suspension,Subcutaneous,Atlas Medications,Antidiabetic,Y,2024-09-04,,DrugReferenceHub
+DRG00656,97224337179,Lopressor,Metoprolol,Lopressor,5,mg/mL,Cream,Inhalation,Meridian Pharma,Anticoagulant,Y,2023-12-06,,DrugReferenceHub
+DRG00657,31189367180,Lasix,Furosemide,Lasix,20,mg/mL,Solution,Subcutaneous,Beacon Life Sciences,Gastrointestinal,Y,2024-01-23,,DrugReferenceHub
+DRG00658,60856152434,Aldactone,Spironolactone,Aldactone,100,mcg,Cream,Intravenous,Pioneer Medical,Antihypertensive,N,2025-09-09,2026-05-29,DrugReferenceHub
+DRG00659,25245820746,Ventolin,Albuterol,Ventolin,25,mg,Injection,Topical,Atlas Medications,Antihypertensive,Y,2023-05-05,,DrugReferenceHub
+DRG00660,26004482228,Vibramycin,Doxycycline,Vibramycin,50,units/mL,Capsule,Intravenous,Beacon Life Sciences,Antidiabetic,Y,2023-12-23,,DrugReferenceHub
+DRG00661,52812397130,Ozempic,Semaglutide,Ozempic,5,units/mL,Suspension,Transdermal,Atlas Medications,Lipid Lowering,Y,2024-03-25,,DrugReferenceHub
+DRG00662,73434787752,Glucophage,Metformin,Glucophage,500,mcg,Injection,Oral,Crescent Therapeutics,Anticoagulant,N,2023-11-16,2024-12-20,DrugReferenceHub
+DRG00663,47958975815,Lipitor,Atorvastatin,Lipitor,500,units/mL,Cream,Oral,Pioneer Medical,Antidepressant,Y,2025-11-16,,DrugReferenceHub
+DRG00664,41290491468,Prinivil,Lisinopril,Prinivil,500,mg,Patch,Inhalation,Crescent Therapeutics,Respiratory,Y,2025-11-07,,DrugReferenceHub
+DRG00665,24212233551,Norvasc,Amlodipine,Norvasc,500,mg/mL,Capsule,Transdermal,EVERGREEN LABS,Antidiabetic,Y,2024-01-21,,DrugReferenceHub
+DRG00666,93500208178,Cozaar,Losartan,Cozaar,250,mg,Solution,Transdermal,Beacon Life Sciences,Endocrine,Y,2023-10-21,,DrugReferenceHub
+DRG00667,69710507219,Prilosec,Omeprazole,Prilosec,100,mg,Patch,Subcutaneous,Meridian Pharma,Anticoagulant,Y,2024-05-11,,DrugReferenceHub
+DRG00668,98076393354,Neurontin,Gabapentin,Neurontin,500,mcg,Inhaler,Oral,Northstar Pharma,Endocrine,Y,2022-09-22,,DrugReferenceHub
+DRG00669,83261389024,Synthroid,Levothyroxine,Synthroid,250,units/mL,Suspension,Inhalation,Meridian Pharma,Antihypertensive,Y,2023-09-15,,DrugReferenceHub
+DRG00670,86150728282,Zoloft,Sertraline,Zoloft,10,mg,Inhaler,Inhalation,Atlas Medications,Gastrointestinal,Y,2022-11-14,,DrugReferenceHub
+DRG00671,97358934626,Crestor,Rosuvastatin,Crestor,25,units/mL,Patch,Transdermal,BlueRiver Pharmaceuticals,Neurologic,Y,2022-07-30,,DrugReferenceHub
+DRG00672,71263822745,Lexapro,Escitalopram,Lexapro,50,mg/mL,Solution,Topical,Summit Therapeutics,Endocrine,Y,2022-05-20,,DrugReferenceHub
+DRG00673,92832990195,Singulair,Montelukast,Singulair,100,mg,Inhaler,Inhalation,BlueRiver Pharmaceuticals,Neurologic,Y,2024-05-08,,DrugReferenceHub
+DRG00674,73418540749,Cymbalta,Duloxetine,Cymbalta,100,mg/mL,Cream,Transdermal,Evergreen Labs,Respiratory,Y,2022-01-01,,DrugReferenceHub
+DRG00675,66897831639,Plavix,Clopidogrel,Plavix,100,mg,Inhaler,Topical,Pioneer Medical,Gastrointestinal,N,2024-08-02,2025-06-21,DrugReferenceHub
+DRG00676,48777918537,Protonix,Pantoprazole,Protonix,100,units/mL,Patch,Transdermal,Pioneer Medical,Gastrointestinal,Y,2023-09-24,,DrugReferenceHub
+DRG00677,14432106343,Microzide,Hydrochlorothiazide,Microzide,25,mg/mL,Solution,Topical,BlueRiver Pharmaceuticals,Antihypertensive,Y,2023-06-20,,DrugReferenceHub
+DRG00678,54893863057,Eliquis,Apixaban,Eliquis,40,units/mL,Tablet,Subcutaneous,Summit Therapeutics,Anticoagulant,Y,2025-01-29,,DrugReferenceHub
+DRG00679,38999870858,Jardiance,Empagliflozin,Jardiance,5,mg/mL,Capsule,Transdermal,Atlas Medications,Antihypertensive,Y,2024-02-27,,DrugReferenceHub
+DRG00680,99918121569,Januvia,Sitagliptin,Januvia,250,mg/mL,Inhaler,Subcutaneous,Meridian Pharma,Lipid Lowering,Y,2024-12-08,,DrugReferenceHub
+DRG00681,81987321337,Lantus,Insulin Glargine,Lantus,1000,mcg,Suspension,Topical,Atlas Medications,Lipid Lowering,Y,2024-11-03,,DrugReferenceHub
+DRG00682,80251520484,Humalog,Insulin Lispro,Humalog,40,mg/mL,Tablet,Transdermal,Beacon Life Sciences,Gastrointestinal,Y,2022-02-17,,DrugReferenceHub
+DRG00683,14974572541,Prozac,Fluoxetine,Prozac,50,mg/mL,Capsule,Topical,Summit Therapeutics,Gastrointestinal,Y,2022-11-12,,DrugReferenceHub
+DRG00684,97162450186,Wellbutrin,Bupropion,Wellbutrin,20,mcg,Tablet,Topical,Redwood Pharma,Lipid Lowering,Y,2024-04-13,,DrugReferenceHub
+DRG00685,81214270455,Coreg,Carvedilol,Coreg,5,mcg,Injection,Inhalation,Crescent Therapeutics,Antihypertensive,Y,2025-11-27,,DrugReferenceHub
+DRG00686,29398974548,Lopressor,Metoprolol,Lopressor,250,units/mL,Injection,Oral,Pioneer Medical,Respiratory,Y,2022-08-14,,DrugReferenceHub
+DRG00687,44605799615,Lasix,Furosemide,Lasix,250,mg,Inhaler,Inhalation,Redwood Pharma,Lipid Lowering,Y,2022-06-04,,DrugReferenceHub
+DRG00688,26262248157,Aldactone,Spironolactone,Aldactone,40,mg/mL,Patch,Inhalation,Beacon Life Sciences,Anticoagulant,Y,2025-10-07,,DrugReferenceHub
+DRG00689,94835111213,Ventolin,Albuterol,Ventolin,25,mg,Patch,Topical,BlueRiver Pharmaceuticals,Antidepressant,Y,2025-11-14,,DrugReferenceHub
+DRG00690,43111470329,Vibramycin,Doxycycline,Vibramycin,5,mg,Inhaler,Topical,Summit Therapeutics,Respiratory,Y,2022-09-02,,DrugReferenceHub
+DRG00691,12371232115,Ozempic,Semaglutide,Ozempic,1000,mg/mL,Cream,Transdermal,Beacon Life Sciences,Antidiabetic,Y,2023-08-11,,DrugReferenceHub
+DRG00692,32792508824,Glucophage,Metformin,Glucophage,5,mcg,Inhaler,Inhalation,Evergreen Labs,Respiratory,Y,2024-07-05,,DrugReferenceHub
+DRG00693,63128504045,Lipitor,Atorvastatin,Lipitor,50,mg,Suspension,Subcutaneous,Evergreen Labs,Gastrointestinal,Y,2022-10-13,,DrugReferenceHub
+DRG00694,31028872249,Prinivil,Lisinopril,Prinivil,25,mg/mL,Suspension,Subcutaneous,Summit Therapeutics,Antihypertensive,Y,2023-04-22,,DrugReferenceHub
+DRG00695,86890799081,Norvasc,Amlodipine,Norvasc,20,mcg,Tablet,Transdermal,Meridian Pharma,Endocrine,N,2023-08-01,2026-02-23,DrugReferenceHub
+DRG00696,35847675077,Cozaar,Losartan,Cozaar,500,mg/mL,Tablet,Intravenous,Redwood Pharma,Antidiabetic,Y,2024-07-26,,DrugReferenceHub
+DRG00697,15456605232,Prilosec,Omeprazole,Prilosec,500,mg,Cream,Intravenous,Evergreen Labs,Lipid Lowering,Y,2023-03-27,,DrugReferenceHub
+DRG00698,87647246210,Neurontin,Gabapentin,Neurontin,25,mcg,Solution,Oral,Evergreen Labs,Antihypertensive,N,2023-08-26,2026-03-27,DrugReferenceHub
+DRG00699,88689159412,Synthroid,Levothyroxine,Synthroid,100,mg,Patch,Inhalation,Beacon Life Sciences,Anticoagulant,Y,2023-02-28,,DrugReferenceHub
+DRG00700,61680269653,Zoloft,Sertraline,Zoloft,25,mcg,Solution,Intravenous,Redwood Pharma,Antibiotic,Y,2025-01-15,,DrugReferenceHub
+DRG00701,98558768029,Crestor,Rosuvastatin,Crestor,10,units/mL,Cream,Inhalation,Crescent Therapeutics,Respiratory,N,2022-08-12,2024-10-19,DrugReferenceHub
+DRG00702,67115974246,Lexapro,Escitalopram,Lexapro,100,mg,Injection,Inhalation,Evergreen Labs,Respiratory,Y,2022-12-04,,DrugReferenceHub
+DRG00703,60986106546,Singulair,Montelukast,Singulair,100,mg,Suspension,Subcutaneous,Pioneer Medical,Neurologic,Y,2023-01-01,,DrugReferenceHub
+DRG00704,39023637631,Cymbalta,Duloxetine,Cymbalta,40,mcg,Inhaler,Intravenous,Evergreen Labs,Lipid Lowering,N,2025-08-17,2026-09-03,DrugReferenceHub
+DRG00705,14041368848,Plavix,Clopidogrel,Plavix,100,mg,Capsule,Transdermal,Redwood Pharma,Antihypertensive,Y,2025-10-12,,DrugReferenceHub
+DRG00706,71492399930,Protonix,Pantoprazole,Protonix,100,units/mL,Patch,Transdermal,Atlas Medications,Antidiabetic,N,2024-01-02,2025-11-17,DrugReferenceHub
+DRG00707,55375584876,Microzide,Hydrochlorothiazide,Microzide,1000,mg/mL,Injection,Oral,Northstar Pharma,Antidiabetic,N,2022-08-17,2024-08-09,DrugReferenceHub
+DRG00708,89789879626,Eliquis,Apixaban,Eliquis,40,mcg,Tablet,Inhalation,Redwood Pharma,Neurologic,Y,2025-01-10,,DrugReferenceHub
+DRG00709,10772533217,Jardiance,Empagliflozin,Jardiance,100,units/mL,Cream,Intravenous,BlueRiver Pharmaceuticals,Anticoagulant,N,2023-12-21,2026-05-31,DrugReferenceHub
+DRG00710,13525402450,Januvia,Sitagliptin,Januvia,100,mg/mL,Cream,Topical,ATLAS MEDICATIONS,Antidepressant,N,2025-05-27,2026-03-31,DrugReferenceHub
+DRG00711,93026770242,Lantus,Insulin Glargine,Lantus,100,units/mL,Injection,Subcutaneous,Summit Therapeutics,Antihypertensive,Y,2023-06-11,,DrugReferenceHub
+DRG00712,80465954660,Humalog,Insulin Lispro,Humalog,20,units/mL,Cream,Inhalation,Redwood Pharma,Neurologic,N,2025-12-31,2028-02-22,DrugReferenceHub
+DRG00713,68669877665,Prozac,Fluoxetine,Prozac,20,mg,Patch,Topical,Northstar Pharma,Lipid Lowering,Y,2025-03-25,,DrugReferenceHub
+DRG00714,62718517427,Wellbutrin,Bupropion,Wellbutrin,25,mg,Patch,Intravenous,BlueRiver Pharmaceuticals,Lipid Lowering,N,2022-11-24,2023-10-29,DrugReferenceHub
+DRG00715,43412851646,Coreg,Carvedilol,Coreg,5,mg,Cream,Intravenous,Crescent Therapeutics,Anticoagulant,Y,2024-11-26,,DrugReferenceHub
+DRG00716,66286287567,Lopressor,Metoprolol,Lopressor,100,mg,Cream,Intravenous,Summit Therapeutics,Anticoagulant,Y,2023-02-24,,DrugReferenceHub
+DRG00717,65494134693,Lasix,Furosemide,Lasix,250,mg,Solution,Transdermal,Evergreen Labs,Antibiotic,Y,2023-05-27,,DrugReferenceHub
+DRG00718,76373444921,Aldactone,Spironolactone,Aldactone,25,units/mL,Cream,Inhalation,Redwood Pharma,Neurologic,N,2023-01-02,2024-10-09,DrugReferenceHub
+DRG00719,70556245848,Ventolin,Albuterol,Ventolin,1000,mg,Tablet,Inhalation,Atlas Medications,Antidepressant,Y,2024-09-24,,DrugReferenceHub
+DRG00720,76229411744,Vibramycin,Doxycycline,Vibramycin,40,mg/mL,Cream,Subcutaneous,Pioneer Medical,Endocrine,Y,2023-01-20,,DrugReferenceHub
+DRG00721,10207597398,Ozempic,Semaglutide,Ozempic,250,mcg,Tablet,Inhalation,Beacon Life Sciences,Antibiotic,N,2024-07-22,2027-01-08,DrugReferenceHub
+DRG00722,32903672787,Glucophage,Metformin,Glucophage,500,mg,Solution,Topical,Redwood Pharma,Antidiabetic,Y,2024-05-01,,DrugReferenceHub
+DRG00723,64943476728,Lipitor,Atorvastatin,Lipitor,1000,mg,Inhaler,Transdermal,Beacon Life Sciences,Gastrointestinal,Y,2025-01-02,,DrugReferenceHub
+DRG00724,84080407924,Prinivil,Lisinopril,Prinivil,250,mg/mL,Inhaler,Subcutaneous,Crescent Therapeutics,Neurologic,Y,2025-12-23,,DrugReferenceHub
+DRG00725,89013673320,Norvasc,Amlodipine,Norvasc,50,mg,Suspension,Oral,Northstar Pharma,Respiratory,Y,2022-01-13,,DrugReferenceHub
+DRG00726,31169773873,Cozaar,Losartan,Cozaar,500,mg,Inhaler,Oral,Evergreen Labs,Endocrine,Y,2025-12-18,,DrugReferenceHub
+DRG00727,35955476733,Prilosec,Omeprazole,Prilosec,10,units/mL,Tablet,Intravenous,Crescent Therapeutics,Anticoagulant,Y,2022-06-09,,DrugReferenceHub
+DRG00728,18501762876,Neurontin,Gabapentin,Neurontin,25,mg/mL,Suspension,Subcutaneous,Beacon Life Sciences,Lipid Lowering,Y,2024-02-10,,DrugReferenceHub
+DRG00729,91356729487,Synthroid,Levothyroxine,Synthroid,10,mcg,Inhaler,Intravenous,Atlas Medications,Antidiabetic,Y,2023-05-14,,DrugReferenceHub
+DRG00730,15426453054,Zoloft,Sertraline,Zoloft,100,mcg,Capsule,Oral,Crescent Therapeutics,Antidepressant,Y,2024-07-23,,DrugReferenceHub
+DRG00731,79775467157,Crestor,Rosuvastatin,Crestor,10,units/mL,Inhaler,Transdermal,Redwood Pharma,Antibiotic,Y,2024-11-21,,DrugReferenceHub
+DRG00732,48239826657,Lexapro,Escitalopram,Lexapro,5,mg/mL,Injection,Topical,Beacon Life Sciences,Endocrine,Y,2025-06-11,,DrugReferenceHub
+DRG00733,14612321460,Singulair,Montelukast,Singulair,5,units/mL,Injection,Transdermal,Northstar Pharma,Antihypertensive,Y,2023-08-11,,DrugReferenceHub
+DRG00734,44113X33981,Cymbalta,Duloxetine,Cymbalta,100,mg,Patch,Topical,Northstar Pharma,Respiratory,Y,2025-09-25,,DrugReferenceHub
+DRG00735,27517427451,Plavix,Clopidogrel,Plavix,1000,mcg,Suspension,Inhalation,Northstar Pharma,Neurologic,N,2023-04-17,2023-12-03,DrugReferenceHub
+DRG00736,13710490352,Protonix,Pantoprazole,Protonix,10,mcg,Inhaler,Intravenous,Meridian Pharma,Neurologic,Y,2022-10-26,,DrugReferenceHub
+DRG00737,81673281655,Microzide,Hydrochlorothiazide,Microzide,25,mg,Cream,Transdermal,Meridian Pharma,Anticoagulant,Y,2023-07-09,,DrugReferenceHub
+DRG00738,58140162291,Eliquis,Apixaban,Eliquis,5,mg/mL,Inhaler,Topical,Pioneer Medical,Endocrine,N,2024-02-12,2024-12-09,DrugReferenceHub
+DRG00739,25092429310,Jardiance,Empagliflozin,Jardiance,250,mg/mL,Patch,Topical,Redwood Pharma,Antibiotic,Y,2024-09-03,,DrugReferenceHub
+DRG00740,61687887076,Januvia,Sitagliptin,Januvia,50,mg,Solution,Transdermal,Crescent Therapeutics,Antihypertensive,N,2025-05-02,2027-08-26,DrugReferenceHub
+DRG00741,31559714166,Lantus,Insulin Glargine,Lantus,500,mcg,Capsule,Transdermal,Beacon Life Sciences,Antibiotic,Y,2022-11-25,,DrugReferenceHub
+DRG00742,90409204356,Humalog,Insulin Lispro,Humalog,20,mg,Solution,Subcutaneous,Beacon Life Sciences,Neurologic,Y,2023-03-20,,DrugReferenceHub
+DRG00743,12131959374,Prozac,Fluoxetine,Prozac,20,mcg,Capsule,Transdermal,Northstar Pharma,Antidepressant,Y,2025-10-04,,DrugReferenceHub
+DRG00744,21904569624,Wellbutrin,Bupropion,Wellbutrin,100,mg/mL,Injection,Transdermal,Beacon Life Sciences,Antidepressant,Y,2023-10-06,,DrugReferenceHub
+DRG00745,13889195769,Coreg,Carvedilol,Coreg,25,mcg,Inhaler,Topical,Beacon Life Sciences,Neurologic,N,2022-12-20,2023-07-03,DrugReferenceHub
+DRG00746,60247897621,Lopressor,Metoprolol,Lopressor,20,mg,Inhaler,Oral,Beacon Life Sciences,Antihypertensive,N,2025-12-11,2027-12-22,DrugReferenceHub
+DRG00747,29312348846,Lasix,Furosemide,Lasix,40,mg/mL,Injection,Oral,Pioneer Medical,Anticoagulant,N,2023-10-19,2025-06-01,DrugReferenceHub
+DRG00748,34198319284,Aldactone,Spironolactone,Aldactone,25,mg/mL,Suspension,Subcutaneous,Summit Therapeutics,Anticoagulant,Y,2025-12-11,,DrugReferenceHub
+DRG00749,52259816026,Ventolin,Albuterol,Ventolin,50,mg/mL,Solution,Inhalation,Atlas Medications,Lipid Lowering,Y,2025-09-06,,DrugReferenceHub
+DRG00750,69398255036,Vibramycin,Doxycycline,Vibramycin,1000,units/mL,Cream,Inhalation,Meridian Pharma,Gastrointestinal,Y,2025-08-17,,DrugReferenceHub
+DRG00751,37928998179,Ozempic,Semaglutide,Ozempic,100,units/mL,Suspension,Subcutaneous,Meridian Pharma,Antidepressant,Y,2024-04-30,,DrugReferenceHub
+DRG00752,97763307131,Glucophage,Metformin,Glucophage,10,mcg,Capsule,Subcutaneous,Atlas Medications,Antihypertensive,Y,2025-03-13,,DrugReferenceHub
+DRG00753,40427686976,Lipitor,Atorvastatin,Lipitor,100,mcg,Injection,Inhalation,Pioneer Medical,Respiratory,N,2025-11-05,2027-02-12,DrugReferenceHub
+DRG00754,18077751316,Prinivil,Lisinopril,Prinivil,5,mg,Cream,Intravenous,Crescent Therapeutics,Antihypertensive,Y,2023-01-29,,DrugReferenceHub
+DRG00755,44983140537,Norvasc,Amlodipine,Norvasc,1000,mg,Capsule,Inhalation,Summit Therapeutics,Antidiabetic,Y,2022-02-25,,DrugReferenceHub
+DRG00756,18554568464,Cozaar,Losartan,Cozaar,40,mcg,Solution,Oral,Atlas Medications,Gastrointestinal,N,2023-04-15,2025-09-18,DrugReferenceHub
+DRG00757,22438118591,Prilosec,Omeprazole,Prilosec,100,mg,Patch,Subcutaneous,Pioneer Medical,Antidepressant,N,2024-07-20,2026-12-13,DrugReferenceHub
+DRG00758,24897240235,Neurontin,Gabapentin,Neurontin,40,mg/mL,Capsule,Transdermal,Meridian Pharma,Anticoagulant,Y,2024-03-11,,DrugReferenceHub
+DRG00759,55406762387,Synthroid,Levothyroxine,Synthroid,100,mcg,Tablet,Inhalation,Pioneer Medical,Neurologic,Y,2022-04-28,,DrugReferenceHub
+DRG00760,96443863653,Zoloft,Sertraline,Zoloft,500,units/mL,Tablet,Oral,Redwood Pharma,Anticoagulant,Y,2024-03-30,,DrugReferenceHub
+DRG00761,92690601150,Crestor,Rosuvastatin,Crestor,20,units/mL,Inhaler,Topical,BlueRiver Pharmaceuticals,Anticoagulant,Y,2022-09-12,,DrugReferenceHub
+DRG00762,93322571389,Lexapro,Escitalopram,Lexapro,5,mg,Solution,Inhalation,BlueRiver Pharmaceuticals,Respiratory,N,2024-01-10,2025-04-01,DrugReferenceHub
+DRG00763,12914717458,Singulair,Montelukast,Singulair,1000,units/mL,INJECTION,Intravenous,Crescent Therapeutics,Lipid Lowering,Y,2024-04-21,,DrugReferenceHub
+DRG00764,44872908135,Cymbalta,Duloxetine,Cymbalta,10,units/mL,Solution,Subcutaneous,Northstar Pharma,Neurologic,Y,2024-07-19,,DrugReferenceHub
+DRG00765,96257168998,Plavix,Clopidogrel,Plavix,5,mg,Inhaler,Topical,Northstar Pharma,Antihypertensive,Y,2023-08-27,,DrugReferenceHub
+DRG00766,57675334230,Protonix,Pantoprazole,Protonix,10,units/mL,Inhaler,Oral,Meridian Pharma,Antibiotic,N,2023-08-20,2024-02-19,DrugReferenceHub
+DRG00767,82475457780,Microzide,Hydrochlorothiazide,Microzide,1000,units/mL,Tablet,Intravenous,Evergreen Labs,Antibiotic,Y,2024-09-19,,DrugReferenceHub
+DRG00768,97829657184,Eliquis,Apixaban,Eliquis,1000,mg,Injection,Intravenous,Atlas Medications,Lipid Lowering,Y,2024-12-31,,DrugReferenceHub
+DRG00769,90505X96167,Jardiance,Empagliflozin,Jardiance,40,mg/mL,Cream,Topical,Northstar Pharma,Anticoagulant,Y,2025-03-26,,DrugReferenceHub
+DRG00770,44047392978,Januvia,Sitagliptin,Januvia,20,units/mL,Solution,Topical,Meridian Pharma,Anticoagulant,Y,2023-05-03,,DrugReferenceHub
+DRG00771,86264886484,Lantus,Insulin Glargine,Lantus,25,mcg,Inhaler,Intravenous,Summit Therapeutics,Anticoagulant,Y,2023-09-12,,DrugReferenceHub
+DRG00772,44363144090,Humalog,Insulin Lispro,Humalog,50,mcg,Patch,Topical,Beacon Life Sciences,Endocrine,Y,2023-04-29,,DrugReferenceHub
+DRG00773,95305350218,Prozac,Fluoxetine,Prozac,250,mcg,Injection,Transdermal,Atlas Medications,Antihypertensive,N,2024-02-11,2024-11-22,DrugReferenceHub
+DRG00774,46911488159,Wellbutrin,Bupropion,Wellbutrin,20,mg/mL,Cream,Oral,BlueRiver Pharmaceuticals,Anticoagulant,Y,2022-07-06,,DrugReferenceHub
+DRG00775,67041360337,Coreg,Carvedilol,Coreg,5,units/mL,Injection,Intravenous,BlueRiver Pharmaceuticals,Lipid Lowering,Y,2023-09-21,,DrugReferenceHub
+DRG00776,80152664967,Lopressor,Metoprolol,Lopressor,100,mcg,Solution,Transdermal,Redwood Pharma,Antidiabetic,Y,2022-10-03,,DrugReferenceHub
+DRG00777,92414186439,Lasix,Furosemide,Lasix,500,mg/mL,Injection,Intravenous,Northstar Pharma,Gastrointestinal,Y,2024-02-18,,DrugReferenceHub
+DRG00778,18199892246,Aldactone,Spironolactone,Aldactone,10,mg,Solution,Intravenous,Redwood Pharma,Antibiotic,Y,2025-05-28,,DrugReferenceHub
+DRG00779,74737938088,Ventolin,Albuterol,Ventolin,1000,mg,Suspension,Topical,Pioneer Medical,Antidepressant,Y,2025-12-11,,DrugReferenceHub
+DRG00780,40504965642,Vibramycin,Doxycycline,Vibramycin,500,mg,Injection,Subcutaneous,Crescent Therapeutics,Antibiotic,Y,2023-10-15,,DrugReferenceHub
+DRG00781,21882365240,Ozempic,Semaglutide,Ozempic,10,units/mL,Injection,Intravenous,Summit Therapeutics,Antidepressant,Y,2022-03-24,,DrugReferenceHub
+DRG00782,12859564719,Glucophage,Metformin,Glucophage,20,mcg,Patch,Transdermal,Pioneer Medical,Antibiotic,Y,2022-11-30,,DrugReferenceHub
+DRG00783,48836820566,Lipitor,Atorvastatin,Lipitor,10,mg,Tablet,Intravenous,Atlas Medications,Respiratory,Y,2022-06-03,,DrugReferenceHub
+DRG00784,42790921133,Prinivil,Lisinopril,Prinivil,20,mcg,Tablet,Subcutaneous,Pioneer Medical,Antidepressant,Y,2025-01-15,,DrugReferenceHub
+DRG00785,97242993023,Norvasc,Amlodipine,Norvasc,50,mg,Tablet,Subcutaneous,Redwood Pharma,Anticoagulant,Y,2025-12-10,,DrugReferenceHub
+DRG00786,74966631014,Cozaar,Losartan,Cozaar,100,units/mL,Solution,Transdermal,Summit Therapeutics,Endocrine,Y,2024-03-20,,DrugReferenceHub
+DRG00787,20380451050,Prilosec,Omeprazole,Prilosec,20,mcg,Suspension,Oral,Summit Therapeutics,Anticoagulant,N,2022-09-16,2023-06-11,DrugReferenceHub
+DRG00788,62176247065,Neurontin,Gabapentin,Neurontin,1000,mcg,Capsule,Inhalation,BlueRiver Pharmaceuticals,Respiratory,N,2022-01-31,2024-10-12,DrugReferenceHub
+DRG00789,41935957662,Synthroid,Levothyroxine,Synthroid,40,units/mL,Tablet,Transdermal,Evergreen Labs,Gastrointestinal,N,2025-11-28,2027-09-28,DrugReferenceHub
+DRG00790,96619649142,Zoloft,Sertraline,Zoloft,50,units/mL,Solution,Transdermal,Redwood Pharma,Antihypertensive,Y,2023-04-08,,DrugReferenceHub
+DRG00791,51917506910,Crestor,Rosuvastatin,Crestor,100,mg/mL,Injection,Inhalation,Northstar Pharma,Gastrointestinal,Y,2022-06-13,,DrugReferenceHub
+DRG00792,46826465747,Lexapro,Escitalopram,Lexapro,20,mg,Suspension,Topical,Crescent Therapeutics,Lipid Lowering,Y,2022-09-16,,DrugReferenceHub
+DRG00793,80745561821,Singulair,Montelukast,Singulair,100,mcg,Tablet,Oral,Beacon Life Sciences,Antidiabetic,Y,2023-01-09,,DrugReferenceHub
+DRG00794,84335217948,Cymbalta,Duloxetine,Cymbalta,5,mcg,Solution,Intravenous,Northstar Pharma,Antibiotic,Y,2024-08-16,,DrugReferenceHub
+DRG00795,71609142040,Plavix,Clopidogrel,Plavix,250,mcg,Inhaler,Inhalation,Crescent Therapeutics,Endocrine,N,2025-07-27,2027-07-31,DrugReferenceHub
+DRG00796,24945550574,Protonix,Pantoprazole,Protonix,1000,mcg,Capsule,Inhalation,Beacon Life Sciences,Endocrine,N,2023-02-07,2024-02-11,DrugReferenceHub
+DRG00797,96282694513,Microzide,Hydrochlorothiazide,Microzide,10,mg/mL,Injection,Topical,Evergreen Labs,Antihypertensive,Y,2024-10-01,,DrugReferenceHub
+DRG00798,18139712589,Eliquis,Apixaban,Eliquis,100,units/mL,Solution,Intravenous,Northstar Pharma,Antibiotic,Y,2022-04-05,,DrugReferenceHub
+DRG00799,91771545572,Jardiance,Empagliflozin,Jardiance,1000,mcg,Patch,Inhalation,Atlas Medications,Antihypertensive,N,2022-01-15,2024-06-10,DrugReferenceHub
+DRG00800,13230284057,Januvia,Sitagliptin,Januvia,10,mg/mL,Solution,Intravenous,Meridian Pharma,Gastrointestinal,Y,2022-03-22,,DrugReferenceHub
+DRG00801,77393477110,Lantus,Insulin Glargine,Lantus,50,mg,Solution,Oral,BlueRiver Pharmaceuticals,Antidiabetic,Y,2025-09-11,,DrugReferenceHub
+DRG00802,95762624064,Humalog,Insulin Lispro,Humalog,40,units/mL,Solution,Topical,Pioneer Medical,Antidiabetic,Y,2024-04-30,,DrugReferenceHub
+DRG00803,11492597998,Prozac,Fluoxetine,Prozac,250,mcg,Suspension,Intravenous,BlueRiver Pharmaceuticals,Gastrointestinal,Y,2025-03-23,,DrugReferenceHub
+DRG00804,22287685065,Wellbutrin,Bupropion,Wellbutrin,50,units/mL,Capsule,Topical,Redwood Pharma,Antidepressant,N,2022-02-01,2024-03-14,DrugReferenceHub
+DRG00805,91638946513,Coreg,Carvedilol,Coreg,100,mg,Solution,Oral,Atlas Medications,Lipid Lowering,Y,2022-02-02,,DrugReferenceHub
+DRG00806,49501356011,Lopressor,Metoprolol,Lopressor,50,units/mL,Patch,Inhalation,Redwood Pharma,Antidepressant,Y,2025-05-25,,DrugReferenceHub
+DRG00807,10731878875,Lasix,Furosemide,Lasix,40,mg/mL,Injection,Intravenous,Evergreen Labs,Antibiotic,N,2022-05-31,2024-08-04,DrugReferenceHub
+DRG00808,37158569890,Aldactone,Spironolactone,Aldactone,40,units/mL,Injection,Intravenous,Summit Therapeutics,Endocrine,Y,2022-08-16,,DrugReferenceHub
+DRG00809,45073829754,Ventolin,Albuterol,Ventolin,500,units/mL,Cream,Topical,Summit Therapeutics,Gastrointestinal,Y,2024-01-29,,DrugReferenceHub
+DRG00810,61137801874,Vibramycin,Doxycycline,Vibramycin,20,mg/mL,Tablet,Topical,Pioneer Medical,Antihypertensive,Y,2024-06-05,,DrugReferenceHub
+DRG00811,63011707032,Ozempic,Semaglutide,Ozempic,100,mg,Cream,Transdermal,BlueRiver Pharmaceuticals,Antidiabetic,N,2022-12-01,2024-06-16,DrugReferenceHub
+DRG00812,39077562796,Glucophage,Metformin,Glucophage,10,mg,Cream,Oral,Meridian Pharma,Anticoagulant,Y,2023-10-13,,DrugReferenceHub
+DRG00813,69725978984,Lipitor,Atorvastatin,Lipitor,100,mcg,Injection,Topical,Atlas Medications,Antidepressant,Y,2024-09-13,,DrugReferenceHub
+DRG00814,33948932149,Prinivil,Lisinopril,Prinivil,25,mg,Suspension,Oral,Crescent Therapeutics,Anticoagulant,Y,2023-10-10,,DrugReferenceHub
+DRG00815,39552514457,Norvasc,Amlodipine,Norvasc,250,mg,Cream,Oral,Evergreen Labs,Antibiotic,Y,2023-07-14,,DrugReferenceHub
+DRG00816,70317814977,Cozaar,Losartan,Cozaar,500,units/mL,Injection,Oral,Northstar Pharma,Antihypertensive,N,2022-04-15,2024-05-06,DrugReferenceHub
+DRG00817,39903246537,Prilosec,Omeprazole,Prilosec,50,mg/mL,Solution,Topical,Crescent Therapeutics,Antidiabetic,Y,2023-10-23,,DrugReferenceHub
+DRG00818,84680513981,Neurontin,Gabapentin,Neurontin,20,mg,Cream,Inhalation,Meridian Pharma,Lipid Lowering,Y,2025-03-19,,DrugReferenceHub
+DRG00819,26940396868,Synthroid,Levothyroxine,Synthroid,1000,mg/mL,CREAM,Transdermal,Beacon Life Sciences,Antihypertensive,Y,2024-07-05,,DrugReferenceHub
+DRG00820,78375177340,Zoloft,Sertraline,Zoloft,20,mg,Solution,Subcutaneous,BlueRiver Pharmaceuticals,Endocrine,Y,2025-07-29,,DrugReferenceHub
+DRG00821,82822319745,Crestor,Rosuvastatin,Crestor,25,mg,Solution,Inhalation,Redwood Pharma,Respiratory,Y,2022-07-04,,DrugReferenceHub
+DRG00822,76440908482,Lexapro,Escitalopram,Lexapro,50,mcg,Inhaler,Inhalation,Redwood Pharma,Antibiotic,Y,2022-01-17,,DrugReferenceHub
+DRG00823,20269556375,Singulair,Montelukast,Singulair,50,mcg,Inhaler,Subcutaneous,Meridian Pharma,Antidepressant,Y,2024-03-12,,DrugReferenceHub
+DRG00824,93733534314,Cymbalta,Duloxetine,Cymbalta,10,units/mL,Patch,Inhalation,Crescent Therapeutics,Antidepressant,Y,2022-09-19,,DrugReferenceHub
+DRG00825,70613545988,Plavix,Clopidogrel,Plavix,250,units/mL,Cream,Oral,Meridian Pharma,Antihypertensive,Y,2024-05-18,,DrugReferenceHub
+DRG00826,76216784973,Protonix,Pantoprazole,Protonix,100,mg/mL,Cream,Intravenous,Beacon Life Sciences,Antidepressant,Y,2025-08-14,,DrugReferenceHub
+DRG00827,94599568355,Microzide,Hydrochlorothiazide,Microzide,1000,mcg,Injection,Intravenous,Redwood Pharma,Lipid Lowering,Y,2023-05-08,,DrugReferenceHub
+DRG00828,13254104910,Eliquis,Apixaban,Eliquis,100,mg,Capsule,Intravenous,Atlas Medications,Endocrine,Y,2024-03-14,,DrugReferenceHub
+DRG00829,44531515535,Jardiance,Empagliflozin,Jardiance,100,units/mL,Patch,Topical,Pioneer Medical,Anticoagulant,Y,2024-09-23,,DrugReferenceHub
+DRG00830,40081577678,Januvia,Sitagliptin,Januvia,20,units/mL,Patch,Subcutaneous,Meridian Pharma,Antihypertensive,Y,2022-08-08,,DrugReferenceHub
+DRG00831,76582366385,Lantus,Insulin Glargine,Lantus,1000,units/mL,Suspension,Intravenous,Redwood Pharma,Antihypertensive,Y,2025-08-04,,DrugReferenceHub
+DRG00832,44198336110,Humalog,Insulin Lispro,Humalog,100,units/mL,Solution,Subcutaneous,Summit Therapeutics,Lipid Lowering,Y,2022-10-24,,DrugReferenceHub
+DRG00833,22743552549,Prozac,Fluoxetine,Prozac,5,units/mL,Solution,Transdermal,Meridian Pharma,Antidepressant,Y,2025-03-27,,DrugReferenceHub
+DRG00834,44211207023,UNKNOWN BRAND DRG00834,Bupropion,Wellbutrin,500,mg,Injection,Topical,Crescent Therapeutics,Gastrointestinal,N,2024-08-22,2026-05-10,DrugReferenceHub
+DRG00835,80822802269,Coreg,Carvedilol,Coreg,10,mcg,Solution,Transdermal,Crescent Therapeutics,Antihypertensive,Y,2022-07-26,,DrugReferenceHub
+DRG00836,11713731824,Lopressor,Metoprolol,Lopressor,20,mg/mL,Suspension,Transdermal,BlueRiver Pharmaceuticals,Antihypertensive,Y,2024-11-25,,DrugReferenceHub
+DRG00837,37173563991,Lasix,Furosemide,Lasix,500,mcg,Capsule,Inhalation,Evergreen Labs,Antibiotic,Y,2022-10-15,,DrugReferenceHub
+DRG00838,74794323539,Aldactone,Spironolactone,Aldactone,20,units/mL,Suspension,Topical,Crescent Therapeutics,Respiratory,Y,2024-05-26,,DrugReferenceHub
+DRG00839,61916924081,Ventolin,Albuterol,Ventolin,20,mg/mL,Injection,Intravenous,Crescent Therapeutics,Antihypertensive,Y,2025-11-04,,DrugReferenceHub
+DRG00840,31923278318,Vibramycin,Doxycycline,Vibramycin,25,units/mL,Patch,Topical,Crescent Therapeutics,Gastrointestinal,Y,2025-10-25,,DrugReferenceHub
+DRG00841,76004568133,Ozempic,Semaglutide,Ozempic,25,mg,Cream,Intravenous,Atlas Medications,Gastrointestinal,Y,2025-06-27,,DrugReferenceHub
+DRG00842,38130142714,Glucophage,Metformin,Glucophage,1000,mg/mL,Patch,Inhalation,Meridian Pharma,Antidiabetic,Y,2023-12-24,,DrugReferenceHub
+DRG00843,52583690494,Lipitor,Atorvastatin,Lipitor,40,mg/mL,Cream,Topical,Crescent Therapeutics,Respiratory,Y,2024-03-29,,DrugReferenceHub
+DRG00844,62579571575,Prinivil,Lisinopril,Prinivil,20,mg/mL,Injection,Topical,Atlas Medications,Neurologic,N,2023-03-15,2024-07-22,DrugReferenceHub
+DRG00845,40965220919,Norvasc,Amlodipine,Norvasc,100,mg,Capsule,Transdermal,BlueRiver Pharmaceuticals,Neurologic,Y,2025-09-08,,DrugReferenceHub
+DRG00846,55066490222,Cozaar,Losartan,Cozaar,20,mg/mL,Tablet,Intravenous,Pioneer Medical,Lipid Lowering,Y,2023-11-29,,DrugReferenceHub
+DRG00847,95141181032,Prilosec,Omeprazole,Prilosec,250,mcg,Capsule,Oral,Redwood Pharma,Lipid Lowering,Y,2025-02-02,,DrugReferenceHub
+DRG00848,61966238250,Neurontin,Gabapentin,Neurontin,20,mg,Injection,Oral,Evergreen Labs,Antidiabetic,Y,2023-06-10,,DrugReferenceHub
+DRG00849,97186359837,Synthroid,Levothyroxine,Synthroid,50,mg/mL,Tablet,Inhalation,Redwood Pharma,Respiratory,N,2024-12-18,2026-10-16,DrugReferenceHub
+DRG00850,77633965520,Zoloft,Sertraline,Zoloft,5,mg/mL,Capsule,Subcutaneous,MERIDIAN PHARMA,Endocrine,Y,2022-11-25,,DrugReferenceHub
+DRG00851,71431521823,Crestor,Rosuvastatin,Crestor,40,mcg,Solution,Oral,Redwood Pharma,Lipid Lowering,Y,2024-12-08,,DrugReferenceHub
+DRG00852,47349867456,Lexapro,Escitalopram,Lexapro,500,mg,Injection,Transdermal,Beacon Life Sciences,Antibiotic,Y,2022-03-09,,DrugReferenceHub
+DRG00853,79563396334,Singulair,Montelukast,Singulair,100,mg,Injection,Topical,Atlas Medications,Antidepressant,Y,2022-06-03,,DrugReferenceHub
+DRG00854,48520467193,Cymbalta,Duloxetine,Cymbalta,25,mg/mL,Suspension,Inhalation,Summit Therapeutics,Lipid Lowering,N,2023-05-30,2024-08-17,DrugReferenceHub
+DRG00855,13289945916,Plavix,Clopidogrel,Plavix,20,mg,Tablet,Intravenous,Evergreen Labs,Neurologic,Y,2023-12-06,,DrugReferenceHub
+DRG00856,29289502522,Protonix,Pantoprazole,Protonix,250,mg/mL,Solution,Intravenous,Redwood Pharma,Antidepressant,Y,2024-11-06,,DrugReferenceHub
+DRG00857,18150603280,Microzide,Hydrochlorothiazide,Microzide,1000,mcg,Capsule,Transdermal,Beacon Life Sciences,Antidepressant,Y,2023-06-09,,DrugReferenceHub
+DRG00858,27539452320,Eliquis,Apixaban,Eliquis,100,mg/mL,Injection,Subcutaneous,Crescent Therapeutics,Lipid Lowering,Y,2022-01-27,,DrugReferenceHub
+DRG00859,18104794374,Jardiance,Empagliflozin,Jardiance,100,mg,Capsule,Transdermal,Crescent Therapeutics,Anticoagulant,Y,2023-04-21,,DrugReferenceHub
+DRG00860,19989783912,Januvia,Sitagliptin,Januvia,250,units/mL,Inhaler,Inhalation,Pioneer Medical,Neurologic,Y,2023-10-05,,DrugReferenceHub
+DRG00861,32031366424,Lantus,Insulin Glargine,Lantus,20,mg/mL,Capsule,Inhalation,Northstar Pharma,Lipid Lowering,N,2024-03-05,2026-10-22,DrugReferenceHub
+DRG00862,31054839415,Humalog,Insulin Lispro,Humalog,250,mg,Cream,Subcutaneous,Atlas Medications,Neurologic,Y,2024-07-30,,DrugReferenceHub
+DRG00863,47040255743,Prozac,Fluoxetine,Prozac,250,mg/mL,Solution,Intravenous,Beacon Life Sciences,Anticoagulant,Y,2022-12-29,,DrugReferenceHub
+DRG00864,92809819256,Wellbutrin,Bupropion,Wellbutrin,1000,mg/mL,Injection,Transdermal,Meridian Pharma,Anticoagulant,Y,2024-06-11,,DrugReferenceHub
+DRG00865,66586455165,UNKNOWN BRAND DRG00865,Carvedilol,Coreg,25,mg/mL,Inhaler,Subcutaneous,Pioneer Medical,Anticoagulant,Y,2024-07-12,,DrugReferenceHub
+DRG00866,12234647192,Lopressor,Metoprolol,Lopressor,25,mg/mL,Inhaler,Inhalation,Northstar Pharma,Antihypertensive,Y,2025-02-09,,DrugReferenceHub
+DRG00867,21421615389,Lasix,Furosemide,Lasix,500,mg,Cream,Oral,Pioneer Medical,Gastrointestinal,Y,2024-02-03,,DrugReferenceHub
+DRG00868,65882951085,Aldactone,Spironolactone,Aldactone,100,mcg,Capsule,Subcutaneous,Meridian Pharma,Antibiotic,Y,2025-03-30,,DrugReferenceHub
+DRG00869,68673966287,Ventolin,Albuterol,Ventolin,50,units/mL,Patch,Transdermal,Summit Therapeutics,Lipid Lowering,Y,2022-11-20,,DrugReferenceHub
+DRG00870,98795104473,Vibramycin,Doxycycline,Vibramycin,10,mg/mL,Capsule,Subcutaneous,Evergreen Labs,Anticoagulant,Y,2024-11-06,,DrugReferenceHub
+DRG00871,69240639616,Ozempic,Semaglutide,Ozempic,10,mg,Patch,Inhalation,Meridian Pharma,Neurologic,N,2022-03-09,2024-04-14,DrugReferenceHub
+DRG00872,50540304418,Glucophage,Metformin,Glucophage,10,units/mL,Inhaler,Transdermal,Atlas Medications,Neurologic,Y,2022-05-31,,DrugReferenceHub
+DRG00873,11605697119,Lipitor,Atorvastatin,Lipitor,40,mg,Suspension,Topical,Redwood Pharma,Neurologic,Y,2025-06-18,,DrugReferenceHub
+DRG00874,91548X39093,Prinivil,Lisinopril,Prinivil,20,mg/mL,Tablet,Inhalation,Redwood Pharma,Endocrine,Y,2023-11-26,,DrugReferenceHub
+DRG00875,44579406461,Norvasc,Amlodipine,Norvasc,50,mg,Tablet,Inhalation,Pioneer Medical,Antihypertensive,N,2024-06-26,2026-08-20,DrugReferenceHub
+DRG00876,56356748535,Cozaar,Losartan,Cozaar,25,mg,Solution,Oral,Beacon Life Sciences,Lipid Lowering,Y,2024-06-01,,DrugReferenceHub
+DRG00877,90100233162,Prilosec,Omeprazole,Prilosec,1000,mcg,Suspension,Oral,Evergreen Labs,Lipid Lowering,Y,2024-10-12,,DrugReferenceHub
+DRG00878,38112790984,Neurontin,Gabapentin,Neurontin,50,mcg,Solution,Subcutaneous,Evergreen Labs,Lipid Lowering,Y,2022-12-26,,DrugReferenceHub
+DRG00879,25094254121,Synthroid,Levothyroxine,Synthroid,1000,units/mL,Suspension,Inhalation,Crescent Therapeutics,Lipid Lowering,Y,2022-09-18,,DrugReferenceHub
+DRG00880,50757578276,Zoloft,Sertraline,Zoloft,40,mg,Solution,Oral,Evergreen Labs,Endocrine,Y,2022-03-04,,DrugReferenceHub
+DRG00881,48051460965,Crestor,Rosuvastatin,Crestor,500,mg/mL,Capsule,Intravenous,BlueRiver Pharmaceuticals,Anticoagulant,Y,2025-06-18,,DrugReferenceHub
+DRG00882,43392739451,Lexapro,Escitalopram,Lexapro,5,mg,Cream,Transdermal,BlueRiver Pharmaceuticals,Gastrointestinal,Y,2022-11-23,,DrugReferenceHub
+DRG00883,93961156923,Singulair,Montelukast,Singulair,1000,units/mL,Solution,Topical,Meridian Pharma,Lipid Lowering,N,2024-04-20,2026-05-27,DrugReferenceHub
+DRG00884,14030276734,Cymbalta,Duloxetine,Cymbalta,40,units/mL,TABLET,Topical,Evergreen Labs,Anticoagulant,Y,2023-10-28,,DrugReferenceHub
+DRG00885,72708515673,Plavix,Clopidogrel,Plavix,10,mg/mL,Patch,Oral,Northstar Pharma,Respiratory,N,2022-08-26,2024-02-24,DrugReferenceHub
+DRG00886,96338320268,Protonix,Pantoprazole,Protonix,100,units/mL,Suspension,Topical,Meridian Pharma,Lipid Lowering,Y,2023-08-29,,DrugReferenceHub
+DRG00887,52800745415,Microzide,Hydrochlorothiazide,Microzide,500,mg,Injection,Topical,Meridian Pharma,Respiratory,Y,2022-05-02,,DrugReferenceHub
+DRG00888,14904163164,Eliquis,Apixaban,Eliquis,500,units/mL,Capsule,Intravenous,Summit Therapeutics,Neurologic,Y,2022-09-16,,DrugReferenceHub
+DRG00889,51203246489,Jardiance,Empagliflozin,Jardiance,50,units/mL,Suspension,Topical,Evergreen Labs,Antihypertensive,Y,2022-07-24,,DrugReferenceHub
+DRG00890,57820791671,Januvia,Sitagliptin,Januvia,100,mcg,Cream,Topical,Beacon Life Sciences,Antidiabetic,Y,2025-04-20,,DrugReferenceHub
+DRG00891,67080423748,Lantus,Insulin Glargine,Lantus,5,mg/mL,Patch,Subcutaneous,Meridian Pharma,Antibiotic,N,2024-04-09,2026-11-24,DrugReferenceHub
+DRG00892,61102807993,Humalog,Insulin Lispro,Humalog,5,mg/mL,Solution,Inhalation,Crescent Therapeutics,Gastrointestinal,Y,2025-09-15,,DrugReferenceHub
+DRG00893,98755861361,Prozac,Fluoxetine,Prozac,10,mg/mL,Solution,Subcutaneous,Pioneer Medical,Gastrointestinal,Y,2023-09-30,,DrugReferenceHub
+DRG00894,81569427757,Wellbutrin,Bupropion,Wellbutrin,5,mg,Inhaler,Intravenous,Atlas Medications,Antibiotic,N,2022-10-22,2023-10-07,DrugReferenceHub
+DRG00895,13367227159,Coreg,Carvedilol,Coreg,50,mcg,Patch,Subcutaneous,Beacon Life Sciences,Antihypertensive,Y,2024-06-08,,DrugReferenceHub
+DRG00896,52155953617,Lopressor,Metoprolol,Lopressor,20,mcg,Injection,Intravenous,Meridian Pharma,Endocrine,Y,2025-09-21,,DrugReferenceHub
+DRG00897,14382432019,Lasix,Furosemide,Lasix,50,mg,Tablet,Subcutaneous,Meridian Pharma,Lipid Lowering,Y,2024-02-18,,DrugReferenceHub
+DRG00898,14546502462,Aldactone,Spironolactone,Aldactone,500,mg,Inhaler,Inhalation,Redwood Pharma,Gastrointestinal,Y,2022-01-27,,DrugReferenceHub
+DRG00899,88995939535,Ventolin,Albuterol,Ventolin,250,mcg,Patch,Subcutaneous,Evergreen Labs,Neurologic,Y,2023-03-20,,DrugReferenceHub
+DRG00900,33202515562,Vibramycin,Doxycycline,Vibramycin,500,mg/mL,Cream,Intravenous,Meridian Pharma,Antibiotic,Y,2025-09-14,,DrugReferenceHub
+DRG00901,43701205518,Ozempic,Semaglutide,Ozempic,5,mg,Inhaler,Oral,Beacon Life Sciences,Anticoagulant,Y,2024-01-28,,DrugReferenceHub
+DRG00902,51098510786,Glucophage,,Glucophage,20,mcg,Tablet,Oral,Northstar Pharma,Anticoagulant,Y,2025-10-23,,DrugReferenceHub
+DRG00903,20729975921,Lipitor,Atorvastatin,Lipitor,50,mcg,Suspension,Subcutaneous,Northstar Pharma,Antidepressant,N,2024-01-15,2025-10-22,DrugReferenceHub
+DRG00904,33502745180,Prinivil,Lisinopril,Prinivil,1000,mg/mL,Solution,Transdermal,Summit Therapeutics,Neurologic,Y,2022-01-18,,DrugReferenceHub
+DRG00905,86680432854,Norvasc,Amlodipine,Norvasc,100,mg/mL,Inhaler,Subcutaneous,Redwood Pharma,Antidepressant,Y,2025-06-30,,DrugReferenceHub
+DRG00906,50461794847,Cozaar,Losartan,Cozaar,250,units/mL,Capsule,Oral,Evergreen Labs,Respiratory,Y,2025-01-20,,DrugReferenceHub
+DRG00907,98697873751,Prilosec,Omeprazole,Prilosec,500,units/mL,Inhaler,Topical,Beacon Life Sciences,Antidiabetic,Y,2024-11-11,,DrugReferenceHub
+DRG00908,40604293652,Neurontin,Gabapentin,Neurontin,10,mg,Patch,Oral,Summit Therapeutics,Respiratory,Y,2025-11-19,,DrugReferenceHub
+DRG00909,97378960743,Synthroid,Levothyroxine,Synthroid,5,mg/mL,Suspension,Transdermal,BlueRiver Pharmaceuticals,Respiratory,Y,2022-10-14,,DrugReferenceHub
+DRG00910,55753696537,Zoloft,Sertraline,Zoloft,25,mg,Suspension,Oral,Crescent Therapeutics,Antidepressant,Y,2025-08-17,,DrugReferenceHub
+DRG00911,96886169095,Crestor,Rosuvastatin,Crestor,10,mg,Cream,Subcutaneous,Pioneer Medical,Gastrointestinal,Y,2022-12-07,,DrugReferenceHub
+DRG00912,92274531886,Lexapro,Escitalopram,Lexapro,500,mg/mL,Injection,Inhalation,Crescent Therapeutics,Lipid Lowering,Y,2025-11-20,,DrugReferenceHub
+DRG00913,12082289297,Singulair,Montelukast,Singulair,250,mg/mL,Tablet,Oral,Summit Therapeutics,Neurologic,Y,2022-10-07,,DrugReferenceHub
+DRG00914,35551800184,Cymbalta,Duloxetine,Cymbalta,1000,mcg,Inhaler,Intravenous,Evergreen Labs,Antibiotic,Y,2024-03-15,,DrugReferenceHub
+DRG00915,42374213026,Plavix,Clopidogrel,Plavix,20,mcg,Suspension,Transdermal,Crescent Therapeutics,Antihypertensive,N,2025-02-28,2025-10-22,DrugReferenceHub
+DRG00916,26948834812,Protonix,Pantoprazole,Protonix,10,mcg,Injection,Intravenous,Summit Therapeutics,Respiratory,Y,2022-04-25,,DrugReferenceHub
+DRG00917,81337865957,Microzide,Hydrochlorothiazide,Microzide,1000,units/mL,Tablet,Intravenous,Summit Therapeutics,Antidiabetic,Y,2022-04-08,,DrugReferenceHub
+DRG00918,22522938085,Eliquis,Apixaban,Eliquis,5,units/mL,Patch,Intravenous,Atlas Medications,Antihypertensive,N,2025-05-27,2026-07-22,DrugReferenceHub
+DRG00919,70444329131,Jardiance,Empagliflozin,Jardiance,250,mcg,Patch,Subcutaneous,Redwood Pharma,Anticoagulant,Y,2022-03-30,,DrugReferenceHub
+DRG00920,51792496033,Januvia,Sitagliptin,Januvia,25,mcg,Suspension,Oral,Atlas Medications,Antidiabetic,Y,2024-06-16,,DrugReferenceHub
+DRG00921,18254X93126,Lantus,Insulin Glargine,Lantus,40,mg/mL,Tablet,Intravenous,Meridian Pharma,Antidiabetic,Y,2025-10-03,,DrugReferenceHub
+DRG00922,59778965268,Humalog,Insulin Lispro,Humalog,10,units/mL,Solution,Intravenous,BlueRiver Pharmaceuticals,Endocrine,Y,2024-06-17,,DrugReferenceHub
+DRG00923,93669729418,Prozac,Fluoxetine,Prozac,5,mg,Tablet,Intravenous,Northstar Pharma,Lipid Lowering,N,2023-12-05,2025-09-16,DrugReferenceHub
+DRG00924,43283388696,Wellbutrin,Bupropion,Wellbutrin,500,mg,Tablet,Transdermal,BlueRiver Pharmaceuticals,Antidepressant,Y,2023-09-03,,DrugReferenceHub
+DRG00925,53024281896,Coreg,Carvedilol,Coreg,250,mg/mL,Inhaler,Inhalation,Pioneer Medical,Antihypertensive,Y,2024-07-21,,DrugReferenceHub
+DRG00926,47326286219,Lopressor,Metoprolol,Lopressor,10,mg/mL,Inhaler,Intravenous,Redwood Pharma,Lipid Lowering,Y,2024-04-16,,DrugReferenceHub
+DRG00927,25766628880,Lasix,Furosemide,Lasix,1000,mcg,Injection,Oral,Beacon Life Sciences,Lipid Lowering,N,2024-01-04,2025-08-07,DrugReferenceHub
+DRG00928,27990184869,Aldactone,Spironolactone,Aldactone,40,mg,Cream,Inhalation,Redwood Pharma,Anticoagulant,Y,2022-08-13,,DrugReferenceHub
+DRG00929,22036487942,Ventolin,Albuterol,Ventolin,50,units/mL,Tablet,Topical,Northstar Pharma,Anticoagulant,Y,2024-08-26,,DrugReferenceHub
+DRG00930,83727139018,Vibramycin,Doxycycline,Vibramycin,5,mg,Solution,Subcutaneous,Meridian Pharma,Anticoagulant,Y,2024-12-17,,DrugReferenceHub
+DRG00931,42506952673,Ozempic,Semaglutide,Ozempic,50,mg/mL,Patch,Transdermal,Evergreen Labs,Anticoagulant,N,2024-11-02,2027-06-11,DrugReferenceHub
+DRG00932,52558778061,Glucophage,Metformin,Glucophage,40,units/mL,Suspension,Subcutaneous,Crescent Therapeutics,Antidepressant,Y,2022-04-20,,DrugReferenceHub
+DRG00933,99873357727,Lipitor,Atorvastatin,Lipitor,40,units/mL,Capsule,Transdermal,Meridian Pharma,Antidepressant,Y,2024-10-24,,DrugReferenceHub
+DRG00934,77205261342,Prinivil,Lisinopril,Prinivil,5,units/mL,Inhaler,Subcutaneous,Meridian Pharma,Antihypertensive,N,2024-12-02,2026-10-16,DrugReferenceHub
+DRG00935,21889957164,Norvasc,Amlodipine,Norvasc,10,units/mL,Solution,Intravenous,Crescent Therapeutics,Neurologic,Y,2022-09-26,,DrugReferenceHub
+DRG00936,88410610673,Cozaar,Losartan,Cozaar,500,mcg,Cream,Transdermal,Evergreen Labs,Endocrine,Y,2025-05-26,,DrugReferenceHub
+DRG00937,37677228163,Prilosec,Omeprazole,Prilosec,1000,mg/mL,Suspension,Transdermal,Pioneer Medical,Antihypertensive,Y,2024-02-05,,DrugReferenceHub
+DRG00938,48967225613,Neurontin,Gabapentin,Neurontin,250,mcg,Cream,Transdermal,Evergreen Labs,Endocrine,N,2023-11-22,2025-04-22,DrugReferenceHub
+DRG00939,89572512973,Synthroid,Levothyroxine,Synthroid,10,mg,Solution,Transdermal,Pioneer Medical,Antihypertensive,Y,2024-11-22,,DrugReferenceHub
+DRG00940,57576578668,Zoloft,Sertraline,Zoloft,250,units/mL,Suspension,Inhalation,Evergreen Labs,Gastrointestinal,Y,2024-01-16,,DrugReferenceHub
+DRG00941,40085120419,Crestor,Rosuvastatin,Crestor,250,mcg,Injection,Inhalation,Redwood Pharma,Neurologic,Y,2024-03-07,,DrugReferenceHub
+DRG00942,62002626144,Lexapro,Escitalopram,Lexapro,100,units/mL,Patch,Topical,Redwood Pharma,Lipid Lowering,N,2023-04-02,2024-09-12,DrugReferenceHub
+DRG00943,66700177485,Singulair,Montelukast,Singulair,100,mcg,Capsule,Subcutaneous,Meridian Pharma,Antidiabetic,Y,2025-09-18,,DrugReferenceHub
+DRG00944,35516352970,Cymbalta,Duloxetine,Cymbalta,50,units/mL,Tablet,Inhalation,Pioneer Medical,Gastrointestinal,Y,2025-11-18,,DrugReferenceHub
+DRG00945,60323145092,Plavix,Clopidogrel,Plavix,10,mg/mL,Tablet,Intravenous,Northstar Pharma,Endocrine,Y,2022-07-10,,DrugReferenceHub
+DRG00946,89346159852,Protonix,Pantoprazole,Protonix,20,units/mL,Patch,Subcutaneous,Atlas Medications,Antidepressant,Y,2024-12-07,,DrugReferenceHub
+DRG00947,25717847814,Microzide,Hydrochlorothiazide,Microzide,1000,mcg,Injection,Transdermal,Atlas Medications,Respiratory,Y,2022-02-04,,DrugReferenceHub
+DRG00948,78677417938,Eliquis,Apixaban,Eliquis,25,mg/mL,Capsule,Intravenous,Northstar Pharma,Antidiabetic,N,2023-06-24,2025-05-05,DrugReferenceHub
+DRG00949,87245844734,Jardiance,Empagliflozin,Jardiance,5,mcg,Solution,Topical,BlueRiver Pharmaceuticals,Antidiabetic,Y,2025-11-19,,DrugReferenceHub
+DRG00950,95396703691,Januvia,Sitagliptin,Januvia,100,mcg,Cream,Transdermal,Northstar Pharma,Antidepressant,Y,2022-09-13,,DrugReferenceHub
+DRG00951,93949757344,Lantus,Insulin Glargine,Lantus,50,mg/mL,Capsule,Transdermal,Atlas Medications,Endocrine,Y,2023-07-06,,DrugReferenceHub
+DRG00952,59760482618,Humalog,Insulin Lispro,Humalog,40,mg/mL,Capsule,Intravenous,Pioneer Medical,Lipid Lowering,Y,2022-11-18,,DrugReferenceHub
+DRG00953,46658209727,Prozac,Fluoxetine,Prozac,20,mg,Capsule,Intravenous,BlueRiver Pharmaceuticals,Antidepressant,Y,2024-11-30,,DrugReferenceHub
+DRG00954,85417501813,Wellbutrin,Bupropion,Wellbutrin,250,mg/mL,Injection,Topical,Crescent Therapeutics,Lipid Lowering,N,2023-11-10,2026-02-15,DrugReferenceHub
+DRG00955,66849248677,Coreg,Carvedilol,Coreg,20,mcg,Injection,Transdermal,Crescent Therapeutics,Antidiabetic,Y,2024-05-17,,DrugReferenceHub
+DRG00956,35251160755,Lopressor,Metoprolol,Lopressor,500,units/mL,Inhaler,Inhalation,Atlas Medications,Antidepressant,Y,2025-10-10,,DrugReferenceHub
+DRG00957,62107980910,Lasix,Furosemide,Lasix,100,mg/mL,Inhaler,Topical,Summit Therapeutics,Respiratory,Y,2024-02-01,,DrugReferenceHub
+DRG00958,55751721745,Aldactone,Spironolactone,Aldactone,20,mcg,Solution,Transdermal,Pioneer Medical,Gastrointestinal,Y,2024-12-09,,DrugReferenceHub
+DRG00959,51167339278,Ventolin,Albuterol,Ventolin,100,units/mL,Inhaler,Topical,Atlas Medications,Endocrine,Y,2022-05-24,,DrugReferenceHub
+DRG00960,74909178953,Vibramycin,Doxycycline,Vibramycin,50,mg/mL,Injection,Intravenous,Evergreen Labs,Lipid Lowering,N,2022-11-11,2023-12-22,DrugReferenceHub
+DRG00961,50389239682,Ozempic,Semaglutide,Ozempic,40,mg,Inhaler,Oral,MERIDIAN PHARMA,Antihypertensive,Y,2025-10-16,,DrugReferenceHub
+DRG00962,47585215820,Glucophage,Metformin,Glucophage,1000,mcg,Solution,Transdermal,Beacon Life Sciences,Lipid Lowering,Y,2025-06-10,,DrugReferenceHub
+DRG00963,49300844372,Lipitor,Atorvastatin,Lipitor,25,units/mL,Cream,Oral,Northstar Pharma,Antidepressant,Y,2024-08-18,,DrugReferenceHub
+DRG00964,80158561493,Prinivil,Lisinopril,Prinivil,10,units/mL,Solution,Transdermal,Northstar Pharma,Gastrointestinal,Y,2023-07-07,,DrugReferenceHub
+DRG00965,47734931755,Norvasc,Amlodipine,Norvasc,5,mg/mL,Inhaler,Inhalation,Atlas Medications,Lipid Lowering,Y,2022-10-20,,DrugReferenceHub
+DRG00966,59002120957,Cozaar,Losartan,Cozaar,250,mg/mL,Capsule,Subcutaneous,Meridian Pharma,Lipid Lowering,Y,2025-05-30,,DrugReferenceHub
+DRG00967,91636397347,Prilosec,Omeprazole,Prilosec,500,units/mL,Inhaler,Transdermal,Beacon Life Sciences,Antihypertensive,Y,2025-02-22,,DrugReferenceHub
+DRG00968,48104454958,Neurontin,Gabapentin,Neurontin,20,mg/mL,Tablet,Topical,Northstar Pharma,Antihypertensive,Y,2022-12-20,,DrugReferenceHub
+DRG00969,17266624267,UNKNOWN BRAND DRG00969,Levothyroxine,Synthroid,40,units/mL,Solution,Subcutaneous,Atlas Medications,Gastrointestinal,Y,2024-05-12,,DrugReferenceHub
+DRG00970,26703687825,Zoloft,Sertraline,Zoloft,25,mg,Cream,Transdermal,BlueRiver Pharmaceuticals,Antihypertensive,Y,2024-06-23,,DrugReferenceHub
+DRG00971,69207755847,Crestor,Rosuvastatin,Crestor,100,mcg,Solution,Subcutaneous,Atlas Medications,Antidepressant,Y,2023-11-30,,DrugReferenceHub
+DRG00972,38327505360,Lexapro,Escitalopram,Lexapro,100,mg/mL,Tablet,Oral,Crescent Therapeutics,Lipid Lowering,Y,2025-09-16,,DrugReferenceHub
+DRG00973,94197527115,Singulair,Montelukast,Singulair,100,mg,Solution,Topical,Summit Therapeutics,Gastrointestinal,Y,2022-07-01,,DrugReferenceHub
+DRG00974,91814375357,Cymbalta,Duloxetine,Cymbalta,250,mg,Suspension,Intravenous,Summit Therapeutics,Antibiotic,Y,2023-01-13,,DrugReferenceHub
+DRG00975,63498422023,Plavix,Clopidogrel,Plavix,50,mcg,Cream,Transdermal,Summit Therapeutics,Antibiotic,Y,2022-05-19,,DrugReferenceHub
+DRG00976,31674507922,Protonix,Pantoprazole,Protonix,25,mg/mL,Suspension,Subcutaneous,Pioneer Medical,Lipid Lowering,Y,2024-10-10,,DrugReferenceHub
+DRG00977,76439803058,Microzide,Hydrochlorothiazide,Microzide,25,units/mL,Tablet,Oral,BlueRiver Pharmaceuticals,Antihypertensive,Y,2024-07-30,,DrugReferenceHub
+DRG00978,91233214850,Eliquis,Apixaban,Eliquis,25,units/mL,Patch,Intravenous,BlueRiver Pharmaceuticals,Antibiotic,Y,2025-12-14,,DrugReferenceHub
+DRG00979,51850973745,Jardiance,Empagliflozin,Jardiance,5,units/mL,Tablet,Transdermal,Summit Therapeutics,Respiratory,N,2024-03-03,2025-12-22,DrugReferenceHub
+DRG00980,43240994052,UNKNOWN BRAND DRG00980,Sitagliptin,Januvia,1000,mg/mL,Injection,Topical,Beacon Life Sciences,Antihypertensive,Y,2022-08-09,,DrugReferenceHub
+DRG00981,98617171442,Lantus,Insulin Glargine,Lantus,5,mcg,Injection,Oral,Meridian Pharma,Respiratory,Y,2023-10-22,,DrugReferenceHub
+DRG00982,59783584950,Humalog,Insulin Lispro,Humalog,40,mcg,Injection,Topical,Northstar Pharma,Gastrointestinal,N,2022-05-10,2024-02-20,DrugReferenceHub
+DRG00983,95394214840,Prozac,Fluoxetine,Prozac,40,units/mL,Capsule,Oral,Pioneer Medical,Antihypertensive,Y,2024-09-07,,DrugReferenceHub
+DRG00984,64647425595,Wellbutrin,Bupropion,Wellbutrin,10,mg,SOLUTION,Topical,Meridian Pharma,Antidiabetic,Y,2024-09-12,,DrugReferenceHub
+DRG00985,29976903633,Coreg,Carvedilol,Coreg,20,mcg,Patch,Intravenous,Atlas Medications,Neurologic,Y,2025-06-07,,DrugReferenceHub
+DRG00986,30333466448,Lopressor,Metoprolol,Lopressor,25,mg/mL,INHALER,Inhalation,BlueRiver Pharmaceuticals,Antidiabetic,Y,2023-05-12,,DrugReferenceHub
+DRG00987,18567714974,Lasix,Furosemide,Lasix,5,mg/mL,Suspension,Inhalation,Meridian Pharma,Antihypertensive,N,2023-03-30,2023-10-03,DrugReferenceHub
+DRG00988,22593438668,Aldactone,Spironolactone,Aldactone,1000,mg,Suspension,Inhalation,Summit Therapeutics,Antidiabetic,Y,2022-04-15,,DrugReferenceHub
+DRG00989,30668351321,Ventolin,Albuterol,Ventolin,40,mg,Capsule,Oral,Crescent Therapeutics,Respiratory,Y,2023-08-30,,DrugReferenceHub
+DRG00990,54293312163,Vibramycin,Doxycycline,Vibramycin,10,units/mL,Tablet,Oral,Pioneer Medical,Lipid Lowering,Y,2023-11-26,,DrugReferenceHub
+DRG00991,51465880016,Ozempic,Semaglutide,Ozempic,25,units/mL,Cream,Oral,BlueRiver Pharmaceuticals,Antihypertensive,N,2025-01-08,2027-07-25,DrugReferenceHub
+DRG00992,58584770558,Glucophage,Metformin,Glucophage,50,mcg,Inhaler,Oral,Crescent Therapeutics,Respiratory,Y,2025-01-07,,DrugReferenceHub
+DRG00993,38443858993,Lipitor,Atorvastatin,Lipitor,100,mg,Patch,Topical,Beacon Life Sciences,Respiratory,Y,2022-07-25,,DrugReferenceHub
+DRG00994,38458321680,Prinivil,Lisinopril,Prinivil,10,mg,Patch,Subcutaneous,BlueRiver Pharmaceuticals,Gastrointestinal,Y,2023-02-21,,DrugReferenceHub
+DRG00995,26884937862,Norvasc,Amlodipine,Norvasc,100,mg,Patch,Topical,Northstar Pharma,Antidiabetic,Y,2024-01-18,,DrugReferenceHub
+DRG00996,24931475984,Cozaar,Losartan,Cozaar,25,mg,Patch,Intravenous,Meridian Pharma,Lipid Lowering,N,2023-05-05,2025-02-10,DrugReferenceHub
+DRG00997,76401628732,Prilosec,Omeprazole,Prilosec,250,mg,Patch,Topical,Crescent Therapeutics,Anticoagulant,Y,2022-02-07,,DrugReferenceHub
+DRG00998,53756657133,Neurontin,Gabapentin,Neurontin,250,units/mL,Suspension,Subcutaneous,Crescent Therapeutics,Neurologic,Y,2025-05-21,,DrugReferenceHub
+DRG00999,99165884188,Synthroid,Levothyroxine,Synthroid,500,units/mL,Injection,Intravenous,Evergreen Labs,Lipid Lowering,N,2024-12-05,2025-12-18,DrugReferenceHub
+DRG01000,57775544235,Zoloft,Sertraline,Zoloft,1000,mg,Injection,Subcutaneous,Northstar Pharma,Gastrointestinal,Y,2024-01-31,,DrugReferenceHub
+DRG_DUP0001,99282121398,Prozac,Fluoxetine,Prozac,5,mcg,Tablet,Transdermal,Summit Therapeutics,Neurologic,Y,2022-11-21,,DrugReferenceHub
+DRG_DUP0002,73418540749,Cymbalta,Duloxetine,Cymbalta,100,mg/mL,Cream,Transdermal,Evergreen Labs,Respiratory,Y,2022-01-01,,DrugReferenceHub
+DRG_DUP0003,39556565835,Vibramycin,Doxycycline,Vibramycin,50,mg,Injection,Intravenous,Atlas Medications,Respiratory,Y,2022-09-06,,DrugReferenceHub
+DRG_DUP0004,41577609162,Vibramycin,Doxycycline,Vibramycin,500,mg,Cream,Oral,Crescent Therapeutics,Antidiabetic,Y,2025-04-28,,DrugReferenceHub
+DRG_DUP0005,96886169095,Crestor,Rosuvastatin,Crestor,10,mg,Cream,Subcutaneous,Pioneer Medical,Gastrointestinal,Y,2022-12-07,,DrugReferenceHub
+DRG_DUP0006,68817261549,Humalog,Insulin Lispro,Humalog,250,mcg,Inhaler,Intravenous,Evergreen Labs,Anticoagulant,Y,2024-07-25,,DrugReferenceHub
+DRG_DUP0007,98610652597,Prinivil,Lisinopril,Prinivil,10,units/mL,Tablet,Intravenous,Summit Therapeutics,Anticoagulant,Y,2023-04-28,,DrugReferenceHub
+DRG_DUP0008,84702528484,Prinivil,Lisinopril,Prinivil,1000,mcg,Suspension,Subcutaneous,Northstar Pharma,Endocrine,Y,2022-06-11,,DrugReferenceHub

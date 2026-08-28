@@ -1,0 +1,21 @@
+Rule_ID,Domain,Rule_Description,Severity
+DQ001,Medication,NDC is missing,Critical
+DQ002,Medication,NDC cannot be standardized to NDC-11,Critical
+DQ003,Medication,NDC not found in medication master,Critical
+DQ004,Medication,Duplicate active NDC,Critical
+DQ005,Medication,Drug name conflicts with governed medication,High
+DQ006,Medication,Missing generic name,Medium
+DQ007,Pricing,No active pricing record,High
+DQ008,Pricing,Multiple active prices,High
+DQ009,Pricing,Price is zero or negative,Critical
+DQ010,Formulary,NDC missing from drug master,High
+DQ011,Formulary,Invalid formulary tier,Medium
+DQ012,Formulary,Effective dates overlap,High
+DQ013,Claims,Duplicate claim,High
+DQ014,Claims,Paid amount is unexpectedly negative,High
+DQ015,Claims,Pharmacy not found,High
+DQ016,Pharmacy,Duplicate NPI,Critical
+DQ017,Pharmacy,Missing NPI,Medium
+DQ018,Pharmacy,Invalid state code,Low
+DQ019,Claims,Paid claim has zero paid amount,Medium
+DQ020,Claims,Days supply outside accepted range,Medium

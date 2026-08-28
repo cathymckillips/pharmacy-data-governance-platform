@@ -1,0 +1,6 @@
+Dataset,Rows,Columns,Missing_Values,Duplicate_Rows
+pharmacy_claims_raw,50400,15,798,400
+drug_reference_raw,1008,15,829,0
+formulary_raw,2545,12,20,0
+drug_pricing_raw,6096,9,48,0
+pharmacy_master_raw,500,13,502,0

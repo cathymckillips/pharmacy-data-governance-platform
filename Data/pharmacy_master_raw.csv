@@ -1,0 +1,501 @@
+Pharmacy_Source_ID,NPI,NCPDP_ID,Pharmacy_Name,Pharmacy_Type,Address,City,State,ZIP,Network_Status,Effective_Date,End_Date,Source_System
+PHM00001,6022768040,2501652,Premier Pharmacy #7967,Hospital,1672 Main St,San Antonio,TX,58086,Preferred,2024-06-14,,NetworkHub
+PHM00002,3193008687,5935868,HealthMart #5330,Retail,1387 Main St,St. Louis,MO,57022,Preferred,2021-04-05,,ProviderMaster
+PHM00003,0212633229,6617139,Regional Specialty Pharmacy #3584,Hospital,6958 Lake St,Sacramento,CA,65687,In Network,2023-06-30,,ProviderMaster
+PHM00004,2032298363,9422525,Family Drug #5535,Specialty,5206 Market St,Pittsburgh,PA,83295,In Network,2025-06-04,,ProviderMaster
+PHM00005,0016740395,9807652,MedCenter Pharmacy #3908,Specialty,8409 Park St,Columbia,MO,61449,In Network,2025-03-07,2027-12-14,NetworkHub
+PHM00006,8251982661,7575030,Regional Specialty Pharmacy #4263,Independent,250 Lake St,King of Prussia,PA,98830,In Network,2020-06-02,,ProviderMaster
+PHM00007,8904077145,2842572,Regional Specialty Pharmacy #2593,Mail Order,944 Main St,New York,NY,39645,In Network,2023-04-05,,ProviderMaster
+PHM00008,1235220629,8026219,Walgreens #2981,Retail,1326 Market St,San Antonio,TX,54781,Preferred,2025-05-28,,ProviderMaster
+PHM00009,0444769043,8214422,Regional Specialty Pharmacy #537,Retail,8353 Main St,Tampa,FL,94850,Preferred,2023-12-28,,ProviderMaster
+PHM00010,9899814240,3927449,Regional Specialty Pharmacy #9047,Mail Order,8408 Lake St,Fort Walton Beach,FL,95712,In Network,2020-05-06,,ProviderMaster
+PHM00011,9557055819,0156218,Wellness Rx #3271,Independent,9638 Lake St,Rochester,NY,25645,In Network,2022-05-30,,NetworkHub
+PHM00012,5927236237,0499022,HealthMart #9966,Retail,1073 Park St,Springfield,MO,98831,Preferred,2020-08-07,,NetworkHub
+PHM00013,8769608269,1115267,Walgreens #6754,Independent,9970 Lake St,Tampa,FL,26249,Preferred,2024-08-14,,ProviderMaster
+PHM00014,8042076275,4008958,CarePoint #9071,Specialty,3057 Main St,Raleigh,NC,51138,Preferred,2021-08-26,,NetworkHub
+PHM00015,7882217846,1989880,Regional Specialty Pharmacy #7524,Retail,4939 Park St,Harrisburg,PA,73988,In Network,2025-10-12,,ProviderMaster
+PHM00016,8271882843,7201389,CVS Pharmacy #3869,Specialty,7223 Main St,Jacksonville,FL,26395,Preferred,2023-11-04,,NetworkHub
+PHM00017,9191921473,6535270,Family Drug #5115,Retail,129 Oak St,Raleigh,NC,95776,Out of Network,2022-06-17,,ProviderMaster
+PHM00018,3063387334,4214969,HealthMart #464,Hospital,3885 Oak St,Jacksonville,FL,63502,Preferred,2024-07-23,,NetworkHub
+PHM00019,4564424971,0563876,Family Drug #2327,Retail,7515 Pine St,Tampa,FL,21024,In Network,2020-02-08,,NetworkHub
+PHM00020,8046164260,7714195,HealthMart #9116,Specialty,7471 Pine St,Philadelphia,PA,02848,In Network,2025-08-04,,ProviderMaster
+PHM00021,6959867585,8742267,Community Pharmacy #8380,Hospital,6471 Pine St,Fort Collins,CO,56202,Preferred,2024-11-22,,ProviderMaster
+PHM00022,2351267045,4249568,Regional Specialty Pharmacy #2503,Independent,5316 Oak St,Irving,TX,73037,In Network,2021-05-04,,ProviderMaster
+PHM00023,8947562240,3641416,Wellness Rx #3690,Hospital,8725 Main St,King of Prussia,PA,03506,Out of Network,2025-03-04,,ProviderMaster
+PHM00024,1403237378,2005936,CVS Pharmacy #8673,Mail Order,2511 Main St,Houston,TX,76791,Preferred,2024-06-04,,ProviderMaster
+PHM00025,0116526716,7189103,Regional Specialty Pharmacy #9986,Mail Order,7609 Lake St,Rochester,NY,69370,Preferred,2022-01-12,,NetworkHub
+PHM00026,6617861973,4353881,Regional Specialty Pharmacy #7741,Retail,6291 Market St,Dallas,TX,96874,Out of Network,2023-02-12,,ProviderMaster
+PHM00027,7928544728,8082463,Community Pharmacy #8918,Mail Order,8018 Market St,King of Prussia,PA,08127,Preferred,2024-06-01,,ProviderMaster
+PHM00028,3872090747,6647026,Community Pharmacy #7295,Independent,7081 Lake St,Kansas City,MO,35454,In Network,2024-12-25,,NetworkHub
+PHM00029,7372211157,1247952,Wellness Rx #7807,Retail,6476 Lake St,Rochester,TEX,11210,Preferred,2022-12-13,,ProviderMaster
+PHM00030,5295618485,4410948,HealthMart #3072,Mail Order,2098 Pine St,Springfield,MO,40601,In Network,2022-02-07,,ProviderMaster
+PHM00031,5391767254,4893667,Regional Specialty Pharmacy #4845,Hospital,1236 Oak St,Pittsburgh,PA,92261,In Network,2022-12-23,,NetworkHub
+PHM00032,1004522774,6976694,MedCenter Pharmacy #2556,Specialty,5300 Market St,Colorado Springs,CO,56980,Preferred,2024-10-01,,ProviderMaster
+PHM00033,1375216695,4004320,Community Pharmacy #3410,Hospital,6255 Market St,Fresno,CA,98599,In Network,2025-06-15,,ProviderMaster
+PHM00034,6207469156,4033683,Regional Specialty Pharmacy #4785,Retail,2064 Oak St,Durham,NC,62985,In Network,2022-04-06,,ProviderMaster
+PHM00035,4339459654,1376725,Wellness Rx #1589,Mail Order,1143 Park St,Chico,CA,94619,Out of Network,2025-04-03,,NetworkHub
+PHM00036,6215509941,8475289,Premier Pharmacy #7874,Hospital,9948 Park St,Philadelphia,PA,25395,In Network,2025-03-08,,ProviderMaster
+PHM00037,8827495822,5941535,Walgreens #6267,Independent,8432 Market St,Sacramento,CA,54316,In Network,2022-09-04,,ProviderMaster
+PHM00038,5270778368,9405588,CarePoint #6055,Mail Order,403 Oak St,Raleigh,NC,45474,Preferred,2023-11-17,,ProviderMaster
+PHM00039,6149366888,3377800,Community Pharmacy #3766,Independent,4739 Lake St,King of Prussia,PA,69974,In Network,2021-04-17,,NetworkHub
+PHM00040,0684690723,1557108,Wellness Rx #2964,Mail Order,1282 Pine St,Kansas City,MO,62914,In Network,2020-12-05,,NetworkHub
+PHM00041,2208961435,6428134,Family Drug #4452,Retail,306 Lake St,Colorado Springs,CO,25592,In Network,2021-03-24,,NetworkHub
+PHM00042,9625670649,2763666,CarePoint #7872,Hospital,9601 Pine St,Austin,TX,76869,In Network,2022-12-15,,NetworkHub
+PHM00043,6345702711,5959828,CVS Pharmacy #7441,Independent,9611 Main St,Sacramento,CA,48731,Out of Network,2025-02-02,,ProviderMaster
+PHM00044,9198799837,0546658,Wellness Rx #8487,Mail Order,372 Lake St,Sacramento,CA,91208,In Network,2024-08-30,,NetworkHub
+PHM00045,,3408146,Wellness Rx #9609,Retail,2138 Lake St,Buffalo,NY,79471,In Network,2024-03-20,,NetworkHub
+PHM00046,4044903498,0659331,Regional Specialty Pharmacy #4701,Specialty,8824 Market St,Rochester,NY,18466,In Network,2023-10-24,,ProviderMaster
+PHM00047,5072150722,8319081,CVS Pharmacy #7221,Independent,5715 Main St,Chico,FLO,12160,In Network,2023-04-25,,NetworkHub
+PHM00048,0723107574,7515907,Wellness Rx #5985,Hospital,7998 Park St,Pittsburgh,PA,85490,Preferred,2024-08-30,,NetworkHub
+PHM00049,4464900602,6539546,CarePoint #7050,Retail,1475 Lake St,Sacramento,CA,07867,In Network,2021-11-12,,ProviderMaster
+PHM00050,7242344046,3190800,Wellness Rx #8211,Hospital,8190 Market St,Denver,CO,78555,In Network,2025-04-07,,NetworkHub
+PHM00051,3136787963,5262183,HealthMart #8554,Specialty,6012 Oak St,Durham,NC,75889,In Network,2021-05-15,,ProviderMaster
+PHM00052,8660982173,3085416,Wellness Rx #3997,Hospital,6589 Park St,Tampa,FL,07243,Preferred,2025-01-06,,ProviderMaster
+PHM00053,3775001662,6442714,CVS Pharmacy #3813,Independent,8931 Main St,Springfield,MO,26460,In Network,2021-01-03,,NetworkHub
+PHM00054,3503212307,1375880,Wellness Rx #3746,Hospital,6554 Park St,Kansas City,MO,80098,In Network,2022-01-30,,ProviderMaster
+PHM00055,5574103868,9082553,Walgreens #5324,Mail Order,2187 Market St,Fort Collins,CO,33315,In Network,2020-07-05,,NetworkHub
+PHM00056,1593788211,6761747,Community Pharmacy #3157,Independent,242 Main St,Colorado Springs,CO,74956,In Network,2020-12-07,,NetworkHub
+PHM00057,6861043205,3408088,Family Drug #2314,Specialty,841 Lake St,Fresno,CA,65457,In Network,2022-02-02,,ProviderMaster
+PHM00058,8486341018,3751244,HealthMart #3916,Specialty,563 Lake St,Springfield,MO,51324,Out of Network,2023-03-19,,NetworkHub
+PHM00059,3576006276,9835139,HealthMart #6816,Hospital,3688 Pine St,Durham,NC,63593,In Network,2020-01-30,,ProviderMaster
+PHM00060,3786876564,3312942,CVS Pharmacy #5437,Specialty,8290 Market St,Durham,NC,10817,Preferred,2022-01-07,,ProviderMaster
+PHM00061,8803713187,8144624,Walgreens #4094,Specialty,5392 Park St,Sacramento,CA,27453,In Network,2023-11-17,,NetworkHub
+PHM00062,8483994235,9881268,Family Drug #9636,Mail Order,9087 Park St,Colorado Springs,CO,51882,In Network,2023-06-07,,ProviderMaster
+PHM00063,7291492430,0529309,Regional Specialty Pharmacy #725,Independent,3637 Lake St,Springfield,MO,86712,In Network,2020-06-07,,NetworkHub
+PHM00064,8617400285,7512304,Wellness Rx #1648,Mail Order,703 Main St,Kansas City,MO,74195,Preferred,2022-12-29,,ProviderMaster
+PHM00065,0521462460,9055953,MedCenter Pharmacy #1046,Independent,3927 Lake St,Buffalo,NY,46920,Preferred,2025-07-10,,NetworkHub
+PHM00066,7376773058,1746680,Wellness Rx #1292,Hospital,680 Park St,San Antonio,TX,74201,Preferred,2020-12-08,,ProviderMaster
+PHM00067,0959527137,8313878,Premier Pharmacy #4692,Independent,5215 Park St,King of Prussia,PA,39449,In Network,2023-11-11,,ProviderMaster
+PHM00068,5870685306,3646308,CVS Pharmacy #8722,Hospital,1601 Lake St,Irving,TX,39299,Out of Network,2020-09-13,,NetworkHub
+PHM00069,0638691670,0733566,Community Pharmacy #579,Mail Order,2669 Main St,Houston,TX,93755,In Network,2025-06-28,,ProviderMaster
+PHM00070,3621743522,4929418,CarePoint #9131,Retail,2916 Lake St,Fresno,CA,48406,In Network,2021-04-27,,NetworkHub
+PHM00071,8330588796,7512170,Walgreens #7531,Hospital,8228 Park St,Fort Collins,CO,53856,In Network,2022-10-18,,NetworkHub
+PHM00072,0397578096,4638761,Wellness Rx #1051,Specialty,2734 Pine St,Buffalo,NY,94901,In Network,2023-01-05,,NetworkHub
+PHM00073,1137398826,5135519,Regional Specialty Pharmacy #7727,Specialty,2705 Main St,St. Louis,MO,16768,In Network,2025-08-14,,NetworkHub
+PHM00074,5800656746,4629486,HealthMart #8100,Retail,8878 Lake St,King of Prussia,PA,20044,In Network,2023-10-24,,NetworkHub
+PHM00075,2637789135,3422023,CarePoint #8310,Specialty,9553 Park St,Irving,TX,62813,In Network,2024-10-06,,NetworkHub
+PHM00076,5374543095,9230486,Wellness Rx #1450,Specialty,9193 Main St,Tampa,FL,45848,In Network,2020-04-20,,NetworkHub
+PHM00077,7734515057,2961937,Regional Specialty Pharmacy #1314,Mail Order,7081 Market St,Dallas,TX,39715,In Network,2025-05-02,,NetworkHub
+PHM00078,5013446536,1972385,Walgreens #1999,Retail,427 Main St,Jacksonville,FL,72836,In Network,2023-06-09,,ProviderMaster
+PHM00079,9577604977,5751668,Regional Specialty Pharmacy #5255,Mail Order,1179 Oak St,Miami,FL,16091,In Network,2020-03-16,,ProviderMaster
+PHM00080,0316479870,1236531,Walgreens #1253,Retail,6200 Main St,Philadelphia,PA,93377,Out of Network,2023-08-23,,ProviderMaster
+PHM00081,6661252922,2733972,Walgreens #643,Mail Order,325 Market St,Sacramento,CA,16398,In Network,2023-03-20,,ProviderMaster
+PHM00082,9822734242,5961652,Wellness Rx #8461,Specialty,8367 Lake St,Philadelphia,PA,65604,Out of Network,2022-07-30,,NetworkHub
+PHM00083,7170594984,1936905,CVS Pharmacy #527,Specialty,9375 Market St,Charlotte,NC,57991,In Network,2023-02-05,,NetworkHub
+PHM00084,8199349998,0519295,HealthMart #9524,Mail Order,4174 Main St,Boulder,CO,49841,In Network,2024-07-29,,ProviderMaster
+PHM00085,1142177571,8885061,Regional Specialty Pharmacy #4692,Retail,2375 Main St,Houston,TX,13222,In Network,2020-10-17,,ProviderMaster
+PHM00086,7937066013,4587319,Premier Pharmacy #756,Specialty,3246 Market St,Austin,TX,26211,In Network,2021-06-20,,ProviderMaster
+PHM00087,7645456227,8047050,CVS Pharmacy #1120,Specialty,3396 Market St,St. Louis,MO,55513,Preferred,2021-10-06,,NetworkHub
+PHM00088,5125058454,0487387,Regional Specialty Pharmacy #2544,Specialty,9572 Market St,Los Angeles,CA,50309,In Network,2021-02-21,,NetworkHub
+PHM00089,9090477964,9389366,CVS Pharmacy #7557,Retail,7838 Main St,Colorado Springs,CO,56315,In Network,2021-08-05,,ProviderMaster
+PHM00090,5720026558,2329718,Community Pharmacy #7754,Hospital,3330 Lake St,King of Prussia,XX,47802,Preferred,2025-07-06,,ProviderMaster
+PHM00091,1057074228,0528735,MedCenter Pharmacy #2074,Specialty,9350 Oak St,Buffalo,NY,63316,In Network,2021-04-05,,NetworkHub
+PHM00092,2309896449,9673413,Wellness Rx #527,Specialty,139 Oak St,Columbia,MO,74837,Preferred,2025-08-03,,NetworkHub
+PHM00093,8959512269,8071266,Community Pharmacy #2051,Mail Order,2861 Park St,Springfield,MO,81775,Preferred,2023-11-01,,ProviderMaster
+PHM00094,4839099194,2629573,Premier Pharmacy #3522,Retail,7014 Market St,Pittsburgh,PA,53254,In Network,2025-11-20,,ProviderMaster
+PHM00095,8330588796,2954133,CarePoint #7857,Mail Order,2328 Park St,Fort Collins,CO,84662,Preferred,2023-07-20,,NetworkHub
+PHM00096,8964171749,5600896,Premier Pharmacy #4364,Retail,463 Park St,Raleigh,NC,74827,Preferred,2023-03-02,,ProviderMaster
+PHM00097,0536664405,0529086,CVS Pharmacy #973,Hospital,315 Lake St,King of Prussia,PA,89101,In Network,2024-03-31,,ProviderMaster
+PHM00098,1582334592,6868703,Walgreens #8413,Specialty,1446 Park St,Albany,NY,50014,In Network,2021-03-03,,ProviderMaster
+PHM00099,4758050288,4009850,CarePoint #4784,Hospital,6096 Main St,Orlando,FL,93957,In Network,2025-10-15,,ProviderMaster
+PHM00100,7301283837,1975904,CarePoint #5032,Specialty,5631 Pine St,Fort Walton Beach,FL,83793,In Network,2021-02-11,,ProviderMaster
+PHM00101,7029439466,0677017,Community Pharmacy #883,Specialty,9250 Main St,Pittsburgh,PA,67310,Preferred,2023-02-14,,NetworkHub
+PHM00102,3321145403,0533230,Community Pharmacy #3881,Hospital,6026 Park St,Colorado Springs,CO,99951,In Network,2021-06-26,,ProviderMaster
+PHM00103,3134044402,2651139,Family Drug #3828,Retail,5443 Pine St,Columbia,MO,36833,In Network,2025-06-26,,NetworkHub
+PHM00104,8891392399,2645238,Walgreens #1544,Mail Order,5146 Market St,Sacramento,CA,31555,In Network,2020-09-05,,NetworkHub
+PHM00105,6594742687,4462677,CarePoint #4746,Mail Order,4663 Park St,Los Angeles,CA,09445,In Network,2025-10-11,,ProviderMaster
+PHM00106,9657385607,6360963,CarePoint #3585,Retail,843 Market St,New York,NY,79402,Preferred,2022-07-11,,NetworkHub
+PHM00107,5555437553,0149191,Wellness Rx #9659,Hospital,320 Oak St,Buffalo,NY,34244,In Network,2021-01-02,,ProviderMaster
+PHM00108,4633818661,9211592,Wellness Rx #1002,Specialty,9380 Market St,Dallas,TX,41640,In Network,2025-10-13,,NetworkHub
+PHM00109,6153727801,8134285,Regional Specialty Pharmacy #1921,Specialty,4691 Pine St,Denver,CO,65653,In Network,2021-10-08,,ProviderMaster
+PHM00110,8687260113,1654131,Premier Pharmacy #6543,Independent,1196 Park St,Springfield,MO,66695,In Network,2022-11-22,,NetworkHub
+PHM00111,4134030189,5464840,CVS Pharmacy #6618,Retail,4559 Lake St,Raleigh,NC,07225,In Network,2022-03-21,,ProviderMaster
+PHM00112,1477511783,8075918,CVS Pharmacy #8029,Mail Order,469 Oak St,Dallas,TX,72943,In Network,2020-03-02,,NetworkHub
+PHM00113,8497285376,1122032,Wellness Rx #8210,Retail,786 Main St,San Antonio,TX,53722,Preferred,2023-12-24,,NetworkHub
+PHM00114,8960979981,8278764,CVS Pharmacy #7523,Mail Order,687 Pine St,King of Prussia,PA,52446,In Network,2024-08-14,,ProviderMaster
+PHM00115,8052939307,7746305,Walgreens #9969,Independent,2029 Market St,Boulder,CO,24228,In Network,2021-04-07,,ProviderMaster
+PHM00116,3554360074,1840926,Community Pharmacy #8917,Mail Order,7224 Park St,Los Angeles,FLO,16192,Out of Network,2025-07-28,,ProviderMaster
+PHM00117,6239133626,7041260,CVS Pharmacy #1221,Hospital,3229 Lake St,Durham,NC,ABCDE,In Network,2024-08-02,,NetworkHub
+PHM00118,0371381771,9150647,Regional Specialty Pharmacy #2123,Independent,5045 Park St,Fort Collins,CO,61468,In Network,2023-02-17,,NetworkHub
+PHM00119,0175393120,5667686,Walgreens #860,Hospital,4525 Park St,Harrisburg,PA,35572,In Network,2020-03-18,,ProviderMaster
+PHM00120,0894145599,9185367,Community Pharmacy #8474,Retail,9524 Park St,New York,NY,97002,Preferred,2020-11-30,,NetworkHub
+PHM00121,0075654705,6235285,Wellness Rx #3566,Hospital,8818 Pine St,St. Louis,MO,36860,In Network,2025-11-28,,NetworkHub
+PHM00122,6780044637,7177195,MedCenter Pharmacy #8665,Specialty,1187 Market St,Austin,TX,77117,In Network,2023-08-02,,ProviderMaster
+PHM00123,2870820750,4345321,Wellness Rx #2687,Mail Order,777 Oak St,Albany,NY,57250,In Network,2020-06-25,,ProviderMaster
+PHM00124,8243198597,4347203,CarePoint #4747,Independent,7487 Park St,Sacramento,CA,59189,In Network,2022-04-10,,ProviderMaster
+PHM00125,9042835025,3645471,CVS Pharmacy #5879,Hospital,5318 Park St,Sacramento,CA,97204,Out of Network,2020-07-22,,ProviderMaster
+PHM00126,2388906871,5240970,CarePoint #2911,Independent,6414 Park St,Sacramento,CA,98573,Preferred,2025-09-23,,ProviderMaster
+PHM00127,9001805492,2387732,Family Drug #9125,Hospital,6258 Park St,Colorado Springs,CO,02751,Preferred,2022-05-09,,NetworkHub
+PHM00128,1445923211,6860830,Regional Specialty Pharmacy #5048,Specialty,3348 Pine St,Buffalo,NY,23562,In Network,2025-08-28,,ProviderMaster
+PHM00129,9044724810,8918366,Community Pharmacy #1448,Hospital,9206 Market St,Colorado Springs,CO,52800,In Network,2025-09-01,,ProviderMaster
+PHM00130,9419830415,8306121,Family Drug #4382,Specialty,2135 Pine St,Raleigh,NC,28062,Preferred,2023-04-28,,NetworkHub
+PHM00131,2450211856,8797354,Walgreens #3189,Independent,3287 Lake St,Raleigh,NC,95313,In Network,2023-11-09,,NetworkHub
+PHM00132,2870957991,6289092,Family Drug #8768,Specialty,2984 Lake St,Los Angeles,CA,87388,Preferred,2022-10-11,,NetworkHub
+PHM00133,1586907955,1984340,Family Drug #4378,Hospital,6154 Oak St,Buffalo,NY,22509,Preferred,2023-02-12,,NetworkHub
+PHM00134,2179830597,8893931,Premier Pharmacy #9763,Specialty,2096 Pine St,Dallas,TX,31197,In Network,2020-10-26,,ProviderMaster
+PHM00135,9619697251,3617993,CVS Pharmacy #3833,Hospital,759 Lake St,San Diego,CA,99069,Preferred,2022-10-13,,NetworkHub
+PHM00136,9259172918,0768422,Wellness Rx #8154,Independent,1694 Oak St,Fort Walton Beach,FL,02103,In Network,2021-03-31,,NetworkHub
+PHM00137,7984351486,6108239,CVS Pharmacy #1266,Hospital,6392 Park St,St. Louis,MO,01375,In Network,2022-09-25,,ProviderMaster
+PHM00138,8056409181,1216772,CarePoint #278,Specialty,7608 Market St,Austin,TX,22058,Out of Network,2022-08-09,,ProviderMaster
+PHM00139,1342661012,0833460,CVS Pharmacy #1049,Mail Order,3253 Oak St,Springfield,MO,51834,Preferred,2023-09-08,,ProviderMaster
+PHM00140,2422076035,9558845,FAMILY DRUG #5324,Hospital,6727 Pine St,Tampa,FL,84840,In Network,2024-09-12,,ProviderMaster
+PHM00141,9759866171,9981494,CVS Pharmacy #2394,Specialty,1383 Pine St,Tampa,FL,96829,In Network,2025-07-24,,NetworkHub
+PHM00142,9033324876,5441579,Community Pharmacy #1179,Mail Order,9174 Market St,Columbia,MO,95125,In Network,2023-08-06,,NetworkHub
+PHM00143,3434602166,0832798,Community Pharmacy #8726,Independent,2523 Market St,Springfield,MO,08324,In Network,2024-03-13,,ProviderMaster
+PHM00144,6081948246,1287788,Regional Specialty Pharmacy #8145,Independent,2333 Main St,Harrisburg,PA,51351,Preferred,2020-12-01,,ProviderMaster
+PHM00145,8801882497,2856103,Family Drug #3705,Hospital,1216 Oak St,Denver,CO,51853,In Network,2025-07-16,,NetworkHub
+PHM00146,1876231598,6624077,HealthMart #6705,Independent,7491 Lake St,Boulder,CO,09660,Preferred,2022-10-31,,ProviderMaster
+PHM00147,,6831568,MedCenter Pharmacy #9217,Specialty,1678 Lake St,St. Louis,MO,36621,Preferred,2024-03-21,,NetworkHub
+PHM00148,0968278217,8886667,CarePoint #8566,Specialty,2570 Park St,Fort Walton Beach,FL,69243,Out of Network,2024-06-01,,ProviderMaster
+PHM00149,6444833126,5888101,CarePoint #717,Hospital,7671 Park St,Rochester,NY,28716,In Network,2023-06-15,,NetworkHub
+PHM00150,,4859085,Premier Pharmacy #7923,Specialty,4293 Pine St,Orlando,FL,83208,In Network,2021-06-25,,ProviderMaster
+PHM00151,1245943774,6160271,CarePoint #9912,Independent,7957 Lake St,New York,NY,74706,Out of Network,2024-05-30,,ProviderMaster
+PHM00152,6493013038,1662631,Walgreens #6624,Mail Order,303 Oak St,Raleigh,NC,35182,In Network,2025-12-12,,ProviderMaster
+PHM00153,2753893931,9942717,Regional Specialty Pharmacy #5844,Retail,3316 Park St,Pittsburgh,PA,ABCDE,In Network,2023-12-10,,NetworkHub
+PHM00154,8250966064,3541663,CVS Pharmacy #3803,Specialty,5904 Lake St,Sacramento,CA,66261,In Network,2025-06-28,2026-10-12,NetworkHub
+PHM00155,8171111125,2720429,Regional Specialty Pharmacy #9197,Hospital,2069 Main St,Kansas City,MO,30698,Out of Network,2021-07-02,,NetworkHub
+PHM00156,6105712292,4010283,Regional Specialty Pharmacy #5795,Hospital,7884 Main St,King of Prussia,PA,70708,In Network,2020-11-21,,NetworkHub
+PHM00157,6134680814,9238767,CVS Pharmacy #233,Mail Order,6403 Lake St,New York,NY,16091,Preferred,2024-07-16,,NetworkHub
+PHM00158,4586133068,9191402,Walgreens #9691,Specialty,4541 Pine St,Los Angeles,CA,37675,In Network,2020-04-07,,NetworkHub
+PHM00159,5963570623,6385906,Premier Pharmacy #1970,Specialty,2784 Main St,San Diego,CA,18880,In Network,2021-05-25,,NetworkHub
+PHM00160,4290264248,4841461,CarePoint #9923,Specialty,7075 Lake St,Los Angeles,CA,45006,In Network,2020-04-21,,ProviderMaster
+PHM00161,6352693024,5646717,CVS Pharmacy #9462,Mail Order,441 Market St,Houston,TX,23892,In Network,2021-08-21,2022-09-08,ProviderMaster
+PHM00162,5701177161,9347714,CVS Pharmacy #9236,Hospital,5227 Lake St,Austin,TX,98574,Preferred,2021-07-21,,ProviderMaster
+PHM00163,6914509845,9157136,Wellness Rx #525,Hospital,9458 Oak St,Orlando,FL,85399,Preferred,2022-02-19,,NetworkHub
+PHM00164,7299414772,7879626,Premier Pharmacy #877,Independent,1683 Main St,Jacksonville,FL,23696,Preferred,2022-04-15,,ProviderMaster
+PHM00165,9563134564,7828850,Regional Specialty Pharmacy #6654,Specialty,1375 Pine St,Houston,TX,16171,In Network,2020-08-27,,NetworkHub
+PHM00166,2286270818,7875277,Wellness Rx #4437,Independent,6933 Lake St,Springfield,ZZ,26939,In Network,2023-06-14,,ProviderMaster
+PHM00167,9350267889,7675679,Regional Specialty Pharmacy #3012,Hospital,413 Market St,Springfield,MO,21611,In Network,2021-08-09,,ProviderMaster
+PHM00168,5345152371,1309664,HealthMart #6284,Retail,4490 Park St,Sacramento,CA,53732,Out of Network,2024-07-18,,NetworkHub
+PHM00169,1054502233,2759890,Regional Specialty Pharmacy #9479,Hospital,6143 Lake St,Raleigh,NC,64966,In Network,2022-01-23,,NetworkHub
+PHM00170,9639935298,3840815,Wellness Rx #134,Retail,9669 Park St,Pittsburgh,PA,91950,In Network,2025-03-08,,ProviderMaster
+PHM00171,0678415797,6971430,Family Drug #4131,Mail Order,3142 Lake St,Chico,CA,07552,Out of Network,2024-08-17,,NetworkHub
+PHM00172,2364065667,5709173,Regional Specialty Pharmacy #2746,Mail Order,1024 Main St,New York,NY,07436,In Network,2022-05-13,,ProviderMaster
+PHM00173,4513759169,7739551,HealthMart #3851,Retail,8260 Lake St,Jacksonville,FL,05593,In Network,2023-08-28,,ProviderMaster
+PHM00174,7934651281,1788994,Wellness Rx #1174,Specialty,200 Pine St,Tampa,FL,52007,In Network,2024-04-16,,NetworkHub
+PHM00175,4316169346,3553340,CVS Pharmacy #1899,Independent,7256 Main St,St. Louis,MO,22748,In Network,2021-02-01,,ProviderMaster
+PHM00176,1784335168,8152800,Walgreens #2742,Mail Order,8103 Pine St,Charlotte,NC,05054,In Network,2021-08-22,,NetworkHub
+PHM00177,5955947327,7245356,Walgreens #2082,Independent,9900 Market St,Colorado Springs,CO,88615,In Network,2022-03-23,,NetworkHub
+PHM00178,4196974324,0302934,Family Drug #6804,Hospital,698 Market St,Colorado Springs,CO,40937,In Network,2025-04-14,,NetworkHub
+PHM00179,5882516368,5395384,HealthMart #4948,Retail,9270 Lake St,Buffalo,NY,46511,Preferred,2020-04-28,,NetworkHub
+PHM00180,0621371287,4421800,MedCenter Pharmacy #8199,Mail Order,2140 Lake St,Philadelphia,PA,51605,In Network,2022-01-13,,NetworkHub
+PHM00181,0219550762,0498186,Walgreens #3066,Retail,9389 Park St,Orlando,FL,78162,In Network,2024-06-14,,ProviderMaster
+PHM00182,7345231285,4104607,Family Drug #6726,Mail Order,5297 Oak St,Springfield,MO,51416,In Network,2023-02-15,,NetworkHub
+PHM00183,8876530528,7357760,Premier Pharmacy #5466,Hospital,2579 Pine St,Springfield,MO,14282,In Network,2024-04-18,,ProviderMaster
+PHM00184,8417751066,3316284,Regional Specialty Pharmacy #8510,Independent,2625 Lake St,San Diego,CA,32674,Preferred,2024-04-17,,ProviderMaster
+PHM00185,7435233778,6746124,CVS Pharmacy #8876,Independent,209 Pine St,Denver,CO,35671,In Network,2023-11-01,,ProviderMaster
+PHM00186,9001940200,3965759,Family Drug #6861,Retail,1458 Pine St,Boulder,CO,86426,Preferred,2022-08-13,,ProviderMaster
+PHM00187,8205521020,1973355,CarePoint #5911,Hospital,1505 Park St,Orlando,FL,70028,In Network,2020-03-27,,ProviderMaster
+PHM00188,9392619524,1029898,Community Pharmacy #3592,Retail,9426 Lake St,St. Louis,MO,85695,In Network,2025-04-26,,NetworkHub
+PHM00189,7794450106,9623950,CarePoint #7754,Retail,2007 Park St,Colorado Springs,CO,82068,Preferred,2022-03-19,,NetworkHub
+PHM00190,0943829694,1782226,MedCenter Pharmacy #3494,Mail Order,1319 Pine St,Tampa,FL,11966,In Network,2024-05-01,,ProviderMaster
+PHM00191,6750464988,4992250,Family Drug #4853,Independent,690 Main St,Austin,TX,74553,In Network,2025-05-05,,NetworkHub
+PHM00192,6196460253,6252463,CarePoint #5362,Mail Order,6098 Pine St,Denver,CO,42738,In Network,2020-12-10,,ProviderMaster
+PHM00193,2115202243,1918149,Community Pharmacy #888,Hospital,479 Market St,Rochester,NY,85773,Preferred,2023-10-02,,ProviderMaster
+PHM00194,5536084643,3592018,Wellness Rx #6289,Specialty,4549 Park St,Fort Collins,CO,91561,In Network,2022-05-12,,NetworkHub
+PHM00195,7364783261,1836580,CVS Pharmacy #3307,Mail Order,387 Pine St,Denver,CO,12322,In Network,2021-07-02,,NetworkHub
+PHM00196,6248359410,7697011,Walgreens #5821,Hospital,8080 Market St,San Antonio,TX,08503,Preferred,2023-04-04,,NetworkHub
+PHM00197,7021683226,1806834,Walgreens #6162,Independent,1492 Main St,Buffalo,NY,95249,In Network,2021-04-25,,ProviderMaster
+PHM00198,6156655633,5843230,HealthMart #6025,Retail,3684 Oak St,Boulder,CO,88340,In Network,2020-05-12,,ProviderMaster
+PHM00199,9940422034,5317332,Walgreens #3731,Hospital,965 Market St,Tampa,FL,42798,In Network,2020-09-03,,ProviderMaster
+PHM00200,6278481266,2610051,CAREPOINT #2782,Retail,7795 Market St,Dallas,TX,12772,In Network,2025-06-17,,ProviderMaster
+PHM00201,1433794738,9070418,MedCenter Pharmacy #2995,Independent,2911 Pine St,Tampa,FL,88172,In Network,2025-10-23,,NetworkHub
+PHM00202,7470475946,3360952,Wellness Rx #9106,Independent,6810 Market St,Sacramento,CA,61882,In Network,2021-11-26,,NetworkHub
+PHM00203,1631217007,4530106,CarePoint #4911,Independent,2752 Pine St,Buffalo,NY,99606,In Network,2020-07-12,,ProviderMaster
+PHM00204,7712977841,6318442,Premier Pharmacy #9772,Retail,5211 Market St,Raleigh,NC,61137,In Network,2022-04-24,,NetworkHub
+PHM00205,2895012230,6310872,Community Pharmacy #5068,Hospital,2853 Pine St,St. Louis,MO,76535,In Network,2023-06-25,,ProviderMaster
+PHM00206,4563615081,8240586,Wellness Rx #6587,Retail,5098 Main St,San Diego,CA,57236,Preferred,2022-09-20,,ProviderMaster
+PHM00207,0924808059,4378200,Regional Specialty Pharmacy #3561,Specialty,7896 Oak St,New York,NY,39907,Preferred,2023-12-22,,ProviderMaster
+PHM00208,5152617416,3468114,CVS Pharmacy #5599,Mail Order,7748 Park St,San Antonio,TX,31943,In Network,2021-02-20,,ProviderMaster
+PHM00209,3933747652,7929437,CarePoint #3248,Hospital,3024 Pine St,Houston,TX,95593,In Network,2020-02-16,,ProviderMaster
+PHM00210,3280862559,1031352,MEDCENTER PHARMACY #5309,Retail,9504 Lake St,Chico,CA,80397,Preferred,2022-07-19,,ProviderMaster
+PHM00211,7718659537,5007384,HealthMart #876,Specialty,1129 Main St,San Antonio,TX,88266,In Network,2022-05-22,,NetworkHub
+PHM00212,0733051520,7345522,Wellness Rx #1981,Retail,1322 Main St,Albany,NY,31050,Preferred,2025-10-25,,ProviderMaster
+PHM00213,3057115461,6720739,CarePoint #4683,Retail,7705 Market St,Raleigh,NC,06433,In Network,2024-05-31,,NetworkHub
+PHM00214,5039694108,1378109,MedCenter Pharmacy #6237,Retail,7471 Lake St,Harrisburg,PA,98806,In Network,2022-12-18,,NetworkHub
+PHM00215,1402525247,1605601,Premier Pharmacy #2773,Mail Order,9160 Main St,Chico,CA,27606,In Network,2021-05-29,,ProviderMaster
+PHM00216,0328680862,3903851,Regional Specialty Pharmacy #8967,Hospital,7050 Market St,Fresno,CA,54902,Preferred,2025-12-11,,NetworkHub
+PHM00217,5331336295,8688805,Family Drug #7892,Retail,6055 Oak St,Los Angeles,CA,21860,In Network,2023-06-28,,NetworkHub
+PHM00218,3966221993,5215883,Community Pharmacy #9955,Independent,3771 Market St,Fort Collins,CO,75199,In Network,2024-04-03,,NetworkHub
+PHM00219,1993591387,7844498,Community Pharmacy #7977,Specialty,1879 Oak St,Dallas,TX,92711,In Network,2021-04-28,,NetworkHub
+PHM00220,7625226364,5673841,Regional Specialty Pharmacy #9066,Specialty,943 Main St,Los Angeles,CA,10702,In Network,2021-12-12,,NetworkHub
+PHM00221,4797099843,4240733,Wellness Rx #6998,Retail,4838 Market St,Los Angeles,CA,67558,In Network,2023-02-25,,ProviderMaster
+PHM00222,7548095375,5602338,Community Pharmacy #4434,Retail,3566 Main St,Colorado Springs,CO,44605,In Network,2021-05-11,,ProviderMaster
+PHM00223,1847179614,4157242,Community Pharmacy #7268,Hospital,9710 Main St,Jacksonville,FL,69771,In Network,2025-04-07,,ProviderMaster
+PHM00224,1435375933,7956181,Walgreens #8037,Hospital,9378 Lake St,Boulder,CO,74374,In Network,2025-09-28,,ProviderMaster
+PHM00225,6112624850,8254406,Family Drug #4458,Hospital,2843 Market St,Chico,CA,25658,In Network,2025-11-08,,NetworkHub
+PHM00226,0160868290,4166657,HealthMart #1628,Retail,1326 Lake St,New York,NY,14590,In Network,2025-07-23,,ProviderMaster
+PHM00227,2330452162,5566176,Premier Pharmacy #4156,Specialty,7819 Market St,Kansas City,MO,94699,Preferred,2025-01-14,,NetworkHub
+PHM00228,2635931556,4167900,Family Drug #8188,Specialty,7478 Lake St,Fort Walton Beach,FL,61879,Out of Network,2024-11-07,,ProviderMaster
+PHM00229,4356022735,3063760,MedCenter Pharmacy #2441,Hospital,5769 Market St,Sacramento,CA,13369,Preferred,2020-06-05,,ProviderMaster
+PHM00230,7646853747,8273526,Premier Pharmacy #3557,Retail,6568 Main St,Rochester,NY,78392,In Network,2021-09-06,,ProviderMaster
+PHM00231,0968535877,3044249,MedCenter Pharmacy #5906,Mail Order,4689 Market St,New York,NY,23177,In Network,2021-05-03,,NetworkHub
+PHM00232,9404519757,1889617,Wellness Rx #9129,Retail,3158 Main St,Los Angeles,CA,47509,In Network,2025-11-06,,NetworkHub
+PHM00233,6504056353,8312341,Wellness Rx #2781,Hospital,6888 Market St,Harrisburg,PA,12065,Preferred,2020-02-13,,ProviderMaster
+PHM00234,2331722063,4146104,Family Drug #771,Independent,2780 Oak St,Durham,NC,15586,In Network,2024-04-01,,ProviderMaster
+PHM00235,6387659741,8944674,Wellness Rx #9612,Specialty,7752 Lake St,Columbia,MO,22869,Preferred,2025-07-12,,ProviderMaster
+PHM00236,3667840434,1761187,Regional Specialty Pharmacy #8913,Independent,5993 Lake St,Durham,NC,36754,In Network,2025-10-20,,ProviderMaster
+PHM00237,4659338574,7526095,MedCenter Pharmacy #423,Mail Order,2727 Oak St,Pittsburgh,PA,45458,In Network,2020-11-03,,NetworkHub
+PHM00238,1901873460,8896011,HealthMart #3631,Specialty,1839 Lake St,Irving,TX,53516,In Network,2023-06-17,,ProviderMaster
+PHM00239,3593949300,9412350,Wellness Rx #2353,Mail Order,8534 Oak St,Jacksonville,FL,78388,In Network,2024-11-10,,ProviderMaster
+PHM00240,2733335641,3981961,Regional Specialty Pharmacy #3679,Hospital,2562 Park St,Harrisburg,PA,00744,In Network,2025-09-16,,ProviderMaster
+PHM00241,9064476415,5431658,Regional Specialty Pharmacy #8724,Retail,7595 Lake St,Miami,FL,25453,Preferred,2023-10-04,,ProviderMaster
+PHM00242,9571461799,7408047,Wellness Rx #2816,Specialty,7687 Park St,Jacksonville,FL,90673,In Network,2021-11-25,,NetworkHub
+PHM00243,0374547497,2097750,Walgreens #881,Retail,5746 Main St,Springfield,MO,41098,In Network,2020-06-05,,NetworkHub
+PHM00244,6205821280,1151482,HealthMart #5233,Hospital,7988 Main St,Rochester,NY,74783,Preferred,2025-01-11,,ProviderMaster
+PHM00245,0191497246,2736711,Regional Specialty Pharmacy #5229,Hospital,4058 Lake St,Fort Collins,CO,33775,Out of Network,2023-02-04,,ProviderMaster
+PHM00246,3741809469,6096949,Walgreens #8911,Hospital,4598 Park St,Houston,TX,83206,In Network,2024-11-13,,NetworkHub
+PHM00247,3777513615,6800142,Wellness Rx #5425,Retail,9189 Park St,Fort Walton Beach,FL,21009,In Network,2022-05-17,,ProviderMaster
+PHM00248,6896718168,5986249,Regional Specialty Pharmacy #9677,Mail Order,3876 Market St,Philadelphia,PA,69249,In Network,2020-02-29,,NetworkHub
+PHM00249,7310733092,4496141,Premier Pharmacy #5125,Independent,8089 Pine St,Kansas City,MO,72697,In Network,2023-07-28,,NetworkHub
+PHM00250,1052481696,2795594,HealthMart #6036,Retail,2585 Market St,Houston,TX,48775,Preferred,2023-09-03,,ProviderMaster
+PHM00251,0984593646,9059047,HealthMart #2742,Specialty,4612 Main St,Miami,FL,61031,In Network,2023-01-02,,ProviderMaster
+PHM00252,6863067117,5405358,Regional Specialty Pharmacy #7410,Specialty,8880 Oak St,Dallas,TX,49007,Preferred,2025-07-24,,NetworkHub
+PHM00253,0186468159,0164907,Walgreens #4623,Specialty,1079 Park St,Houston,TX,11037,Out of Network,2020-12-03,,NetworkHub
+PHM00254,4158147284,8963951,CarePoint #5148,Mail Order,2987 Park St,Los Angeles,CA,87753,In Network,2025-11-17,,ProviderMaster
+PHM00255,1146549008,6704010,CarePoint #493,Retail,838 Pine St,Fresno,CA,68487,Preferred,2025-05-06,,NetworkHub
+PHM00256,6265496014,9673021,Community Pharmacy #4125,Mail Order,1788 Park St,Durham,NC,50375,In Network,2020-01-28,,NetworkHub
+PHM00257,2762176941,6062438,Community Pharmacy #1343,Independent,8836 Lake St,Tampa,FL,70791,Out of Network,2022-02-07,,NetworkHub
+PHM00258,7418753163,7307832,Walgreens #6686,Hospital,2248 Market St,Miami,FL,44819,In Network,2021-10-27,,NetworkHub
+PHM00259,4317692160,1841386,CarePoint #8164,Specialty,4576 Park St,Buffalo,NY,76619,In Network,2021-09-15,,ProviderMaster
+PHM00260,8084958277,2358515,HealthMart #8404,Specialty,7968 Park St,Rochester,NY,09047,In Network,2021-04-01,,ProviderMaster
+PHM00261,0547842507,9126043,MedCenter Pharmacy #2207,Specialty,1253 Oak St,New York,NY,78704,In Network,2022-04-28,,NetworkHub
+PHM00262,7847346808,3042957,Wellness Rx #8384,Mail Order,7712 Park St,King of Prussia,PA,1234,In Network,2024-01-22,,ProviderMaster
+PHM00263,9681363150,7292149,Community Pharmacy #875,Specialty,7848 Main St,Boulder,CO,59272,In Network,2024-11-05,,NetworkHub
+PHM00264,3262034517,6526798,Regional Specialty Pharmacy #716,Hospital,2777 Pine St,Albany,NY,90840,In Network,2020-04-08,,ProviderMaster
+PHM00265,8291264856,2951346,Community Pharmacy #4454,Retail,9320 Park St,St. Louis,MO,20829,In Network,2024-03-22,,ProviderMaster
+PHM00266,6436356843,1712497,MedCenter Pharmacy #8083,Mail Order,8973 Market St,Fort Walton Beach,FL,03419,Preferred,2022-04-18,,ProviderMaster
+PHM00267,7298661203,1215033,Family Drug #7658,Specialty,6466 Main St,Austin,TX,35139,Out of Network,2023-06-17,,ProviderMaster
+PHM00268,4414307937,4299515,Premier Pharmacy #9976,Independent,3239 Lake St,Austin,TX,94679,Preferred,2022-10-02,,NetworkHub
+PHM00269,1534840065,2920546,CarePoint #4373,Hospital,9372 Main St,Fresno,CA,05136,In Network,2020-02-26,,NetworkHub
+PHM00270,9931833239,8074982,Wellness Rx #1445,Mail Order,2403 Oak St,Colorado Springs,CO,89481,In Network,2024-04-08,,ProviderMaster
+PHM00271,5024890970,4945771,MedCenter Pharmacy #2563,Hospital,4067 Main St,Boulder,CO,13508,Preferred,2023-05-19,,ProviderMaster
+PHM00272,8354002984,6844621,Community Pharmacy #7660,Specialty,7309 Oak St,Austin,TX,29075,In Network,2023-08-10,,NetworkHub
+PHM00273,5864615581,0381124,Premier Pharmacy #8404,Mail Order,9103 Lake St,Philadelphia,PA,93259,Preferred,2022-04-07,,ProviderMaster
+PHM00274,5710758863,6605805,CarePoint #2011,Retail,1737 Park St,Rochester,NY,ABCDE,In Network,2023-07-09,,NetworkHub
+PHM00275,1218685557,1408943,MedCenter Pharmacy #309,Independent,700 Pine St,Columbia,MO,38857,Preferred,2023-12-13,,NetworkHub
+PHM00276,3708281211,0670770,CarePoint #315,Retail,5086 Oak St,Colorado Springs,CO,17501,Preferred,2023-04-10,,NetworkHub
+PHM00277,2067792913,0899315,Community Pharmacy #1480,Retail,3669 Main St,Harrisburg,PA,72505,Out of Network,2025-11-19,,ProviderMaster
+PHM00278,0212959025,7354913,CarePoint #2662,Independent,4420 Pine St,Columbia,MO,32219,In Network,2024-02-21,,NetworkHub
+PHM00279,1117750312,6394528,CarePoint #9952,Specialty,6445 Oak St,Orlando,FL,10846,In Network,2023-05-20,,ProviderMaster
+PHM00280,1941460145,1990935,CarePoint #2781,Hospital,5582 Main St,Sacramento,CA,,Preferred,2022-12-16,,NetworkHub
+PHM00281,7527644644,2712461,CVS Pharmacy #4092,Independent,2620 Lake St,Durham,NC,00069,Preferred,2020-07-17,,NetworkHub
+PHM00282,3616007772,6423859,Regional Specialty Pharmacy #155,Mail Order,9822 Park St,Los Angeles,CA,04933,In Network,2023-08-22,,ProviderMaster
+PHM00283,3405837417,4166654,Walgreens #8978,Retail,3612 Market St,St. Louis,MO,85349,In Network,2025-11-16,,ProviderMaster
+PHM00284,6393008370,8303336,Premier Pharmacy #6053,Mail Order,8170 Park St,Durham,NC,26590,Preferred,2020-05-29,,ProviderMaster
+PHM00285,3303485926,5933581,HealthMart #1957,Retail,2596 Oak St,Harrisburg,PA,63573,In Network,2020-12-12,,ProviderMaster
+PHM00286,6344878520,9427080,Wellness Rx #6626,Hospital,1140 Lake St,New York,NY,30842,In Network,2020-02-28,,ProviderMaster
+PHM00287,7638452464,7107852,Premier Pharmacy #9602,Specialty,1047 Oak St,San Antonio,TX,97495,In Network,2023-11-16,,NetworkHub
+PHM00288,6745653116,3438024,Wellness Rx #7840,Independent,3708 Market St,Albany,NY,86264,In Network,2023-10-04,,NetworkHub
+PHM00289,1128454601,1286189,Wellness Rx #1124,Specialty,4682 Lake St,Rochester,NY,40806,Preferred,2020-03-06,,NetworkHub
+PHM00290,8943609711,7958992,CVS Pharmacy #8802,Retail,2049 Park St,Harrisburg,PA,82183,In Network,2024-09-20,,ProviderMaster
+PHM00291,5372411942,5439346,Wellness Rx #2995,Independent,3630 Market St,Kansas City,MO,98937,In Network,2023-09-02,,NetworkHub
+PHM00292,8096869672,5393818,Community Pharmacy #9088,Independent,7145 Pine St,Sacramento,CA,83939,Preferred,2020-04-21,,NetworkHub
+PHM00293,2082289687,4088944,Wellness Rx #2174,Retail,7593 Market St,Rochester,NY,87888,In Network,2025-10-26,,NetworkHub
+PHM00294,6536874006,6714630,Community Pharmacy #9136,Hospital,3641 Oak St,Chico,CA,15987,Out of Network,2025-02-28,,NetworkHub
+PHM00295,8673472687,1418982,HealthMart #8469,Hospital,2394 Lake St,Jacksonville,FL,99669,In Network,2022-02-20,,ProviderMaster
+PHM00296,9171442039,1749461,CarePoint #7423,Retail,7213 Main St,Kansas City,MO,71872,In Network,2020-07-07,,ProviderMaster
+PHM00297,4186926441,2269364,Premier Pharmacy #1855,Independent,3546 Lake St,Dallas,TX,01366,In Network,2021-12-25,,ProviderMaster
+PHM00298,7772003299,9957026,CVS Pharmacy #3746,Specialty,2743 Main St,New York,NY,33395,In Network,2024-12-22,,ProviderMaster
+PHM00299,5259813511,0188792,Premier Pharmacy #6447,Hospital,425 Main St,King of Prussia,PA,86723,Out of Network,2022-05-24,,ProviderMaster
+PHM00300,8397186701,2027499,MedCenter Pharmacy #6630,Retail,8801 Park St,Houston,TX,03744,In Network,2022-11-11,,ProviderMaster
+PHM00301,8810811528,5595540,Walgreens #8133,Hospital,7742 Main St,Denver,CO,76806,In Network,2021-05-21,,NetworkHub
+PHM00302,6359810864,9509693,CVS Pharmacy #4084,Hospital,6217 Oak St,Columbia,MO,77952,In Network,2021-11-13,,ProviderMaster
+PHM00303,0630093319,8081727,Premier Pharmacy #331,Mail Order,6705 Oak St,New York,NY,61448,In Network,2024-05-13,,NetworkHub
+PHM00304,3616854845,4786440,Premier Pharmacy #9308,Independent,7333 Market St,Boulder,CO,34261,Out of Network,2022-02-04,,NetworkHub
+PHM00305,4652494119,8520001,HealthMart #6381,Mail Order,5899 Oak St,Denver,CO,40652,Preferred,2022-08-05,,NetworkHub
+PHM00306,2051611308,2546629,Wellness Rx #3951,Independent,9026 Oak St,Chico,CA,81176,In Network,2023-11-09,,NetworkHub
+PHM00307,8150114689,6469366,Premier Pharmacy #1370,Mail Order,5018 Oak St,San Antonio,TX,33101,Preferred,2021-06-08,,NetworkHub
+PHM00308,0982664671,3440117,MedCenter Pharmacy #5414,Retail,3463 Lake St,Los Angeles,CA,94852,In Network,2022-11-11,,NetworkHub
+PHM00309,5800679875,5244566,Walgreens #6280,Retail,5779 Park St,Dallas,TX,84754,In Network,2020-09-13,,NetworkHub
+PHM00310,3084449360,2132293,Regional Specialty Pharmacy #7112,Specialty,1498 Main St,Raleigh,NC,68612,Preferred,2021-08-28,,ProviderMaster
+PHM00311,7986777862,7611614,MedCenter Pharmacy #7162,Independent,3661 Lake St,Colorado Springs,CO,93200,In Network,2020-11-15,,NetworkHub
+PHM00312,8318800461,2233082,Regional Specialty Pharmacy #7856,Mail Order,9146 Park St,Charlotte,NC,16567,In Network,2025-07-21,,NetworkHub
+PHM00313,9448116798,0168912,Wellness Rx #802,Independent,3052 Market St,Rochester,NY,45706,In Network,2020-05-17,,NetworkHub
+PHM00314,3184472835,0373617,CarePoint #4315,Mail Order,3569 Market St,Greensboro,NC,42844,In Network,2022-02-20,,ProviderMaster
+PHM00315,4873010890,3910766,Walgreens #5313,Retail,2390 Lake St,Charlotte,NC,90676,In Network,2024-08-28,,NetworkHub
+PHM00316,,5974257,CarePoint #2319,Independent,2681 Oak St,Denver,CO,66874,In Network,2020-02-01,,NetworkHub
+PHM00317,1303771920,5571075,Regional Specialty Pharmacy #9567,Independent,4608 Pine St,Harrisburg,PA,27791,In Network,2023-08-16,,ProviderMaster
+PHM00318,0363061274,9895865,Premier Pharmacy #5419,Specialty,2621 Oak St,San Antonio,TX,53277,In Network,2021-12-05,,NetworkHub
+PHM00319,6752358307,8008443,WALGREENS #303,Independent,7506 Market St,Springfield,MO,55532,In Network,2023-02-15,,NetworkHub
+PHM00320,4449498117,1781247,HealthMart #7398,Hospital,1041 Main St,Rochester,NY,93964,Preferred,2023-07-28,,NetworkHub
+PHM00321,1501393471,5088284,HealthMart #1239,Independent,7100 Pine St,Buffalo,NY,13845,In Network,2020-11-30,,NetworkHub
+PHM00322,5974767544,4837642,CVS Pharmacy #2898,Hospital,5013 Main St,St. Louis,MO,35987,In Network,2024-06-29,,ProviderMaster
+PHM00323,6875775151,6505148,CVS #3164,Mail Order,9992 Park St,Durham,NC,19107,Preferred,2023-06-14,,ProviderMaster
+PHM00324,2784864080,4483210,Family Drug #1428,Independent,195 Pine St,King of Prussia,PA,11203,In Network,2022-08-09,,NetworkHub
+PHM00325,4163003343,3812754,HealthMart #4278,Independent,3942 Park St,San Diego,CA,73104,Preferred,2025-02-14,,ProviderMaster
+PHM00326,4442829625,7340629,MedCenter Pharmacy #578,Hospital,6572 Lake St,Philadelphia,PA,39754,In Network,2023-11-08,,ProviderMaster
+PHM00327,9404829094,5833655,CarePoint #5411,Specialty,6417 Oak St,Boulder,CO,07533,In Network,2020-08-14,,ProviderMaster
+PHM00328,1152469363,2742934,HealthMart #5430,Mail Order,7337 Market St,Harrisburg,PA,50660,In Network,2024-11-03,,NetworkHub
+PHM00329,4964877576,0086638,CarePoint #1814,Mail Order,7430 Main St,King of Prussia,PA,83176,Out of Network,2023-06-11,,ProviderMaster
+PHM00330,0494202930,6372432,Family Drug #2206,Retail,1883 Park St,San Diego,CA,97218,In Network,2024-09-08,,NetworkHub
+PHM00331,3854565650,1025257,Regional Specialty Pharmacy #3698,Specialty,8173 Pine St,Irving,TX,16965,In Network,2022-09-06,,ProviderMaster
+PHM00332,2549690949,2643782,CarePoint #2818,Specialty,4302 Pine St,Fort Walton Beach,FL,24401,In Network,2025-06-14,,NetworkHub
+PHM00333,0507940213,6048563,Wellness Rx #1770,Hospital,3844 Oak St,Charlotte,NC,21230,Preferred,2022-05-19,,NetworkHub
+PHM00334,3797676500,0380194,CarePoint #1691,Retail,314 Oak St,New York,NY,36065,Out of Network,2025-09-06,,NetworkHub
+PHM00335,2307256037,8639743,CVS Pharmacy #262,Independent,6748 Lake St,New York,NY,11507,In Network,2024-05-02,,ProviderMaster
+PHM00336,1562474270,3497387,CarePoint #338,Retail,5064 Market St,Kansas City,MO,13330,In Network,2024-05-24,,NetworkHub
+PHM00337,5605884129,7366953,Wellness Rx #6385,Hospital,3685 Park St,Fort Collins,CO,59641,Preferred,2024-06-30,,ProviderMaster
+PHM00338,4702022627,9372193,CVS Pharmacy #6070,Hospital,5496 Oak St,Fort Walton Beach,FL,00121,In Network,2020-05-10,2023-05-01,NetworkHub
+PHM00339,5700118735,1089063,Wellness Rx #571,Independent,4720 Lake St,Harrisburg,PA,71932,In Network,2023-09-25,,NetworkHub
+PHM00340,8699988019,7133592,Wellness Rx #3582,Retail,4674 Park St,Charlotte,NC,06157,In Network,2020-12-31,,NetworkHub
+PHM00341,3078898204,6057654,MedCenter Pharmacy #6933,Hospital,7183 Pine St,Houston,TX,43367,In Network,2024-03-13,,NetworkHub
+PHM00342,4249502283,3859351,HealthMart #3973,Hospital,550 Oak St,New York,NY,04354,Out of Network,2022-01-01,,ProviderMaster
+PHM00343,6444833126,3085679,Regional Specialty Pharmacy #1161,Retail,2091 Oak St,Columbia,MO,00021,Out of Network,2023-11-26,,NetworkHub
+PHM00344,3386279977,9028744,HealthMart #9762,Mail Order,5552 Park St,San Antonio,TX,56457,In Network,2021-10-31,,NetworkHub
+PHM00345,1327457774,7317624,CVS Pharmacy #6788,Retail,3232 Park St,Tampa,FL,53519,Preferred,2024-01-05,,NetworkHub
+PHM00346,0883464753,0791936,Family Drug #6861,Independent,9202 Main St,Philadelphia,PA,66892,In Network,2021-10-17,,ProviderMaster
+PHM00347,3511548015,0641092,Regional Specialty Pharmacy #8831,Independent,827 Oak St,Buffalo,NY,26005,In Network,2020-04-26,,NetworkHub
+PHM00348,1841154098,1247469,Premier Pharmacy #8849,Independent,462 Market St,Tampa,FL,55620,Out of Network,2023-10-21,,NetworkHub
+PHM00349,1038598457,2847726,Family Drug #1394,Independent,6114 Main St,Charlotte,NC,81287,In Network,2020-01-29,,NetworkHub
+PHM00350,4915392826,2967249,Wellness Rx #9036,Hospital,377 Lake St,Greensboro,NC,59017,In Network,2020-02-09,,NetworkHub
+PHM00351,3425406737,8301937,Regional Specialty Pharmacy #5749,Retail,9010 Lake St,Chico,CA,40529,In Network,2025-10-13,,NetworkHub
+PHM00352,1881012530,7613206,Family Drug #9976,Hospital,6217 Oak St,Orlando,FL,26886,In Network,2022-08-21,,ProviderMaster
+PHM00353,7833007793,2049316,Regional Specialty Pharmacy #312,Independent,2264 Market St,Greensboro,NC,28781,Preferred,2023-12-27,,NetworkHub
+PHM00354,1413512591,2314334,Wellness Rx #4103,Mail Order,6039 Main St,Kansas City,MO,08630,Out of Network,2025-12-27,,NetworkHub
+PHM00355,2359159819,5966963,Wellness Rx #4391,Independent,264 Park St,Columbia,MO,68384,Preferred,2020-11-02,,NetworkHub
+PHM00356,3653625926,8377603,MedCenter Pharmacy #8975,Mail Order,7705 Main St,Boulder,CO,21209,Preferred,2024-06-14,,NetworkHub
+PHM00357,0621371287,2083259,CarePoint #8755,Independent,3468 Oak St,Boulder,CO,62676,Preferred,2021-02-03,,ProviderMaster
+PHM00358,3340801612,0589207,Wellness Rx #3266,Specialty,7443 Pine St,Greensboro,NC,37212,In Network,2020-08-21,,ProviderMaster
+PHM00359,2462709314,5778703,Walgreens #1760,Independent,5416 Park St,Boulder,CO,87951,In Network,2022-04-14,,ProviderMaster
+PHM00360,7244360141,1057499,Wellness Rx #7048,Independent,8879 Market St,Colorado Springs,CO,93465,In Network,2023-06-18,,ProviderMaster
+PHM00361,4093514297,5466697,CarePoint #7885,Independent,5574 Market St,Miami,FL,20866,In Network,2020-07-13,,NetworkHub
+PHM00362,6624626980,7693595,Walgreens #3338,Hospital,7076 Lake St,Harrisburg,PA,14823,In Network,2024-03-01,,NetworkHub
+PHM00363,9633487067,3179339,Community Pharmacy #9782,Specialty,9715 Lake St,Tampa,FL,80065,Preferred,2025-01-20,,NetworkHub
+PHM00364,6713711948,1017294,Premier Pharmacy #501,Mail Order,2220 Oak St,Colorado Springs,CO,66812,Preferred,2024-07-27,,ProviderMaster
+PHM00365,3235461070,5905069,CVS Pharmacy #4427,Mail Order,7804 Pine St,New York,NY,79434,Out of Network,2025-06-05,,ProviderMaster
+PHM00366,3898963033,1467816,CarePoint #1538,Hospital,4563 Lake St,Harrisburg,PA,82683,In Network,2024-08-18,,NetworkHub
+PHM00367,6644199803,0834646,Wellness Rx #5365,Independent,2611 Oak St,King of Prussia,PA,04999,Out of Network,2023-08-27,,NetworkHub
+PHM00368,8972115585,1736581,Walgreens #5332,Specialty,2726 Market St,Sacramento,CA,41622,Out of Network,2025-10-13,,ProviderMaster
+PHM00369,7604719972,2481157,Premier Pharmacy #6632,Hospital,5675 Pine St,Raleigh,NC,06897,Preferred,2024-10-02,,NetworkHub
+PHM00370,6637736588,2100797,MedCenter Pharmacy #5022,Specialty,6764 Market St,Harrisburg,PA,13895,In Network,2022-03-30,,NetworkHub
+PHM00371,0058933675,6235419,CarePoint #5152,Mail Order,9555 Oak St,Orlando,FL,84461,In Network,2021-10-19,,ProviderMaster
+PHM00372,6875391974,8473938,Family Drug #8318,Specialty,1202 Oak St,Los Angeles,CA,27870,In Network,2023-06-20,,NetworkHub
+PHM00373,8143968953,6973526,Wellness Rx #9251,Hospital,412 Pine St,Springfield,MO,18317,In Network,2021-03-02,,NetworkHub
+PHM00374,5887411621,2770756,Wellness Rx #3792,Specialty,6694 Main St,Pittsburgh,PA,91948,Preferred,2022-08-11,,ProviderMaster
+PHM00375,9091096596,4024696,HealthMart #2191,Specialty,7628 Main St,Boulder,CO,36767,In Network,2021-05-04,,ProviderMaster
+PHM00376,8626310465,0552771,CarePoint #4433,Mail Order,2041 Market St,Rochester,NY,46450,In Network,2025-03-07,,ProviderMaster
+PHM00377,0971805584,5577179,Regional Specialty Pharmacy #9510,Specialty,9026 Main St,Fort Collins,CO,81515,In Network,2025-07-16,,ProviderMaster
+PHM00378,8112158095,3549039,MEDCENTER PHARMACY #6583,Independent,4437 Main St,San Diego,CA,57645,In Network,2022-01-02,,NetworkHub
+PHM00379,6593520821,2896231,Community Pharmacy #5572,Hospital,113 Pine St,Albany,NY,60239,In Network,2020-03-19,,NetworkHub
+PHM00380,4024650796,1368641,MedCenter Pharmacy #4632,Mail Order,8179 Market St,Kansas City,MO,94060,Preferred,2025-06-19,,ProviderMaster
+PHM00381,1150633282,0393191,Wellness Rx #8597,Hospital,150 Oak St,St. Louis,MO,73845,Preferred,2022-09-02,,ProviderMaster
+PHM00382,7856819337,9558410,CVS Pharmacy #9036,Mail Order,8501 Park St,Buffalo,NY,51137,Out of Network,2022-07-19,,ProviderMaster
+PHM00383,0797267197,5249883,Walgreens #2968,Specialty,4597 Market St,Fort Walton Beach,FL,89430,In Network,2024-05-30,,ProviderMaster
+PHM00384,0791075489,4574598,Family Drug #2883,Mail Order,6384 Oak St,Pittsburgh,PA,64697,Preferred,2020-01-09,,NetworkHub
+PHM00385,7772798856,6968520,Premier Pharmacy #9422,Hospital,4463 Main St,Boulder,CO,85943,In Network,2024-09-26,,NetworkHub
+PHM00386,3192571222,7523968,Community Pharmacy #6871,Independent,4332 Pine St,Harrisburg,PA,04643,Preferred,2021-03-15,,ProviderMaster
+PHM00387,6330813140,5114162,MedCenter Pharmacy #865,Hospital,2092 Oak St,Houston,TX,32418,In Network,2025-06-30,,NetworkHub
+PHM00388,1481343811,0379114,Regional Specialty Pharmacy #9653,Mail Order,6961 Park St,Los Angeles,CA,62457,In Network,2025-01-29,,ProviderMaster
+PHM00389,7378598311,0157263,MedCenter Pharmacy #306,Mail Order,8558 Oak St,Austin,TX,97424,In Network,2025-03-01,,ProviderMaster
+PHM00390,7215278928,1787519,WALGREENS #2507,Independent,8771 Main St,San Antonio,TX,56210,In Network,2022-04-11,,ProviderMaster
+PHM00391,9946004362,3456322,Regional Specialty Pharmacy #8820,Specialty,6998 Pine St,San Antonio,TX,34300,In Network,2024-06-27,,ProviderMaster
+PHM00392,0724911933,0058373,Family Drug #3459,Specialty,9455 Park St,Springfield,MO,75362,In Network,2020-03-08,,ProviderMaster
+PHM00393,3817159617,9053792,MedCenter Pharmacy #6088,Specialty,8090 Market St,Kansas City,MO,70152,In Network,2020-01-23,,ProviderMaster
+PHM00394,8899847904,9505610,Community Pharmacy #9729,Hospital,4610 Lake St,Chico,CA,1234,In Network,2023-11-21,,ProviderMaster
+PHM00395,6891737421,1268747,HealthMart #5737,Independent,6122 Oak St,Sacramento,CA,53275,Preferred,2022-08-22,,NetworkHub
+PHM00396,1020189276,2850363,Wellness Rx #1938,Retail,9673 Pine St,Fort Collins,CO,07574,In Network,2024-02-12,,NetworkHub
+PHM00397,6308829195,9771736,Family Drug #4436,Specialty,2624 Oak St,Pittsburgh,PA,86582,Preferred,2022-01-09,,ProviderMaster
+PHM00398,2587127390,1181476,Premier Pharmacy #8773,Mail Order,2761 Lake St,Los Angeles,CA,01136,In Network,2020-06-02,,ProviderMaster
+PHM00399,0029915786,3087602,HealthMart #1280,Mail Order,9202 Oak St,Orlando,FL,01609,In Network,2020-04-06,,ProviderMaster
+PHM00400,9173724541,3106618,Family Drug #8412,Retail,5853 Park St,Sacramento,CA,12581,In Network,2022-11-25,,ProviderMaster
+PHM00401,9041628388,1111936,CVS Pharmacy #2988,Specialty,7434 Park St,Buffalo,NY,19986,Preferred,2024-07-07,,ProviderMaster
+PHM00402,1556163831,9698700,Family Drug #1359,Independent,5049 Main St,New York,NY,91633,In Network,2024-06-23,,NetworkHub
+PHM00403,7740592091,3346473,CVS Pharmacy #8441,Mail Order,6882 Lake St,Jacksonville,FL,86244,In Network,2025-12-12,,NetworkHub
+PHM00404,5583545677,2090599,Regional Specialty Pharmacy #926,Mail Order,5464 Park St,Raleigh,NC,03888,In Network,2020-09-28,,NetworkHub
+PHM00405,2189928019,7309376,Premier Pharmacy #5373,Independent,1353 Oak St,New York,NY,08803,In Network,2020-08-13,,NetworkHub
+PHM00406,0058117762,4376218,Walgreens #691,Hospital,3660 Lake St,King of Prussia,PA,07508,In Network,2021-10-15,,NetworkHub
+PHM00407,6858957419,5912621,Family Drug #878,Mail Order,4640 Park St,Pittsburgh,PA,75884,In Network,2024-03-08,,NetworkHub
+PHM00408,3681861106,8025057,MedCenter Pharmacy #6592,Mail Order,5881 Oak St,Raleigh,NC,35602,Out of Network,2020-06-11,,ProviderMaster
+PHM00409,9557039032,3177970,Community Pharmacy #7054,Hospital,7984 Park St,Los Angeles,CA,47181,Preferred,2023-01-01,,ProviderMaster
+PHM00410,1423564613,8867195,Community Pharmacy #6225,Independent,8305 Main St,San Diego,CA,76937,In Network,2023-01-20,,ProviderMaster
+PHM00411,3384873260,1648185,CVS Pharmacy #6992,Mail Order,4384 Park St,Charlotte,NC,97003,Out of Network,2024-09-12,,ProviderMaster
+PHM00412,9123017242,8611508,Wellness Rx #604,Independent,9303 Oak St,Harrisburg,PA,48913,Preferred,2022-07-27,,ProviderMaster
+PHM00413,8936528666,7280821,Regional Specialty Pharmacy #9427,Mail Order,866 Park St,Fort Collins,CO,30340,In Network,2021-09-17,,NetworkHub
+PHM00414,4694079971,3394742,HealthMart #147,Specialty,6958 Lake St,Pittsburgh,PA,01463,In Network,2021-10-10,,ProviderMaster
+PHM00415,0639344089,6260042,CVS Pharmacy #2653,Hospital,608 Oak St,Miami,FL,78562,In Network,2024-08-22,,NetworkHub
+PHM00416,8093713446,1636307,Walgreens #6265,Independent,1759 Lake St,Tampa,FL,50663,Preferred,2022-03-06,,NetworkHub
+PHM00417,9977314181,9450481,Wellness Rx #1435,Specialty,7398 Park St,Kansas City,MO,49029,In Network,2025-04-16,,NetworkHub
+PHM00418,4513399508,0858664,Premier Pharmacy #6586,Hospital,6177 Oak St,Fort Collins,CO,43557,In Network,2025-04-27,,ProviderMaster
+PHM00419,1141553864,2698981,Family Drug #3824,Specialty,4313 Oak St,Rochester,NY,66447,In Network,2021-12-02,,ProviderMaster
+PHM00420,9045024243,1419948,HealthMart #2668,Specialty,6941 Park St,Philadelphia,PA,77032,In Network,2024-04-05,,NetworkHub
+PHM00421,2828742940,1388539,Wellness Rx #5813,Independent,8155 Main St,Albany,NY,92916,In Network,2022-04-23,,ProviderMaster
+PHM00422,8851691954,0856786,CarePoint #5296,Hospital,239 Oak St,Dallas,TX,25920,Preferred,2024-09-05,,ProviderMaster
+PHM00423,4650790371,4632825,PREMIER PHARMACY #4217,Independent,3978 Pine St,Albany,NY,27776,In Network,2020-11-18,,ProviderMaster
+PHM00424,2966514512,8043834,Community Pharmacy #9730,Hospital,7705 Lake St,Fort Collins,CO,00906,Out of Network,2021-03-18,,ProviderMaster
+PHM00425,3398101560,9946517,Family Drug #4823,Independent,1936 Market St,Greensboro,NC,91005,Out of Network,2021-08-08,,NetworkHub
+PHM00426,1812327924,9352745,Wellness Rx #649,Retail,3456 Pine St,Fresno,CA,31168,In Network,2020-10-23,,NetworkHub
+PHM00427,2357379484,7866453,Premier Pharmacy #9964,Mail Order,481 Park St,San Antonio,TX,60105,In Network,2022-05-27,,NetworkHub
+PHM00428,5286930137,3063713,Walgreens #7052,Mail Order,5499 Oak St,Rochester,NY,03478,Preferred,2024-11-22,,NetworkHub
+PHM00429,5365126880,8473318,Premier Pharmacy #5612,Hospital,953 Lake St,Columbia,MO,49411,In Network,2021-05-02,,NetworkHub
+PHM00430,3352689928,4890600,Wellness Rx #7662,Retail,7127 Oak St,St. Louis,MO,87274,In Network,2021-12-26,,ProviderMaster
+PHM00431,5363648913,6000136,HealthMart #2841,Independent,1099 Pine St,Houston,TX,41193,In Network,2024-09-17,,NetworkHub
+PHM00432,9998271903,6821141,Regional Specialty Pharmacy #7321,Specialty,9623 Park St,Pittsburgh,PA,87894,In Network,2023-07-21,,ProviderMaster
+PHM00433,4155693722,2058672,Wellness Rx #8034,Specialty,4617 Main St,San Diego,CA,09002,Preferred,2024-08-28,,NetworkHub
+PHM00434,8112558734,1592398,Premier Pharmacy #926,Specialty,8386 Market St,Fort Walton Beach,FL,57121,In Network,2021-01-08,,ProviderMaster
+PHM00435,3861872810,6429041,CarePoint #4282,Independent,7790 Oak St,Rochester,NY,55020,Preferred,2021-05-27,,ProviderMaster
+PHM00436,6742455446,6920020,CarePoint #6951,Independent,3992 Pine St,Sacramento,CA,12673,Out of Network,2024-07-04,,ProviderMaster
+PHM00437,1782273257,0574392,Premier Pharmacy #205,Mail Order,436 Market St,Harrisburg,PA,30181,In Network,2025-05-07,,ProviderMaster
+PHM00438,0431206859,5421859,Walgreens #6497,Retail,2406 Oak St,Springfield,MO,85110,Preferred,2023-04-07,,NetworkHub
+PHM00439,3747924303,7878951,CVS Pharmacy #461,Retail,4506 Pine St,Raleigh,NC,67098,In Network,2021-07-29,,ProviderMaster
+PHM00440,6142793719,6986849,CVS Pharmacy #5382,Independent,2347 Pine St,Fort Walton Beach,FL,52683,Out of Network,2022-09-11,,NetworkHub
+PHM00441,4930536449,7294641,Walgreens #8079,Specialty,5231 Park St,Fort Collins,CO,96632,Out of Network,2023-08-15,,NetworkHub
+PHM00442,7002503460,2328671,Community Pharmacy #861,Hospital,5816 Lake St,King of Prussia,PA,02915,Preferred,2020-10-03,,ProviderMaster
+PHM00443,0243864902,3356356,CVS Pharmacy #5801,Mail Order,2419 Main St,Charlotte,NC,11530,In Network,2024-06-08,,NetworkHub
+PHM00444,5653841439,7444405,Regional Specialty Pharmacy #9902,Mail Order,541 Main St,Tampa,FL,94763,In Network,2025-02-25,,ProviderMaster
+PHM00445,2515527340,8840086,CarePoint #2327,Independent,7898 Oak St,Columbia,MO,30243,In Network,2022-09-20,,ProviderMaster
+PHM00446,0767021742,6833904,HealthMart #7021,Mail Order,358 Lake St,Miami,FL,61061,Preferred,2021-07-23,,NetworkHub
+PHM00447,0248401498,8586864,Family Drug #5613,Specialty,6548 Oak St,Columbia,MO,61861,Out of Network,2020-12-29,,ProviderMaster
+PHM00448,7542694636,1440450,MedCenter Pharmacy #9382,Specialty,5864 Lake St,Charlotte,NC,36860,In Network,2021-12-31,,NetworkHub
+PHM00449,9947293853,7306373,Community Pharmacy #9449,Mail Order,9299 Lake St,Pittsburgh,PA,77273,In Network,2025-08-18,,ProviderMaster
+PHM00450,3963465975,1393640,CarePoint #4251,Hospital,7014 Oak St,Tampa,FL,81019,In Network,2023-08-27,,ProviderMaster
+PHM00451,4798728187,4061807,Premier Pharmacy #265,Independent,1971 Lake St,Harrisburg,PA,68936,In Network,2020-05-25,,NetworkHub
+PHM00452,3951242218,8156628,Walgreens #537,Mail Order,7720 Oak St,Sacramento,CA,83450,In Network,2021-12-10,,NetworkHub
+PHM00453,1796485436,5104300,HealthMart #6839,Specialty,7571 Market St,Los Angeles,CA,72126,In Network,2025-07-15,,NetworkHub
+PHM00454,3299270890,5895306,CVS Pharmacy #8280,Independent,1017 Market St,Charlotte,NC,14920,In Network,2023-01-29,,ProviderMaster
+PHM00455,3237157968,2099770,Regional Specialty Pharmacy #2332,Hospital,3233 Park St,Kansas City,MO,99560,Preferred,2023-10-17,,NetworkHub
+PHM00456,5920056438,9007858,HealthMart #3512,Hospital,3975 Market St,New York,NY,67507,In Network,2023-04-27,,NetworkHub
+PHM00457,6441489314,0252787,Community Pharmacy #4107,Hospital,7901 Lake St,Irving,TX,59078,Out of Network,2025-05-26,,NetworkHub
+PHM00458,0110362264,1025473,Regional Specialty Pharmacy #9649,Hospital,6930 Oak St,Austin,TX,92797,In Network,2023-07-22,,NetworkHub
+PHM00459,2652650976,2219272,Regional Specialty Pharmacy #6884,Hospital,2475 Market St,Jacksonville,FL,38196,In Network,2021-09-10,,NetworkHub
+PHM00460,6414023802,6483021,Premier Pharmacy #7576,Independent,5144 Oak St,Buffalo,NY,40353,In Network,2020-03-15,,NetworkHub
+PHM00461,0689985738,4477013,Community Pharmacy #6713,Mail Order,5017 Market St,Greensboro,NC,76894,Preferred,2021-02-19,,ProviderMaster
+PHM00462,5551379107,9025336,Walgreens #1228,Hospital,9252 Park St,Greensboro,NC,36786,In Network,2025-06-04,,ProviderMaster
+PHM00463,1532144494,8209263,HealthMart #4624,Mail Order,9403 Oak St,Springfield,MO,01728,In Network,2020-11-28,,ProviderMaster
+PHM00464,1616010685,0707226,MedCenter Pharmacy #5971,Independent,3072 Park St,Buffalo,NY,83763,In Network,2022-03-23,,ProviderMaster
+PHM00465,0452338468,1373464,Family Drug #2958,Independent,7120 Pine St,Fresno,CA,96109,Out of Network,2024-07-12,,ProviderMaster
+PHM00466,9068575532,8073900,HealthMart #2447,Retail,722 Lake St,Albany,NY,92555,In Network,2025-02-10,,NetworkHub
+PHM00467,4785045428,2227347,Regional Specialty Pharmacy #9491,Specialty,9491 Lake St,Fort Collins,CO,12783,In Network,2020-08-23,,ProviderMaster
+PHM00468,3596644581,5745122,CarePoint #1461,Independent,7010 Main St,Austin,TX,30495,Out of Network,2020-12-22,,NetworkHub
+PHM00469,6788012597,1046918,HealthMart #5460,Specialty,6167 Park St,Philadelphia,PA,99345,In Network,2025-06-30,,ProviderMaster
+PHM00470,7188569073,4448241,Premier Pharmacy #9260,Specialty,5247 Market St,Orlando,FL,17990,In Network,2024-01-05,,ProviderMaster
+PHM00471,8536345590,2358584,Premier Pharmacy #1853,Independent,2930 Pine St,Orlando,FL,33118,Out of Network,2022-02-26,,NetworkHub
+PHM00472,7925560212,4829979,MedCenter Pharmacy #823,Mail Order,3973 Main St,Denver,CO,61287,In Network,2020-04-24,,NetworkHub
+PHM00473,0995708029,5758217,MedCenter Pharmacy #6116,Independent,786 Lake St,Irving,TX,84428,In Network,2023-03-21,,ProviderMaster
+PHM00474,9713077352,6577394,Family Drug #7618,Retail,5716 Market St,St. Louis,MO,97386,In Network,2022-03-14,,ProviderMaster
+PHM00475,8060139621,8721898,Premier Pharmacy #9282,Hospital,5850 Park St,Buffalo,NY,70052,Out of Network,2025-11-15,,NetworkHub
+PHM00476,1423564613,2247334,Regional Specialty Pharmacy #3557,Independent,4925 Pine St,King of Prussia,PA,01872,Out of Network,2020-12-10,,ProviderMaster
+PHM00477,9361431677,4844225,HealthMart #6648,Specialty,8494 Pine St,Harrisburg,PA,87072,Preferred,2024-08-19,,ProviderMaster
+PHM00478,3343927383,4512696,Wellness Rx #4777,Retail,5972 Pine St,Buffalo,NY,36078,In Network,2022-05-12,,ProviderMaster
+PHM00479,0797565311,5828932,CVS Pharmacy #1535,Mail Order,3951 Park St,Miami,FL,79009,In Network,2024-05-29,,NetworkHub
+PHM00480,1341327221,7617200,Premier Pharmacy #9495,Retail,4644 Lake St,Durham,NC,77408,Preferred,2020-01-19,,ProviderMaster
+PHM00481,6177163350,2226420,Family Drug #550,Specialty,9384 Main St,Fort Collins,CO,95495,In Network,2025-12-18,,ProviderMaster
+PHM00482,2043351293,2356389,Premier Pharmacy #2269,Mail Order,4693 Lake St,Austin,TX,01842,In Network,2024-07-07,,NetworkHub
+PHM00483,1647527233,1354067,Family Drug #6393,Specialty,1091 Park St,Pittsburgh,PA,75363,Preferred,2021-10-19,,NetworkHub
+PHM00484,7589016371,7149041,CVS Pharmacy #3151,Independent,2126 Market St,San Diego,CA,84753,Out of Network,2023-04-14,,NetworkHub
+PHM00485,2429656361,5267524,Community Pharmacy #7699,Mail Order,9708 Main St,Albany,NY,99781,In Network,2025-08-03,,NetworkHub
+PHM00486,5804109316,5304135,CarePoint #8681,Hospital,2220 Park St,Rochester,NY,26928,In Network,2024-03-13,,ProviderMaster
+PHM00487,8536425601,7221757,CarePoint #3059,Retail,981 Market St,Rochester,NY,37528,In Network,2024-03-20,,ProviderMaster
+PHM00488,8641790811,8380546,HealthMart #6880,Specialty,8296 Pine St,Austin,TX,35153,In Network,2020-08-28,,NetworkHub
+PHM00489,3435588998,7854765,CVS Pharmacy #2211,Mail Order,3407 Lake St,Pittsburgh,PA,43034,In Network,2023-04-24,,ProviderMaster
+PHM00490,6725993170,4503032,Community Pharmacy #6306,Hospital,1494 Oak St,Houston,TX,96024,In Network,2020-02-20,,ProviderMaster
+PHM00491,0626988996,4487800,Regional Specialty Pharmacy #7323,Independent,7424 Oak St,Raleigh,NC,81781,In Network,2023-11-07,,ProviderMaster
+PHM00492,4806005916,0883795,Regional Specialty Pharmacy #1243,Mail Order,8964 Main St,Miami,FL,95948,In Network,2020-12-18,,ProviderMaster
+PHM00493,6085704215,1780233,CarePoint #4344,Specialty,3862 Market St,Raleigh,NC,56541,Out of Network,2025-03-12,,NetworkHub
+PHM00494,0715977230,7286917,Wellness Rx #3409,Specialty,1258 Oak St,Chico,CA,10711,In Network,2022-07-13,,NetworkHub
+PHM00495,3218126245,3646808,CarePoint #2621,Hospital,5468 Market St,Irving,TX,35273,Preferred,2021-02-25,,ProviderMaster
+PHM00496,,4016115,Community Pharmacy #4286,Hospital,5016 Main St,Boulder,CO,33507,In Network,2023-05-26,,ProviderMaster
+PHM00497,6804361934,1084543,CVS Pharmacy #3458,Specialty,1425 Park St,Sacramento,CA,82336,In Network,2023-05-24,,NetworkHub
+PHM00498,3987954794,0598991,Walgreens #6723,Retail,4405 Pine St,Kansas City,MO,97139,Preferred,2022-09-08,,NetworkHub
+PHM00499,9378410183,0220268,Wellness Rx #6695,Mail Order,7231 Lake St,Orlando,FL,34346,Out of Network,2025-04-23,,ProviderMaster
+PHM00500,,7887430,Family Drug #1777,Hospital,5923 Market St,Colorado Springs,CO,47526,Out of Network,2025-01-02,,ProviderMaster

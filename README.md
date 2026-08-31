@@ -216,7 +216,7 @@ Each detected exception can be associated with:
 
 This allows data-quality issues to become **visible and actionable instead of being silently corrected during reporting**.
 
-For additional details, see [`documentation/data-quality-rules.md`](documentation/data-quality-rules.md).
+For additional details, see Data Quality Rules under the Documentation folder.
 
 ---
 

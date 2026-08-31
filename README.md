@@ -394,10 +394,10 @@ pharmacy-data-governance-platform/
 
 Additional project documentation is available in the `documentation` folder:
 
-- [`Architecture`](Documentation/architecture.md.docx) — End-to-end technical architecture and layer design
-- [`Data Quality Rules`](Documentation/data quality rules.docx) — Data-quality rule catalog and exception framework
-- [`Data Dictionary`](Documentation/data dictionary.md.docx) — Definitions of key tables, fields, and reporting objects
-- [`Data Lineage`](Documentation/lineage.md.docx) — Source-to-report data movement and downstream impact
+- Architecture — End-to-end technical architecture and layer design
+- Data Quality Rules — Data-quality rule catalog and exception framework
+- Data Dictionary — Definitions of key tables, fields, and reporting objects
+- Data Lineage — Source-to-report data movement and downstream impact
 
 ---
 

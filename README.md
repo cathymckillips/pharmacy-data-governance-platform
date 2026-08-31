@@ -228,7 +228,7 @@ The final Power BI report contains **three pages**, each designed to answer a di
 
 ## 1. Executive Governance Overview
 
-![Executive Governance Overview](images/executive-governance.png)
+![Executive Governance Overview](images/executive-governance.jpg)
 
 Provides an executive view of overall data-governance health, including:
 
@@ -254,7 +254,7 @@ One of the primary metrics is the percentage of pharmacy claims that successfull
 
 ## 2. Data Quality & Exception Management
 
-![Data Quality and Exception Management](images/data-quality-exceptions.png)
+![Data Quality and Exception Management](images/data-quality-exceptions.jpg)
 
 Designed as an operational governance workspace for investigating data-quality problems.
 
@@ -276,7 +276,7 @@ The page provides both summarized rule-level information and record-level except
 
 ## 3. Medication & Claims Analytics
 
-![Medication and Claims Analytics](images/medication-claims-analytics.png)
+![Medication and Claims Analytics](images/medication-claims-analytics.jpg)
 
 Demonstrates the analytical value created **after governance has been applied**.
 

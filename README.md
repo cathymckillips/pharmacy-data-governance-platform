@@ -276,7 +276,7 @@ The page provides both summarized rule-level information and record-level except
 
 ## 3. Medication & Claims Analytics
 
-![Medication and Claims Analytics](Images/medication-claims-analytics.jpg)
+![Medication and Claims Analytics](Images/medication-claims-analystics.jpg)
 
 Demonstrates the analytical value created **after governance has been applied**.
 
